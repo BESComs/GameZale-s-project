@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: e26b5ef659f2d3f469c6d5bf688fa141
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1472724019764358864
+    second: logicheskaya_cepochka_1_0
+  - first:
+      213: 8317777742561835804
+    second: logicheskaya_cepochka_1_1
+  - first:
+      213: 6979992382595011857
+    second: logicheskaya_cepochka_1_2
+  - first:
+      213: 125010319057641369
+    second: logicheskaya_cepochka_1_3
+  - first:
+      213: 6853749547233809320
+    second: logicheskaya_cepochka_1_4
+  - first:
+      213: -4880507161387172298
+    second: logicheskaya_cepochka_1_5
+  - first:
+      213: 2908252397568555365
+    second: logicheskaya_cepochka_1_6
+  - first:
+      213: 1942688463352058733
+    second: logicheskaya_cepochka_1_7
+  - first:
+      213: -4089468126866748314
+    second: logicheskaya_cepochka_1_8
+  - first:
+      213: -1169293716229733225
+    second: logicheskaya_cepochka_1_9
+  - first:
+      213: -9050753350455224559
+    second: logicheskaya_cepochka_1_10
+  - first:
+      213: 249411581810743038
+    second: logicheskaya_cepochka_1_11
+  - first:
+      213: 3348901989499383178
+    second: logicheskaya_cepochka_1_12
+  - first:
+      213: -5073113001603524544
+    second: logicheskaya_cepochka_1_13
+  - first:
+      213: -1636943679116741979
+    second: logicheskaya_cepochka_1_14
+  - first:
+      213: -1794286844881534322
+    second: logicheskaya_cepochka_1_15
+  - first:
+      213: 8508517461609467876
+    second: logicheskaya_cepochka_1_16
+  - first:
+      213: -6098890079962691135
+    second: logicheskaya_cepochka_1_17
+  - first:
+      213: 2635041702212133712
+    second: logicheskaya_cepochka_1_18
+  - first:
+      213: -988647374420394272
+    second: logicheskaya_cepochka_1_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1557
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceeb728b5913654cb484cc06a03526f
+      internalID: -1472724019764358864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1557
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f3f9d4ae296649a933baa0301733e
+      internalID: 8317777742561835804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1557
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0f47f1cee74d4f90d4aad28d5d93d
+      internalID: 6979992382595011857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1557
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e90e71ab3d164488fe0cf30ec70dea
+      internalID: 125010319057641369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1557
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceab5a7c3fcf7e48b76f93a705f01f7
+      internalID: 6853749547233809320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1057
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b9294377e5d44429ba45eaabb34e57
+      internalID: -4880507161387172298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1057
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69052a571b80a4a956ff45988197cf
+      internalID: 2908252397568555365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_7
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1057
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e47c050b412e0f4299dbd197f4dcca6
+      internalID: 1942688463352058733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_8
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1057
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88506ce48a8cc44980a49e38ad503a1
+      internalID: -4089468126866748314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_9
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1057
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b8b0d398f5484b9a34beafed28ef5
+      internalID: -1169293716229733225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 564
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1a51212f488547865502abadbd1a1
+      internalID: -9050753350455224559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 564
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2524f4af4c6017438c3d45736a0e62e
+      internalID: 249411581810743038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 564
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c641460c726c404881ba9a8af101c80
+      internalID: 3348901989499383178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_13
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 564
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e9cf15c8a10044a2e64aafc91b285
+      internalID: -5073113001603524544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_14
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 564
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35bfdc8d41fee64ea26f056ef6b5173
+      internalID: -1636943679116741979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9174024ac6d94fb30d62f783713f2
+      internalID: -1794286844881534322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 71
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0bc8fb0b289ea40adcdf8e1b012ee3
+      internalID: 8508517461609467876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 71
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991ed8cd7c32e804fba5ec8609a3b6a1
+      internalID: -6098890079962691135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_18
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 71
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7617f77f182c2439f78e7acfdbef03
+      internalID: 2635041702212133712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logicheskaya_cepochka_1_19
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 71
+        width: 353
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f676ccc92e27da54ab0fae30d6b173ef
+      internalID: -988647374420394272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd4b2c114af8b5f40996c87a0eefcb92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

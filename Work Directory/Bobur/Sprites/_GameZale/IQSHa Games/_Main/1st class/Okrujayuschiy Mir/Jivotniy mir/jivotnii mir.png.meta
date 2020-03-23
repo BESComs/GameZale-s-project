@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f597d6ef40f0364449fc21d711a4410e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8614101206991821754
+    second: jivotnii mir_0
+  - first:
+      213: 2285469262226299402
+    second: jivotnii mir_1
+  - first:
+      213: -804485465238368457
+    second: jivotnii mir_2
+  - first:
+      213: -6945362062447982393
+    second: jivotnii mir_3
+  - first:
+      213: 5798157226845268845
+    second: jivotnii mir_4
+  - first:
+      213: -1876303213342378853
+    second: jivotnii mir_5
+  - first:
+      213: -3294145478313684547
+    second: jivotnii mir_6
+  - first:
+      213: 3074063995395913726
+    second: jivotnii mir_7
+  - first:
+      213: -6618455155310024699
+    second: jivotnii mir_8
+  - first:
+      213: -7503709074371720071
+    second: jivotnii mir_9
+  - first:
+      213: 393772032933982425
+    second: jivotnii mir_10
+  - first:
+      213: -4547880388599311657
+    second: jivotnii mir_11
+  - first:
+      213: -1383610799459174304
+    second: jivotnii mir_12
+  - first:
+      213: 1606530137560591316
+    second: jivotnii mir_13
+  - first:
+      213: 4000442864998557782
+    second: jivotnii mir_14
+  - first:
+      213: 4945324803926829372
+    second: jivotnii mir_15
+  - first:
+      213: -3091327479230056643
+    second: jivotnii mir_16
+  - first:
+      213: -1216613142821832535
+    second: jivotnii mir_17
+  - first:
+      213: -4493631613356452639
+    second: jivotnii mir_18
+  - first:
+      213: 9052854504959726814
+    second: jivotnii mir_19
+  - first:
+      213: 4523088594075190633
+    second: jivotnii mir_20
+  - first:
+      213: -501801067883466905
+    second: jivotnii mir_21
+  - first:
+      213: 3316326266999489182
+    second: jivotnii mir_22
+  - first:
+      213: 2208595277561637627
+    second: jivotnii mir_23
+  - first:
+      213: -1282978728239367875
+    second: jivotnii mir_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jivotnii mir_0
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3585
+        width: 356
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fead38c0f489742a7f43e97ce24c09
+      internalID: 8614101206991821754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3584
+        width: 405
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db61c045db1857458c147a792f0669a
+      internalID: 2285469262226299402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_2
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3451
+        width: 413
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7dbc6a1410304fb667a40292d6c01
+      internalID: -804485465238368457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_3
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 3601
+        width: 352
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c4a51e451c22489511f7cd9156f29
+      internalID: -6945362062447982393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_4
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3567
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08376cc3dd95ccc4c8f1c609e78805b0
+      internalID: 5798157226845268845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2494
+        width: 1743
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747a49a9bb8c9924eb7133a515da57b2
+      internalID: -1876303213342378853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_6
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2465
+        width: 1922
+        height: 988
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909aab91036ea04dab31f7f49d501ba
+      internalID: -3294145478313684547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2229
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0ceff3baf01d4592adbf8b9db46d4
+      internalID: 3074063995395913726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1631
+        width: 1280
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4f0b3d065681479083ec5902dbed8
+      internalID: -6618455155310024699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_9
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1263
+        width: 1721
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d726120911594daf3afb83999e051
+      internalID: -7503709074371720071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2077
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc09c416d75974c92438e72967c905
+      internalID: 393772032933982425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1903
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1c3e206ef07b409dc11889568d2c6
+      internalID: -4547880388599311657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1899
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321c57060bc0e942aadb4ca5a40e990
+      internalID: -1383610799459174304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1809
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3617d7432baf9734e8f87aebbe27aae1
+      internalID: 1606530137560591316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1735
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb07c32e168904ead87f640d3be5cf
+      internalID: 4000442864998557782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 733
+        width: 424
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6537a5ede3e447afbc492afb8be5f
+      internalID: 4945324803926829372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 701
+        width: 556
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32bd60d617114f4ca090931ad69ba67
+      internalID: -3091327479230056643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_17
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 808
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b95b359682e940ad9a9d78ec49f75
+      internalID: -1216613142821832535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_18
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 283
+        width: 832
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b943f44d249cb48aa683c8b7d5c60c
+      internalID: -4493631613356452639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 622
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc495944b81594c94d9bfd4c4d3336
+      internalID: 9052854504959726814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 249
+        width: 362
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830fde5ffda9584085f9efe26ad18b9
+      internalID: 4523088594075190633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_21
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 233
+        width: 583
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629a1450a0b4b64e81e95a8dd2ce3fe
+      internalID: -501801067883466905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_22
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 590
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5ca4834598f043801d9a8c28b553b
+      internalID: 3316326266999489182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_23
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e40eb06071a5418f16d987f3d02a9
+      internalID: 2208595277561637627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jivotnii mir_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 194
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0a410afbf129344a555422769135f5
+      internalID: -1282978728239367875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 56a4124021e770d43a0bc2bfd438ef50
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

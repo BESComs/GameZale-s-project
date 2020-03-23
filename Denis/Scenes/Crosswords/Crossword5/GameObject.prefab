@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &923936394242599711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 923936394242599698}
+  - component: {fileID: 923936394242599709}
+  - component: {fileID: 923936394242599708}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &923936394242599698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923936394242599711}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &923936394242599709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923936394242599711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8819130857489b241ad1b3c179a44400, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fadeGame: 0
+  replayButton: {fileID: 0}
+  finalScene: {fileID: 0}
+  audioPrefab: {fileID: 0}
+  boxBackFonSprite: {fileID: 192076040223226520, guid: 4b5c33b939b178b4d911b0c43e7e6a4e,
+    type: 3}
+  inTask: 0
+  fourWordOnePictureLevels:
+  - pics:
+    - {fileID: -6453689329482363007, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u0410\u043A\u0443\u043B\u0430"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 5237694606100070253, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u0427\u0435\u0440\u0435\u043F\u0430\u0445\u0430"
+    numberOfChars: 10
+  - pics:
+    - {fileID: -7859269502445334376, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u041A\u0430\u043B\u044C\u043C\u0430\u0440"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 8509840097635974106, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u0441\u043A\u0430\u0442"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 8264854601959126008, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u0440\u044B\u0431\u0430"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 1731417510321455194, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u043A\u0440\u0430\u0431"
+    numberOfChars: 10
+  - pics:
+    - {fileID: -6376292228691306063, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u0434\u0435\u043B\u044C\u0444\u0438\u043D"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 728247366050064229, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u043C\u0435\u0434\u0443\u0437\u0430"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 5239669433968518937, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u043A\u0440\u0435\u0432\u0435\u0442\u043A\u0430"
+    numberOfChars: 10
+  - pics:
+    - {fileID: 4193606726140660032, guid: 238fe607ff85b5b45bd9c4b2016c090b, type: 3}
+    correctAnswer: "\u043E\u0441\u044C\u043C\u0438\u043D\u043E\u0433"
+    numberOfChars: 10
+  picsSize: {x: 4, y: 4}
+  picsMargin: {x: 0, y: 0}
+  textMeshProPrefab: {fileID: 5607595652874051490, guid: 96287868df23ae1448fd42496bfd6ce4,
+    type: 3}
+  charsMargins: {x: 0.25, y: 0.25}
+  wordFrame: {fileID: 21300016, guid: 96d19def1dd8d2a4b8495499d45e5818, type: 3}
+--- !u!114 &923936394242599708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923936394242599711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6810039d7084106a18a659025415818, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fadeGame: 0
+  replayButton: {fileID: 0}
+  finalScene: {fileID: 0}
+  audioPrefab: {fileID: 0}

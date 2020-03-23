@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 01429275a5fec5742963c96e5e9df63e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8125766148631366520
+    second: transport_0
+  - first:
+      213: -6850060665007539050
+    second: transport_1
+  - first:
+      213: 3608130373055843449
+    second: transport_2
+  - first:
+      213: 4416649854952256431
+    second: transport_3
+  - first:
+      213: -7184793835846482753
+    second: transport_4
+  - first:
+      213: -6428960870180810807
+    second: transport_5
+  - first:
+      213: 5481544099201730695
+    second: transport_6
+  - first:
+      213: 3730920832346000108
+    second: transport_7
+  - first:
+      213: -8668818323602329994
+    second: transport_8
+  - first:
+      213: 4808612004046662206
+    second: transport_9
+  - first:
+      213: 8582659245761876843
+    second: transport_10
+  - first:
+      213: -4180266793652442212
+    second: transport_11
+  - first:
+      213: -6894803288207802867
+    second: transport_12
+  - first:
+      213: 4449297975044696448
+    second: transport_13
+  - first:
+      213: 3585694557995312799
+    second: transport_14
+  - first:
+      213: 7672510226712528121
+    second: transport_15
+  - first:
+      213: -1746103386857705579
+    second: transport_16
+  - first:
+      213: -6030637596396041115
+    second: transport_17
+  - first:
+      213: 7113029579552424317
+    second: transport_18
+  - first:
+      213: -4576352069237207150
+    second: transport_19
+  - first:
+      213: 5342213456200998857
+    second: transport_20
+  - first:
+      213: -8129598276098341781
+    second: transport_21
+  - first:
+      213: 2783283775168274024
+    second: transport_22
+  - first:
+      213: -3867378729599563993
+    second: transport_23
+  - first:
+      213: 973272151105956434
+    second: transport_24
+  - first:
+      213: -6825564684603456392
+    second: transport_25
+  - first:
+      213: 1676793504996924455
+    second: transport_26
+  - first:
+      213: -6545715397132986952
+    second: transport_27
+  - first:
+      213: -1573951281762569780
+    second: transport_28
+  - first:
+      213: 998705017583346919
+    second: transport_29
+  - first:
+      213: -1144726748086832005
+    second: transport_30
+  - first:
+      213: 5634346380023042203
+    second: transport_31
+  - first:
+      213: -4349659204203524901
+    second: transport_32
+  - first:
+      213: -9050308210516405126
+    second: transport_33
+  - first:
+      213: 5215877157849844141
+    second: transport_34
+  - first:
+      213: 4506445313993678036
+    second: transport_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transport_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3615
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d307dea8233fda48890bf2bbe2a9599
+      internalID: -8125766148631366520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3615
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24da543ca937e459ffe021d41ed962
+      internalID: -6850060665007539050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_2
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 3615
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b6b1304dbac75499a4b624713f20a0
+      internalID: 3608130373055843449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_3
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 3615
+        width: 718
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d734513c0aae46a77b84bc8b6d89b
+      internalID: 4416649854952256431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_4
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 3615
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d7ea96eeeb1d4aabe67b78e49ad80
+      internalID: -7184793835846482753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3127
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad0b8915f31524caf57ac247a54a4f
+      internalID: -6428960870180810807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3127
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8865e0e63624b42b53830b0648e45e
+      internalID: 5481544099201730695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_7
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 3127
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47be55930155cff4cb0e51b06ead68f1
+      internalID: 3730920832346000108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_8
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 3127
+        width: 718
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c22e6586f2a514b8afddab4fb675a3
+      internalID: -8668818323602329994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 3127
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf8752f3b1fa047ab78c83b0121c5c
+      internalID: 4808612004046662206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2639
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124840b16b79eb94c952cb3eb7eed1af
+      internalID: 8582659245761876843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2639
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81a3766c242e474e8ce9ca022212921
+      internalID: -4180266793652442212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_12
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2639
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb28c0fdf7623349a2dd5444d30d0ff
+      internalID: -6894803288207802867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_13
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2639
+        width: 718
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e490c7f3aa95a9439c28a7b3f126753
+      internalID: 4449297975044696448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_14
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2639
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005f8714054593498bb8d140669192a
+      internalID: 3585694557995312799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2151
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b554313b9a9564469ecdd34db6c9a02
+      internalID: 7672510226712528121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2151
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d15830b6b20eb40b6e92ab5e8d7aaf
+      internalID: -1746103386857705579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_17
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2151
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c7aca89ddd744ab62ab77ae7efb4c
+      internalID: -6030637596396041115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_18
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2151
+        width: 718
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf4f96269d93e4c8a6dc3c24adbace
+      internalID: 7113029579552424317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_19
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2143
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eaa3af25945f5479440e659f32ec01
+      internalID: -4576352069237207150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1661
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af057f033c74724db3db7a63ad47861
+      internalID: 5342213456200998857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_21
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1661
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e1b2236bc0794f8756a4a2f4d59e9
+      internalID: -8129598276098341781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_22
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1661
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484ab4bcd8f04b4989c263fede14e43
+      internalID: 2783283775168274024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_23
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1661
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde974c8e821aaa44b18f90aa177c1f4
+      internalID: -3867378729599563993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1175
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b49c3a1bdd9374bb8ba37f25c9bda2
+      internalID: 973272151105956434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1175
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d1196f36c7184db74c74ff2090788
+      internalID: -6825564684603456392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_26
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1175
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938dc4ec4b9a65243a2e68ec2d939a1e
+      internalID: 1676793504996924455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_27
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1175
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae0adfc656469d458ac292724d54edf
+      internalID: -6545715397132986952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 685
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9b5084d5042346b4c1656c79be64a
+      internalID: -1573951281762569780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 685
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1531766c19123734b9d0bcacb3b89e01
+      internalID: 998705017583346919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_30
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 685
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82728f04c09fd49adfd78ce6c22ffb
+      internalID: -1144726748086832005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_31
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 685
+        width: 718
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16ff1523512af44b1f394619bc6d15
+      internalID: 5634346380023042203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4ddf90721de94aa0f065597ae6298
+      internalID: -4349659204203524901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 197
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf306e78f3963142910c3b08b9fb809
+      internalID: -9050308210516405126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_34
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 197
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc390fd0df1a544a1f0eceaa2e1cf6
+      internalID: 5215877157849844141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transport_35
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 197
+        width: 716
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4683f530ed5fe3a498f20d92f68966f4
+      internalID: 4506445313993678036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d1ebfa78f4cfb844a773654ffd76f53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

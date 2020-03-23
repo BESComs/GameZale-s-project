@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: e595d0608550e874a8c56db5cc43ee9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8075625029156912147
+    second: sedobnoe_i_nesedobnoye_0
+  - first:
+      213: 1088583619147160295
+    second: sedobnoe_i_nesedobnoye_1
+  - first:
+      213: -2800009671057292734
+    second: sedobnoe_i_nesedobnoye_2
+  - first:
+      213: 8292448679418315357
+    second: sedobnoe_i_nesedobnoye_3
+  - first:
+      213: -2362261711527392447
+    second: sedobnoe_i_nesedobnoye_4
+  - first:
+      213: -5923492568628900263
+    second: sedobnoe_i_nesedobnoye_5
+  - first:
+      213: 2919431120235097683
+    second: sedobnoe_i_nesedobnoye_6
+  - first:
+      213: 1813379409675390886
+    second: sedobnoe_i_nesedobnoye_7
+  - first:
+      213: -9140925270790505509
+    second: sedobnoe_i_nesedobnoye_8
+  - first:
+      213: 2722528975725487468
+    second: sedobnoe_i_nesedobnoye_9
+  - first:
+      213: -389593635681212027
+    second: sedobnoe_i_nesedobnoye_10
+  - first:
+      213: 8349636215318989356
+    second: sedobnoe_i_nesedobnoye_11
+  - first:
+      213: -971498157280338147
+    second: sedobnoe_i_nesedobnoye_12
+  - first:
+      213: 433730009422064381
+    second: sedobnoe_i_nesedobnoye_13
+  - first:
+      213: -5602304857292825808
+    second: sedobnoe_i_nesedobnoye_14
+  - first:
+      213: -7888197758261264201
+    second: sedobnoe_i_nesedobnoye_15
+  - first:
+      213: 3434227618538761661
+    second: sedobnoe_i_nesedobnoye_16
+  - first:
+      213: -5445167025807313679
+    second: sedobnoe_i_nesedobnoye_17
+  - first:
+      213: 3809854766100482443
+    second: sedobnoe_i_nesedobnoye_18
+  - first:
+      213: 5672199579066702871
+    second: sedobnoe_i_nesedobnoye_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 735
+        width: 869
+        height: 1290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe0c02efe4fe044baa85a006cd106f
+      internalID: 8075625029156912147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1747
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b44b72e087ac7448fe7425206286b2
+      internalID: 1088583619147160295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_2
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1747
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d560552fc09ed4286a37087f1a0e6d
+      internalID: -2800009671057292734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_3
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1747
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2191742ceb2d524480ccf90b9d01443
+      internalID: 8292448679418315357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1458
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8881faf0ce79e4343802aa1ce6108e35
+      internalID: -2362261711527392447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_5
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1458
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19191c3dba313a64f95568f5739bc8c6
+      internalID: -5923492568628900263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1458
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d344a6bfeeaf964ba0df1b2413e8cf3
+      internalID: 2919431120235097683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_7
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1169
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3219f0d9fb99b46bc7db78141b0e10
+      internalID: 1813379409675390886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_8
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1169
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb49d28c0b5695438effc793e2cbe3c
+      internalID: -9140925270790505509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_9
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d63271f56f5d045a3d43d678b873f6
+      internalID: 2722528975725487468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_10
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 879
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758fc30d232efd41a1f2f0d88df7a49
+      internalID: -389593635681212027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_11
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 879
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f537b1a454a44c9e391fab57d11a7
+      internalID: 8349636215318989356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_12
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 879
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108bdadc9a37764e8f17f3833d292ba
+      internalID: -971498157280338147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 591
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba116a887585542be2777a15e55a5b
+      internalID: 433730009422064381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_14
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 591
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83522b39ae7c1004e84aedf9fded23a4
+      internalID: -5602304857292825808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_15
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 591
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b44eb27384a44da0b8d60fac060f3
+      internalID: -7888197758261264201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 302
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e297e712c071b48af8e2df76b147ba
+      internalID: 3434227618538761661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_17
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 302
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd2f1e375e3263448f91cf0ee8da67f
+      internalID: -5445167025807313679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_18
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 302
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc3a8be2a411bd4db08b1f717afc353
+      internalID: 3809854766100482443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sedobnoe_i_nesedobnoye_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 26
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7773541e033bc4395ee4eb115fef8c
+      internalID: 5672199579066702871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84d8473f78d6f294b855b97710e4e746
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

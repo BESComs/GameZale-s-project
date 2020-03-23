@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 736e3f0a233c21d46a532d4aed754342
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1409422279525983675
+    second: sbor-urojaya_0
+  - first:
+      213: -3501694657601271594
+    second: sbor-urojaya_1
+  - first:
+      213: -8530421137973369087
+    second: sbor-urojaya_2
+  - first:
+      213: -7035466877068980330
+    second: sbor-urojaya_3
+  - first:
+      213: 1602810864496215207
+    second: sbor-urojaya_4
+  - first:
+      213: -7238447166652357688
+    second: sbor-urojaya_5
+  - first:
+      213: -5540259011537728665
+    second: sbor-urojaya_6
+  - first:
+      213: -7635074700162236506
+    second: sbor-urojaya_7
+  - first:
+      213: -6963790294678467397
+    second: sbor-urojaya_8
+  - first:
+      213: -6275909136892315938
+    second: sbor-urojaya_9
+  - first:
+      213: -1814874741154712179
+    second: sbor-urojaya_10
+  - first:
+      213: 4471450499508811022
+    second: sbor-urojaya_11
+  - first:
+      213: -5281859576325679714
+    second: sbor-urojaya_12
+  - first:
+      213: -5256900235886957909
+    second: sbor-urojaya_13
+  - first:
+      213: -381980437204419049
+    second: sbor-urojaya_14
+  - first:
+      213: 5069862992175350874
+    second: sbor-urojaya_15
+  - first:
+      213: 963465574081279670
+    second: sbor-urojaya_16
+  - first:
+      213: 8626005280461067112
+    second: sbor-urojaya_17
+  - first:
+      213: 4795868754876864728
+    second: sbor-urojaya_18
+  - first:
+      213: -8848883512223376214
+    second: sbor-urojaya_19
+  - first:
+      213: 6335015794080818298
+    second: sbor-urojaya_20
+  - first:
+      213: -7999075695355214237
+    second: sbor-urojaya_21
+  - first:
+      213: -410135231145415887
+    second: sbor-urojaya_22
+  - first:
+      213: -2779861128179644862
+    second: sbor-urojaya_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sbor-urojaya_0
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3571
+        width: 160
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff90b847f2c14e48894af22247f1c1f
+      internalID: 1409422279525983675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3571
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4142939d5a4024f4baa810ac6af524fd
+      internalID: -3501694657601271594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_2
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3571
+        width: 144
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461e9ee1200d114491991ab2f163a1e
+      internalID: -8530421137973369087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_3
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 3581
+        width: 172
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5560905c67d9948acbf24ad8e2cfce
+      internalID: -7035466877068980330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_4
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3593
+        width: 160
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2c129a67d95247830c52398630d42
+      internalID: 1602810864496215207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_5
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3581
+        width: 120
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca15e6f9f25315844b628eecddbb3785
+      internalID: -7238447166652357688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_6
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 3613
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08aa4ceb5622de44a70e79af73abb0e
+      internalID: -5540259011537728665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2909
+        width: 316
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d882196676d341be03dc7c18d5e94
+      internalID: -7635074700162236506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_8
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2923
+        width: 218
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8508ba7116db1459c7234896226082
+      internalID: -6963790294678467397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2949
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497331cdfc4b2194fba2b3140ad37eaf
+      internalID: -6275909136892315938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_10
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2995
+        width: 208
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e950a0185748de41a398d9f0f9e10b2
+      internalID: -1814874741154712179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_11
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2999
+        width: 274
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a07cfe6bd17d43a53590a7fdd6cc7
+      internalID: 4471450499508811022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_12
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 2995
+        width: 290
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcd98675cda49e4ea78139febc4d3d9
+      internalID: -5281859576325679714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_13
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 3029
+        width: 250
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d23c68fde37b4e892ae8f78179bb1
+      internalID: -5256900235886957909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2279
+        width: 544
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac650d620fb234e87c20b8eab2a550
+      internalID: -381980437204419049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_15
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 2361
+        width: 294
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633fd38bff70a8c48b5dbba593dd7849
+      internalID: 5069862992175350874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_16
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2369
+        width: 240
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38257595076031044baab0c153e076b0
+      internalID: 963465574081279670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_17
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 2369
+        width: 150
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce9241567e8b640b7fe9fbcad3a096
+      internalID: 8626005280461067112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1057
+        width: 1926
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129e85cdd4e956c44933e902b7e7abb7
+      internalID: 4795868754876864728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 69
+        width: 3167
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3df667604823b4d9017181e91e700c
+      internalID: -8848883512223376214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_20
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 295
+        width: 544
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e5c8ff2210ae34498652ef45c0ab55
+      internalID: 6335015794080818298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_21
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 69
+        width: 544
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5cde812f0b67498ea4fbf5b0d7e99
+      internalID: -7999075695355214237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_22
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 295
+        width: 544
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515a1a06fb4ae84dac59b11c211cd31
+      internalID: -410135231145415887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbor-urojaya_23
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 69
+        width: 544
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d8558204a90a41b7479e2865e2cc5
+      internalID: -2779861128179644862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ccfd21593e660d8489d2417d8135762b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

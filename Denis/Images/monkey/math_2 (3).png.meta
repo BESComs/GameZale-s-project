@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 2ac860a054a995d4b867427af3bc19cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8990258938423144956
+    second: math_2 (3)_0
+  - first:
+      213: 6149937715653599709
+    second: math_2 (3)_1
+  - first:
+      213: -7222569753134726315
+    second: math_2 (3)_2
+  - first:
+      213: -37623644867496324
+    second: math_2 (3)_3
+  - first:
+      213: -8565464535852021775
+    second: math_2 (3)_4
+  - first:
+      213: 1285569437120374271
+    second: math_2 (3)_5
+  - first:
+      213: 5739683307933718360
+    second: math_2 (3)_6
+  - first:
+      213: -2836275488498406915
+    second: math_2 (3)_7
+  - first:
+      213: -3959300212028272200
+    second: math_2 (3)_8
+  - first:
+      213: 1717357739217912874
+    second: math_2 (3)_9
+  - first:
+      213: -4873579365925475753
+    second: math_2 (3)_10
+  - first:
+      213: -5860409872145590615
+    second: math_2 (3)_11
+  - first:
+      213: -2226384190376786153
+    second: math_2 (3)_12
+  - first:
+      213: -4132803573766246458
+    second: math_2 (3)_13
+  - first:
+      213: 2165526390143025280
+    second: math_2 (3)_14
+  - first:
+      213: 4879312288459957165
+    second: math_2 (3)_15
+  - first:
+      213: 540970405991116198
+    second: math_2 (3)_16
+  - first:
+      213: -3761285866814859413
+    second: math_2 (3)_17
+  - first:
+      213: 6848690279240019294
+    second: math_2 (3)_18
+  - first:
+      213: 773604918241129197
+    second: math_2 (3)_19
+  - first:
+      213: -1477239566162288389
+    second: math_2 (3)_20
+  - first:
+      213: 4062696963042435195
+    second: math_2 (3)_21
+  - first:
+      213: -522125293990006622
+    second: math_2 (3)_22
+  - first:
+      213: -4809906730869234722
+    second: math_2 (3)_23
+  - first:
+      213: -7725239695185204525
+    second: math_2 (3)_24
+  - first:
+      213: 4762415291537504501
+    second: math_2 (3)_25
+  - first:
+      213: -1933719701406517137
+    second: math_2 (3)_26
+  - first:
+      213: 2168812705405483775
+    second: math_2 (3)_27
+  - first:
+      213: -71867774453787517
+    second: math_2 (3)_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: math_2 (3)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 930
+        width: 667
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185560d88ecea5d4f80e5d1a6b77fd72
+      internalID: -8990258938423144956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1470
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49eabb4ba7ebe046b7ec9568017166a
+      internalID: 6149937715653599709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_2
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1473
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c0ded09ed65b42a13e0572db955f0
+      internalID: -7222569753134726315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1424
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7d9227bbc07a478c0e532295b2a96
+      internalID: -37623644867496324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1433
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb1df88d3c7e442a7bb5a414d7653c
+      internalID: -8565464535852021775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1408
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255f85763bcf1044b7759f5bad687ce
+      internalID: 1285569437120374271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_6
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1394
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa928f41f4208b4ea55019f472431ec
+      internalID: 5739683307933718360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_7
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1328
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cbbffb226d63746a55f43a5aca2b58
+      internalID: -2836275488498406915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1090
+        width: 188
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47da18058f361e94a920fd3217eb9fe8
+      internalID: -3959300212028272200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_9
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1160
+        width: 134
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c924470279a442abcfe1ab3972408
+      internalID: 1717357739217912874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 490
+        width: 663
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc122a74fa00df445bf07fc238a60829
+      internalID: -4873579365925475753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 830
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16dfc7cedf3c684593bc8a006eeac15
+      internalID: -5860409872145590615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 890
+        width: 214
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1d38ce52ce564fbd293801f8e5737
+      internalID: -2226384190376786153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 629
+        width: 318
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdefeb600f753f4bbacf4dde197c044
+      internalID: -4132803573766246458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_14
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 668
+        width: 178
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71df3d200d18743b3147bc41a1d3b6
+      internalID: 2165526390143025280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_15
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 727
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dade0f7407e2a6418c2052f6fc2f1e6
+      internalID: 4879312288459957165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_16
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 709
+        width: 151
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f8c3f1b6bb6a4da4d91f1d9ee887e
+      internalID: 540970405991116198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 578
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb00b2a7b04c24fac2f848f55bd7f6
+      internalID: -3761285866814859413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_18
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 577
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1551064b3930df94cbee2dde79abed9e
+      internalID: 6848690279240019294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_19
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 592
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df15ec26c089d941b436c9d8dbe2f24
+      internalID: 773604918241129197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_20
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 571
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5e75c89000874f825caf7773bf1db
+      internalID: -1477239566162288389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_21
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 570
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4cf1972e526a4ca571b2174547a2d
+      internalID: 4062696963042435195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_22
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 381
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ff5d8eb6f7f3244aa2246e7243b5d2
+      internalID: -522125293990006622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_23
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 381
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec16b6fdb51b040a3b9528b78b193a
+      internalID: -4809906730869234722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_24
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 259
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5103b22a51dfa4b418edca8fc3d60105
+      internalID: -7725239695185204525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_25
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 259
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebaa375a4e0f1a478ad48d4ad8ed89e
+      internalID: 4762415291537504501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_26
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 137
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b625d227867468a4ca0a62847072d857
+      internalID: -1933719701406517137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_27
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 137
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c76f070737dd9c45bfa4d57940ab1e5
+      internalID: 2168812705405483775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: math_2 (3)_28
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 15
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff32dc33c247a7d418d9f9a3eb9b569d
+      internalID: -71867774453787517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

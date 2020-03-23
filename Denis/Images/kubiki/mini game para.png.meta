@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 72ec6aaf7b114374e9a89372820c2960
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2043530066302608358
+    second: mini game para_0
+  - first:
+      213: -6655796391623407594
+    second: mini game para_1
+  - first:
+      213: -86114299771474399
+    second: mini game para_2
+  - first:
+      213: -5894601712773313924
+    second: mini game para_3
+  - first:
+      213: 7337538918850405338
+    second: mini game para_4
+  - first:
+      213: -6428482469361739081
+    second: mini game para_5
+  - first:
+      213: -5279729349048103015
+    second: mini game para_6
+  - first:
+      213: 5118810848987983315
+    second: mini game para_7
+  - first:
+      213: 6967030489181478684
+    second: mini game para_8
+  - first:
+      213: -1817255002395492351
+    second: mini game para_9
+  - first:
+      213: -8624358798111031936
+    second: mini game para_10
+  - first:
+      213: -5483966856790756729
+    second: mini game para_11
+  - first:
+      213: -6478732582844002306
+    second: mini game para_12
+  - first:
+      213: -3830694308811720569
+    second: mini game para_13
+  - first:
+      213: -1445865874314855464
+    second: mini game para_14
+  - first:
+      213: -1096208530711932598
+    second: mini game para_15
+  - first:
+      213: 1728903484145723938
+    second: mini game para_16
+  - first:
+      213: -8456339181962482505
+    second: mini game para_17
+  - first:
+      213: -8721801236861265115
+    second: mini game para_18
+  - first:
+      213: 3930651270677109638
+    second: mini game para_19
+  - first:
+      213: 50106038112482484
+    second: mini game para_20
+  - first:
+      213: -2027961696460486502
+    second: mini game para_21
+  - first:
+      213: 7733009482121467987
+    second: mini game para_22
+  - first:
+      213: -5100131784860315184
+    second: mini game para_23
+  - first:
+      213: -4739256923429639091
+    second: mini game para_24
+  - first:
+      213: 8100514118472102943
+    second: mini game para_25
+  - first:
+      213: -1965148038312279614
+    second: mini game para_26
+  - first:
+      213: 6516952668671071022
+    second: mini game para_27
+  - first:
+      213: 6568602532247514198
+    second: mini game para_28
+  - first:
+      213: -7493619858411782408
+    second: mini game para_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini game para_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3513
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b118787e1c3804ab71c57a4a58a53f
+      internalID: 2043530066302608358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3513
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5962dbd1978e46be46f5a5a48e33b
+      internalID: -6655796391623407594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_2
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3513
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80780bd80fc13a4438444e30909f9925
+      internalID: -86114299771474399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_3
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3513
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a5dec14fe785e4fa015d45be049105
+      internalID: -5894601712773313924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_4
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 3513
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8353ffcfa51a1c47956262eca6e8afe
+      internalID: 7337538918850405338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_5
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 3513
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7969ab84eecee4f82e611c26d1fd6a
+      internalID: -6428482469361739081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_6
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 3513
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197555b9df749c942a494680c705cf71
+      internalID: -5279729349048103015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2947
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104fec19949d9c40a7d5d0ae3cca094
+      internalID: 5118810848987983315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2947
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53637242145636b4f94735c4e08037fb
+      internalID: 6967030489181478684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2947
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede30032d048834ca289ae26fd9f247
+      internalID: -1817255002395492351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_10
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2947
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764da8b870604da4a9110a89f188616a
+      internalID: -8624358798111031936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_11
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 2947
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29ebd3462058d9489ad9b415bf63297
+      internalID: -5483966856790756729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_12
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 2947
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a1096aab9ac8438f66f81b2dc87f4
+      internalID: -6478732582844002306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_13
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 2947
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f31e4af2bcf64c866cba820e5cdc2
+      internalID: -3830694308811720569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2382
+        width: 518
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a12f210375db41a4235bb44519c1c
+      internalID: -1445865874314855464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2382
+        width: 520
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e978a3dfbf1164fa2c49282f4b3faf
+      internalID: -1096208530711932598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_16
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2383
+        width: 520
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb7381fd3b240847a6852356dac728a
+      internalID: 1728903484145723938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_17
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2383
+        width: 518
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3749b356c59045ae2031f2871834b
+      internalID: -8456339181962482505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_18
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 2382
+        width: 520
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a64c7ffe0fbc245a9ce73c6707f235
+      internalID: -8721801236861265115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_19
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 2382
+        width: 520
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7fc5437c8ba54dbf5d93a033d08d7
+      internalID: 3930651270677109638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1819
+        width: 518
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9489c29b27d1a44b33ece975baa410
+      internalID: 50106038112482484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1819
+        width: 520
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63451cc4726b01478c5f1511b5f2baa
+      internalID: -2027961696460486502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_22
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1819
+        width: 520
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8654b9165959548b7e9d3a311e4383
+      internalID: 7733009482121467987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_23
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1819
+        width: 518
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2571c19e586f214881815af1fb18c49
+      internalID: -5100131784860315184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_24
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1819
+        width: 520
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52032759329a9b5449f4aa75e0e09e48
+      internalID: -4739256923429639091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_25
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1819
+        width: 520
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4b22f728bf9142affa76186b544e2
+      internalID: 8100514118472102943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1253
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0105c8d16b9df489cd3efb77ac8c48
+      internalID: -1965148038312279614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_27
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1253
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383f847f4a7e77439b6af1206b60a66
+      internalID: 6516952668671071022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_28
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1253
+        width: 520
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b2bf7a33c0ae44b9497cef2b9adde
+      internalID: 6568602532247514198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game para_29
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1253
+        width: 518
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbf214e13dcc94b82e945e1e7887f6
+      internalID: -7493619858411782408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7212e5e73e5485247a2eba32aca1abc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 7c709bb09ca751b4483d1dd183ad8882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2920422325211711667
+    second: alfavit_4096_0
+  - first:
+      213: -4568585018228392441
+    second: alfavit_4096_1
+  - first:
+      213: 6267074499385311969
+    second: alfavit_4096_2
+  - first:
+      213: 6105168015824194329
+    second: alfavit_4096_3
+  - first:
+      213: -98910131536317109
+    second: alfavit_4096_4
+  - first:
+      213: -2921273914740067495
+    second: alfavit_4096_5
+  - first:
+      213: 3599580776146142436
+    second: alfavit_4096_6
+  - first:
+      213: -5370089975686819797
+    second: alfavit_4096_7
+  - first:
+      213: -4256805351125692909
+    second: alfavit_4096_8
+  - first:
+      213: 3757303296385797911
+    second: alfavit_4096_9
+  - first:
+      213: -3250801302678423451
+    second: alfavit_4096_10
+  - first:
+      213: 3040801197115474018
+    second: alfavit_4096_11
+  - first:
+      213: 5403531263946582354
+    second: alfavit_4096_12
+  - first:
+      213: -2800749535027219133
+    second: alfavit_4096_13
+  - first:
+      213: -5392292363773554921
+    second: alfavit_4096_14
+  - first:
+      213: 7478264311736958543
+    second: alfavit_4096_15
+  - first:
+      213: -4554740463370806618
+    second: alfavit_4096_16
+  - first:
+      213: 8067142828177540247
+    second: alfavit_4096_17
+  - first:
+      213: -306123164700340562
+    second: alfavit_4096_18
+  - first:
+      213: 3482597834778877970
+    second: alfavit_4096_19
+  - first:
+      213: 4451542067547678415
+    second: alfavit_4096_20
+  - first:
+      213: 196299407345957563
+    second: alfavit_4096_21
+  - first:
+      213: 3272990129563344434
+    second: alfavit_4096_22
+  - first:
+      213: -7215681351329313750
+    second: alfavit_4096_23
+  - first:
+      213: -4298228820344107218
+    second: alfavit_4096_24
+  - first:
+      213: 2692716435063389845
+    second: alfavit_4096_25
+  - first:
+      213: -8875903354289329531
+    second: alfavit_4096_26
+  - first:
+      213: -7652038619010982557
+    second: alfavit_4096_27
+  - first:
+      213: 2663330387316235388
+    second: alfavit_4096_28
+  - first:
+      213: -9105312174322973941
+    second: alfavit_4096_29
+  - first:
+      213: 7628877479285969460
+    second: alfavit_4096_30
+  - first:
+      213: -6111341303805861030
+    second: alfavit_4096_31
+  - first:
+      213: -3541010120954235095
+    second: alfavit_4096_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alfavit_4096_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3419
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b966ecbff4aff842a75cd7bb4e57080
+      internalID: 2920422325211711667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_1
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3419
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa32610447d81134487dde3b6377bb8a
+      internalID: -4568585018228392441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_2
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3419
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a77a2b4cec9540979d486e13f77c5
+      internalID: 6267074499385311969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_3
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3419
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86d21910b911b47a0b60e8fe5cc6d4
+      internalID: 6105168015824194329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_4
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 3419
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e263ca5426314ab69047b19df2f51
+      internalID: -98910131536317109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_5
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 3422
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8327fe1ce9f43264ca15f59cc648b151
+      internalID: -2921273914740067495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2740
+        width: 622
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8abe2f3c32849d4aa6e5b26754bf9cc
+      internalID: 3599580776146142436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2740
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d0aa70144b04c4a998901623fc34d7
+      internalID: -5370089975686819797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2740
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08711dca27073b4bbdf0271c07f1ce0
+      internalID: -4256805351125692909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_9
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2740
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae469cb7b9fd5964da2f7b122dc2521e
+      internalID: 3757303296385797911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_10
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2740
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0180f94f0c9461c4ca7391b572560120
+      internalID: -3250801302678423451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_11
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 2743
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b248b7e762eb6474cbf6916db81b8168
+      internalID: 3040801197115474018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2065
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c80aa2b12f113e489811c4e9b1f9a39
+      internalID: 5403531263946582354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2065
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00898a38049452243a3c2be039829a76
+      internalID: -2800749535027219133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_14
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2065
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337c3f957af9a6c46a08b627ddd7c4cd
+      internalID: -5392292363773554921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_15
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 2065
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4cea335452b8845b893602268109db
+      internalID: 7478264311736958543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_16
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2065
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e032299fdc47944ba0b9f00c51db8f7
+      internalID: -4554740463370806618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_17
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 2067
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b1d23b97eaaa4ebd451fd711bc85a
+      internalID: 8067142828177540247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1386
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960d3fb09265c542a27982f18efd881
+      internalID: -306123164700340562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1386
+        width: 620
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cccb5cbed5640948a633337a5cc19ae
+      internalID: 3482597834778877970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_20
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1386
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bead207623e20a34f84cb06e8e6ad96f
+      internalID: 4451542067547678415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_21
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1386
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea1253bd088bc47bd71414bdaf0a6e
+      internalID: 196299407345957563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_22
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1384
+        width: 620
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb570ebf34ac7de458fe912a74739190
+      internalID: 3272990129563344434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_23
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1388
+        width: 624
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae04cb0d857e9642b6f37744f68ebcc
+      internalID: -7215681351329313750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 700
+        width: 622
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b8741999475540b54461fa830c770
+      internalID: -4298228820344107218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 700
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48efe60a404464198347473cccf6fe
+      internalID: 2692716435063389845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_26
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 700
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ae51b89a569f49832605863f31b29
+      internalID: -8875903354289329531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_27
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 700
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4bf0daa45f7254f803f0c4c653fd54
+      internalID: -7652038619010982557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_28
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 700
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b648b11b3f12b4c837cb34589676aa
+      internalID: 2663330387316235388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_29
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 701
+        width: 620
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8ad1aafd365d489adf14e09725e09
+      internalID: -9105312174322973941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 622
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41537ba99251faf4cac6669237fa5fe2
+      internalID: 7628877479285969460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_31
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 15
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d5b7e1dd75c8409041ececc2c3f3d
+      internalID: -6111341303805861030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfavit_4096_32
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 15
+        width: 620
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51c2b26cff4a14b9f56535345de61e
+      internalID: -3541010120954235095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 26398f671f5cb3742b3797880a4a915b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2916777142318232089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2914283535586869915}
+  - component: {fileID: 2606810485751868697}
+  m_Layer: 0
+  m_Name: p30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2914283535586869915
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2916777142318232089}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.872, y: -1.951, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &2606810485751868697
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2916777142318232089}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.36, y: 0.73}
+    newSize: {x: 1.06, y: 1.62}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.66999996, y: 0.16499999}
+      - {x: 0.68, y: 0.205}
+      - {x: 0.68, y: 0.275}
+      - {x: 0.64, y: 0.315}
+      - {x: 0.48, y: 0.295}
+      - {x: 0.39, y: 0.24499999}
+      - {x: 0.32, y: 0.355}
+      - {x: 0.29, y: 0.36499998}
+      - {x: 0, y: 0.36499998}
+      - {x: -0.59999996, y: 0.044999998}
+      - {x: -0.64, y: 0.035}
+      - {x: -0.68, y: 0.005}
+      - {x: -0.68, y: -0.035}
+      - {x: -0.59, y: -0.125}
+      - {x: -0.26, y: -0.325}
+      - {x: -0.099999994, y: -0.36499998}
+      - {x: 0.31, y: -0.36499998}
+      - {x: 0.55, y: -0.285}
+      - {x: 0.68, y: -0.105}
+      - {x: 0.68, y: 0.105}

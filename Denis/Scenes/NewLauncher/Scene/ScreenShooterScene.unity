@@ -1,0 +1,1717 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 0
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 11
+  m_GIWorkflowMode: 1
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 1
+    m_EnableRealtimeLightmaps: 1
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+  m_LightingDataAsset: {fileID: 0}
+  m_UseShadowmask: 1
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &349426711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 349426713}
+  - component: {fileID: 349426712}
+  m_Layer: 0
+  m_Name: Directional Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &349426712
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349426711}
+  m_Enabled: 1
+  serializedVersion: 9
+  m_Type: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &349426713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349426711}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &582713399
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 582713402}
+  - component: {fileID: 582713401}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!20 &582713401
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582713399}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &582713402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582713399}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1709545650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1709545655}
+  - component: {fileID: 1709545654}
+  - component: {fileID: 1709545653}
+  - component: {fileID: 1709545652}
+  m_Layer: 0
+  m_Name: GameObject Old
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!222 &1709545652
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709545650}
+  m_CullTransparentMesh: 0
+--- !u!114 &1709545653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709545650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98e1582619f42648bab79229da31f4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameHolder: {fileID: 0}
+  gameSceneName: []
+  gameScenePath:
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/4pics1word.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword. Detskiye
+    igrushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword6.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword7.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/poezd.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Soti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/elka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/hvostiki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/jivotnie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/korzinka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/krilya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/les.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/lishniy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/otkritka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Podberi
+    fragment kartinki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Prover
+    svoy glazomer.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Rasstav
+    v nujnom poryadke.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/shkolnik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/sir.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/snejinka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/spryatalsya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/ten.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/tort.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Vitraji4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/yabloki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/yayca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Zritelnoe
+    vnimanie3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/zzzBeeMazeGame.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/chasi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/dninedeli.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/mesyaci.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/sezoni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/vremenagoda.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/zkukushka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/03Study shapes/IzuchaemFiguri.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/chastiTela.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/cheyRebyonok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/deystviya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/dikiedomashnie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gdedom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gdewiroslo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/goroshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gusenica.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/korobki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/listiya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/malish.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/nasekomie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/ovoshiifrulti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/palci.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/pari.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/pomestam.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/portfel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/professiya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/SelectTransport.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/siedobnoe.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/sledi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/transport.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/varenie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/zelen.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/zveryata.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/associacii.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/busi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/cepochka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/chashka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/figuri.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/jushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kalendar.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/karandash.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/klyuchi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kolca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kubiki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/lishniy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/mag.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/matreshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/nepravilno.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/noski.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/palitra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/peretashimatreshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/podarki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/poni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/protivopolojnosti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/rklumba.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/svechi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/tangram.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/tochkikoshka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/urojai.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/viborUtki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/yayca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/yolki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zabor.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zaychik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/ZZMozaikaLogic.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/ZZtangram 1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. N. Nosov - Fantazyori.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. Rasskazi o prirode2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Grammaticheskiy
+    blitz.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Literaturnaya
+    viktorina v32.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Literaturnaya
+    viktorina v63.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Novogodnie
+    zabavi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Ponimayu
+    chto chitayu2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Povishaem
+    skorost chteniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Znayu
+    personajey skazok3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/algebra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/cveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Delenie s ostatkom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Diagrammi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Drobi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Magicheskiye kvadrati.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Matematicheskoe domino.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Mnogougolnik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Nahojdeniye summi neskolkih
+    slagayemih.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Pismennoye umnojenie na
+    dvuznachnoe chislo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Plyus minus.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/raskraskaalgebra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Reshayem i sostavlyayem
+    zadachi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Slojenie i vichitaniye
+    dvuznachnih chisel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Slojenie stolbikom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sostav chisla.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye po kolichestvu.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye predmetov po
+    raznim priznakam.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Umnojenie summi na chislo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Umnojeniye i deleniye
+    stolbikom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Uravneniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Uvelicheniye i umensheniye
+    chisla v 10, 100, 1000 raz.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Vichitaniye s perehodom
+    cherez desyatok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Vspominaem tablitsu umnojeniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Zadachi v dva deystviya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Zadachi v dva deystviya2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Chelovek.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Chto u nas pod nogami5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Ekonomika3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Erudit.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Hochu vse znat.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Jivaya i nejivaya
+    priroda3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Jivotniy mir5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kladovie zemli3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Klassifikatsiya jivotnih3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kosmicheskiye ispitaniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kosmos, zvyozdi i
+    planeti3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/KOSMOznatoki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Logicheskiye karti5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami astronoma
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami astronoma
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami geografa2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Organi chuvstv2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Organi chuvstv4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Poverhnost zemli
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Poverhnost zemli
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Prirodniye zoni mira
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Prirodniye zoni mira
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Stroenie tela cheloveka3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/V gostyax u istorii.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Ya jivu v uzbekistane5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Anvar idyot v pohod.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Dom v dereve.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Drujelyubniy lisyonok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Gornaya tropa.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Gribochki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Ochertaniya stran22.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Sinichka i ryabina.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Volshebniy kavyor.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Xitriy kot.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Zolotiye ribki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzkenjaPuzzle1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzkenjaPuzzle2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzzzPuzzle.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Chas
+    koda4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Colors
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Days
+    of week [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Family
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Hello,
+    how are you.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Idyom
+    v pohod4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My Room
+    [Slovarniy diktant]2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My schoolbag.
+    Slovarniy diktant.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Plural
+    nouns.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Ptica
+    komandir2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Question
+    Words [Voprositelniye slova].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Sport
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/11Position in space/PositionInSpace.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring6.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring7.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/RaskraskaBolshaya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/raskraskaProstaya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Antonimi3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chasti rechi.
+    Imya sushestvitelnoye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chasti rechi2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chto takoe
+    slovosochetanie3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Delenie na
+    slogi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Foneticheskiy
+    razbor slova 3 klass3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Glagol kak
+    chast rechi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Imya prilagatelnoye
+    i imya sushestvitelnoye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Izmenyaemiye
+    i neizmenyaemie slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Koren slova2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Lichniye mestoimeniya
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Lichniye mestoimeniya
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mashina vremeni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mestoimenie
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mestoimenie
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Misl.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mnogoznachniye,
+    zaimstvovanniye i ustarevshiye slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Narechie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Nazad v proshloye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomiye
+    slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Odnorodniye
+    chleni predlojeniye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Odnoznachnie
+    i mnogoznachnie slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    i formi slov2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    sushestvitelnih v padejah v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    sushestvitelnih v padejah v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Padejniye
+    okonchaniya v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Padejniye
+    okonchaniya v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Podlejashee
+    i skazuemoe. 2 klass2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Pravopisaniye
+    [b] razdelitelnih znakov.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Pravopisaniye
+    [b] razdelitelnih znakov - chast 2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Razdeli slova
+    na slogi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Sostav slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Spryajeniye
+    glagolov v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Spryajeniye
+    glagolov v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Tekst. Priznaki
+    teksta2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Voprositelniye
+    predlojeniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Vse o glagole
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Vse o glagole
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Znanie - sila.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/14Comparison/IqshaComparisonGame.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy
+    1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy
+    2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/ribki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/takoyJe.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/Lyagushka
+    poprigushka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/rakushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/schet.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/Schyot
+    sotnyami, razryadi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/skolko.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/yabloni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/cveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/ottenki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/raduga.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/Smeshenie tsvetov.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/Tsveta.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/18Parts of a whole/ChastiFigur.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Derevya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Leto.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Mebel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Nasekomiye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Osen.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Pro ptits.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Pro tsveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Vesna.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Yeda.unity
+  gameFolderName:
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 0Alphabet
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 1Attention and memory
+  - 2Time
+  - 2Time
+  - 2Time
+  - 2Time
+  - 2Time
+  - 2Time
+  - 3Study shapes
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 4Outlook
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 5Logic
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 6Literature and reading
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 7Math
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 8The World
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 9Puzzles
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 0Preparation of school
+  - 1Position in space
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 2Painting
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 3Russian Language
+  - 4Comparison
+  - 5Similarities and Differences
+  - 5Similarities and Differences
+  - 5Similarities and Differences
+  - 5Similarities and Differences
+  - 5Similarities and Differences
+  - 6Score frome 1 to 100
+  - 6Score frome 1 to 100
+  - 6Score frome 1 to 100
+  - 6Score frome 1 to 100
+  - 6Score frome 1 to 100
+  - 6Score frome 1 to 100
+  - 7Colors
+  - 7Colors
+  - 7Colors
+  - 7Colors
+  - 7Colors
+  - 8Parts of a whole
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  - 9bReading
+  gameIndex: 000000000b00000022000000280000002900000043000000640000006d00000087000000a0000000ad000000b9000000ba000000c3000000ec000000ed000000f2000000f8000000fd000000fe000000
+  pref: 
+--- !u!114 &1709545654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709545650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f436aa17b1a7491468070b365c43d155, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  findILesson: {fileID: 2621464473224941232, guid: d1487dd2d19f82c4395d7ddcb6f6dd9c,
+    type: 3}
+  scenePath:
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/4pics1word.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword. Detskiye
+    igrushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword6.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword7.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/poezd.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Soti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/elka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/hvostiki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/jivotnie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/korzinka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/krilya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/les.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/lishniy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/otkritka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Podberi
+    fragment kartinki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Prover
+    svoy glazomer.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Rasstav
+    v nujnom poryadke.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/shkolnik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/sir.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/snejinka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/spryatalsya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/ten.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/tort.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Vitraji4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/yabloki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/yayca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Zritelnoe
+    vnimanie3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/zzzBeeMazeGame.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/chasi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/dninedeli.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/mesyaci.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/sezoni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/vremenagoda.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/zkukushka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/03Study shapes/IzuchaemFiguri.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/chastiTela.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/cheyRebyonok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/deystviya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/dikiedomashnie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gdedom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gdewiroslo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/goroshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gusenica.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/korobki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/listiya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/malish.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/nasekomie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/ovoshiifrulti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/palci.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/pari.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/pomestam.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/portfel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/professiya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/SelectTransport.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/siedobnoe.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/sledi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/transport.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/varenie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/zelen.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/zveryata.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/associacii.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/busi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/cepochka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/chashka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/figuri.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/jushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kalendar.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/karandash.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/klyuchi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kolca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kubiki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/lishniy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/mag.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/matreshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/nepravilno.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/noski.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/palitra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/peretashimatreshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/podarki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/poni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/protivopolojnosti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/rklumba.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/svechi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/tangram.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/tochkikoshka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/urojai.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/viborUtki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/yayca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/yolki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zabor.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zaychik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/ZZMozaikaLogic.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/ZZtangram 1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. N. Nosov - Fantazyori.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. Rasskazi o prirode2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Grammaticheskiy
+    blitz.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Literaturnaya
+    viktorina v32.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Literaturnaya
+    viktorina v63.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Novogodnie
+    zabavi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Ponimayu
+    chto chitayu2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Povishaem
+    skorost chteniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Znayu
+    personajey skazok3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/algebra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/cveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Delenie s ostatkom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Diagrammi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Drobi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Magicheskiye kvadrati.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Matematicheskoe domino.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Mnogougolnik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Nahojdeniye summi neskolkih
+    slagayemih.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Pismennoye umnojenie na
+    dvuznachnoe chislo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Plyus minus.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/raskraskaalgebra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Reshayem i sostavlyayem
+    zadachi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Slojenie i vichitaniye
+    dvuznachnih chisel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Slojenie stolbikom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sostav chisla.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye po kolichestvu.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye predmetov po
+    raznim priznakam.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Umnojenie summi na chislo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Umnojeniye i deleniye
+    stolbikom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Uravneniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Uvelicheniye i umensheniye
+    chisla v 10, 100, 1000 raz.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Vichitaniye s perehodom
+    cherez desyatok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Vspominaem tablitsu umnojeniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Zadachi v dva deystviya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Zadachi v dva deystviya2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Chelovek.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Chto u nas pod nogami5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Ekonomika3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Erudit.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Hochu vse znat.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Jivaya i nejivaya
+    priroda3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Jivotniy mir5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kladovie zemli3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Klassifikatsiya jivotnih3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kosmicheskiye ispitaniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kosmos, zvyozdi i
+    planeti3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/KOSMOznatoki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Logicheskiye karti5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami astronoma
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami astronoma
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami geografa2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Organi chuvstv2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Organi chuvstv4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Poverhnost zemli
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Poverhnost zemli
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Prirodniye zoni mira
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Prirodniye zoni mira
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Stroenie tela cheloveka3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/V gostyax u istorii.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Ya jivu v uzbekistane5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Anvar idyot v pohod.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Dom v dereve.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Drujelyubniy lisyonok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Gornaya tropa.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Gribochki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Ochertaniya stran22.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Sinichka i ryabina.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Volshebniy kavyor.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Xitriy kot.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Zolotiye ribki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzkenjaPuzzle1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzkenjaPuzzle2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzzzPuzzle.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Chas
+    koda4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Colors
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Days
+    of week [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Family
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Hello,
+    how are you.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Idyom
+    v pohod4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My Room
+    [Slovarniy diktant]2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My schoolbag.
+    Slovarniy diktant.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Plural
+    nouns.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Ptica
+    komandir2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Question
+    Words [Voprositelniye slova].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Sport
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/11Position in space/PositionInSpace.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring6.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring7.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/RaskraskaBolshaya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/raskraskaProstaya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Antonimi3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chasti rechi.
+    Imya sushestvitelnoye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chasti rechi2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chto takoe
+    slovosochetanie3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Delenie na
+    slogi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Foneticheskiy
+    razbor slova 3 klass3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Glagol kak
+    chast rechi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Imya prilagatelnoye
+    i imya sushestvitelnoye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Izmenyaemiye
+    i neizmenyaemie slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Koren slova2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Lichniye mestoimeniya
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Lichniye mestoimeniya
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mashina vremeni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mestoimenie
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mestoimenie
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Misl.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mnogoznachniye,
+    zaimstvovanniye i ustarevshiye slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Narechie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Nazad v proshloye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomiye
+    slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Odnorodniye
+    chleni predlojeniye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Odnoznachnie
+    i mnogoznachnie slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    i formi slov2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    sushestvitelnih v padejah v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    sushestvitelnih v padejah v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Padejniye
+    okonchaniya v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Padejniye
+    okonchaniya v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Podlejashee
+    i skazuemoe. 2 klass2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Pravopisaniye
+    [b] razdelitelnih znakov.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Pravopisaniye
+    [b] razdelitelnih znakov - chast 2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Razdeli slova
+    na slogi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Sostav slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Spryajeniye
+    glagolov v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Spryajeniye
+    glagolov v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Tekst. Priznaki
+    teksta2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Voprositelniye
+    predlojeniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Vse o glagole
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Vse o glagole
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Znanie - sila.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/14Comparison/IqshaComparisonGame.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy
+    1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy
+    2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/ribki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/takoyJe.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/Lyagushka
+    poprigushka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/rakushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/schet.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/Schyot
+    sotnyami, razryadi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/skolko.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/yabloni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/cveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/ottenki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/raduga.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/Smeshenie tsvetov.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/Tsveta.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/18Parts of a whole/ChastiFigur.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Derevya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Leto.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Mebel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Nasekomiye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Osen.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Pro ptits.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Pro tsveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Vesna.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Yeda.unity
+--- !u!224 &1709545655
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709545650}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1856867979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1856867983}
+  - component: {fileID: 1856867981}
+  - component: {fileID: 1856867984}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!222 &1856867981
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1856867979}
+  m_CullTransparentMesh: 0
+--- !u!224 &1856867983
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1856867979}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1856867984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1856867979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d928fe151db6944ca55e196ec7f6ce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LessonsData: {fileID: 11400000, guid: e7851404b9e9cfa40ac78dbb8dc7298b, type: 2}
+  findILesson: {fileID: 2621464473224941232, guid: d1487dd2d19f82c4395d7ddcb6f6dd9c,
+    type: 3}
+  scenePath:
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/4pics1word.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword. Detskiye
+    igrushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword6.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Crossword7.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/poezd.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/00Alphabet/Soti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/elka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/hvostiki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/jivotnie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/korzinka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/krilya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/les.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/lishniy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/otkritka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Podberi
+    fragment kartinki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Prover
+    svoy glazomer.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Rasstav
+    v nujnom poryadke.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/shkolnik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/sir.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/snejinka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/spryatalsya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/ten.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/tort.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Vitraji4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/yabloki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/pesahYayca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/Zritelnoe
+    vnimanie3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/01Attention and memory/zzzBeeMazeGame.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/chasi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/dninedeli.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/mesyaci.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/sezoni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/vremenagoda.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/02Time/zkukushka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/03Study shapes/IzuchaemFiguri.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/chastiTela.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/cheyRebyonok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/deystviya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/dikiedomashnie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gdedom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gdewiroslo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/goroshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gribiSelection.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/gusenica.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/korobki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/listiya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/malish.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/nasekomie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/ovoshiifrulti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/palci.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/pari.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/pomestam.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/portfel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/professiya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/SelectTransport.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/siedobnoe.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/sledi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/transport.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/varenie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/zelen.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/04Outlook/zveryata.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/associacii.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/busi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/cepochka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/chashka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/figuri.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/jushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kalendar.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/karandash.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/klyuchi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kolca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/kubiki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/lishniyFourth.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/mag.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/matreshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/nepravilno.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/noski.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/palitra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/peretashimatreshki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/podarki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/poni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/protivopolojnosti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/rklumba.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/svechi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/tangram.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/tochkikoshka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/urojai.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/viborUtki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/yayca.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/yolki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zabor.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zaychik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/ZZMozaikaLogic.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/05Logic/ZZtangram 1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. N. Nosov - Fantazyori.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. Rasskazi o prirode2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Grammaticheskiy
+    blitz.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Literaturnaya
+    viktorina v32.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Literaturnaya
+    viktorina v63.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Novogodnie
+    zabavi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Ponimayu
+    chto chitayu2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Povishaem
+    skorost chteniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Znayu
+    personajey skazok3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/algebra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/cveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Delenie s ostatkom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Diagrammi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Drobi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Magicheskiye kvadrati.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Matematicheskoe domino.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Mnogougolnik.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Nahojdeniye summi neskolkih
+    slagayemih.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Pismennoye umnojenie na
+    dvuznachnoe chislo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Plyus minus.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/raskraskaalgebra.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Reshayem i sostavlyayem
+    zadachi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Slojenie i vichitaniye
+    dvuznachnih chisel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Slojenie stolbikom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sostav chisla.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye po kolichestvu.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye predmetov po
+    raznim priznakam.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Umnojenie summi na chislo.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Umnojeniye i deleniye
+    stolbikom.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Uravneniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Uvelicheniye i umensheniye
+    chisla v 10, 100, 1000 raz.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Vichitaniye s perehodom
+    cherez desyatok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Vspominaem tablitsu umnojeniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Zadachi v dva deystviya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/07Math/Zadachi v dva deystviya2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Chelovek.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Chto u nas pod nogami5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Ekonomika3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Erudit.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Hochu vse znat.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Jivaya i nejivaya
+    priroda3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Jivotniy mir5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kladovie zemli3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Klassifikatsiya jivotnih3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kosmicheskiye ispitaniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Kosmos, zvyozdi i
+    planeti3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/KOSMOznatoki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Logicheskiye karti5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami astronoma
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami astronoma
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Mir glazami geografa2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Organi chuvstv2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Organi chuvstv4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Poverhnost zemli
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Poverhnost zemli
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Prirodniye zoni mira
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Prirodniye zoni mira
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Stroenie tela cheloveka3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/V gostyax u istorii.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/08The World/Ya jivu v uzbekistane5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Anvar idyot v pohod.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Dom v dereve.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Drujelyubniy lisyonok.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Gornaya tropa.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Gribochki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Ochertaniya stran22.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Sinichka i ryabina.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Volshebniy kavyor.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Xitriy kot.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Zolotiye ribki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzkenjaPuzzle1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzkenjaPuzzle2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/zzzzPuzzle.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Chas
+    koda4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Colors
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Days
+    of week [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Family
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Hello,
+    how are you.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Idyom
+    v pohod4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My Room
+    [Slovarniy diktant]2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My schoolbag.
+    Slovarniy diktant.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Plural
+    nouns.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Ptica
+    komandir2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Question
+    Words [Voprositelniye slova].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Sport
+    [Slovarniy diktant].unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/11Position in space/PositionInSpace.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring4.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring5.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring6.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/Coloring7.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/RaskraskaBolshaya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/12Painting/raskraskaProstaya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Antonimi3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chasti rechi.
+    Imya sushestvitelnoye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chasti rechi2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Chto takoe
+    slovosochetanie3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Delenie na
+    slogi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Foneticheskiy
+    razbor slova 3 klass3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Glagol kak
+    chast rechi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Imya prilagatelnoye
+    i imya sushestvitelnoye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Izmenyaemiye
+    i neizmenyaemie slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Koren slova2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Lichniye mestoimeniya
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Lichniye mestoimeniya
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mashina vremeni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mestoimenie
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mestoimenie
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Misl.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Mnogoznachniye,
+    zaimstvovanniye i ustarevshiye slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Narechie.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Nazad v proshloye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Odnorodniye
+    chleni predlojeniye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Odnoznachnie
+    i mnogoznachnie slova3.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    i formi slov2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    sushestvitelnih v padejah v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Okonchaniya
+    sushestvitelnih v padejah v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Padejniye
+    okonchaniya v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Padejniye
+    okonchaniya v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Podlejashee
+    i skazuemoe. 2 klass2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Pravopisaniye
+    [b] razdelitelnih znakov.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Pravopisaniye
+    [b] razdelitelnih znakov - chast 2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Razdeli slova
+    na slogi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Sostav slova.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Spryajeniye
+    glagolov v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Spryajeniye
+    glagolov v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Tekst. Priznaki
+    teksta2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Voprositelniye
+    predlojeniya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Vse o glagole
+    v1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Vse o glagole
+    v2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Znanie - sila.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/14Comparison/IqshaComparisonGame.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy
+    1.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/podvodoy
+    2.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/ribki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/15Similarities and Differences/takoyJe.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/Lyagushka
+    poprigushka.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/rakushki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/schet.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/Schyot
+    sotnyami, razryadi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/skolko.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/yabloni.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/cveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/ottenki.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/raduga.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/Smeshenie tsvetov.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/17Colors/Tsveta.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/18Parts of a whole/ChastiFigur.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Derevya.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Gribi.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Leto.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Mebel.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Nasekomiye.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Osen.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Pro ptits.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Pro tsveti.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Vesna.unity
+  - Assets/Work Directory/Denis/Resources/Game Scene/19bReading/Rebusi. Yeda.unity

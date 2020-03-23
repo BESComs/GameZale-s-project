@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: bd48d9eab3e3943448d17903e504344e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4077372411288804151
+    second: chasti-figur_0
+  - first:
+      213: 6312807234886807768
+    second: chasti-figur_1
+  - first:
+      213: -9033219614368114592
+    second: chasti-figur_2
+  - first:
+      213: -32623829596165857
+    second: chasti-figur_3
+  - first:
+      213: -1958329876370656903
+    second: chasti-figur_4
+  - first:
+      213: -5881268852315324278
+    second: chasti-figur_5
+  - first:
+      213: -2384598416348415648
+    second: chasti-figur_6
+  - first:
+      213: 4032485907516776256
+    second: chasti-figur_7
+  - first:
+      213: -632034541011809467
+    second: chasti-figur_8
+  - first:
+      213: 650217811423661467
+    second: chasti-figur_9
+  - first:
+      213: -8836842323812276473
+    second: chasti-figur_10
+  - first:
+      213: 6847930193359710458
+    second: chasti-figur_11
+  - first:
+      213: 5466572458105209023
+    second: chasti-figur_12
+  - first:
+      213: -8246032634508670279
+    second: chasti-figur_13
+  - first:
+      213: 8926835928199511694
+    second: chasti-figur_14
+  - first:
+      213: -4549036489657707254
+    second: chasti-figur_15
+  - first:
+      213: -5579456597344642742
+    second: chasti-figur_16
+  - first:
+      213: 5971231165142311500
+    second: chasti-figur_17
+  - first:
+      213: 4732456180407553963
+    second: chasti-figur_18
+  - first:
+      213: 9159808714200918853
+    second: chasti-figur_19
+  - first:
+      213: 8688793423325264668
+    second: chasti-figur_20
+  - first:
+      213: 7249441174759074979
+    second: chasti-figur_21
+  - first:
+      213: -6286949524025270464
+    second: chasti-figur_22
+  - first:
+      213: 3086764008460404188
+    second: chasti-figur_23
+  - first:
+      213: -5125698729759507109
+    second: chasti-figur_24
+  - first:
+      213: 5594582693904676715
+    second: chasti-figur_25
+  - first:
+      213: -6186320585837843722
+    second: chasti-figur_26
+  - first:
+      213: -3571446513686134296
+    second: chasti-figur_27
+  - first:
+      213: -3336523747621468032
+    second: chasti-figur_28
+  - first:
+      213: -2082103450215736456
+    second: chasti-figur_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chasti-figur_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3781
+        width: 316
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166b290c1f853244b91cdd1768f9eac
+      internalID: -4077372411288804151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3771
+        width: 290
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21f3ac58df8864f919ec76d623bb6d
+      internalID: 6312807234886807768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_2
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3803
+        width: 276
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc9c1e7af01e6041844a04e13445596
+      internalID: -9033219614368114592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_3
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3771
+        width: 314
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad285ec21760d4443b463aecf2bfccc5
+      internalID: -32623829596165857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_4
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 3795
+        width: 338
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d36daf28cef204792dce92f58eb14a
+      internalID: -1958329876370656903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_5
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3773
+        width: 338
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6251ff2985880234e8812c26dd1caf16
+      internalID: -5881268852315324278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3479
+        width: 328
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1746da502db29743bce12e2d3509fe6
+      internalID: -2384598416348415648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3523
+        width: 122
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d29ca569380948b89106f6387d38f
+      internalID: 4032485907516776256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_8
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3469
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb61a6e26a4854c8eac3664eacf5df
+      internalID: -632034541011809467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_9
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 3499
+        width: 172
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1045cadd355e14944b128ce9bae673e2
+      internalID: 650217811423661467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_10
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 3429
+        width: 240
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee7c35b30b89cb44a4e06083a27e06d
+      internalID: -8836842323812276473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_11
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 3323
+        width: 386
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bbda84c8f5f864faf66626ffcc5e8a
+      internalID: 6847930193359710458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3203
+        width: 274
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7f4618ffd15744852b04f3e54712e
+      internalID: 5466572458105209023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3125
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac74e6c46b08e4c953841151bc859c
+      internalID: -8246032634508670279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_14
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3203
+        width: 276
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a84150b80650334fb8b070665ca0520
+      internalID: 8926835928199511694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_15
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 3189
+        width: 312
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363bb868ea8b29438a212ac2b452469
+      internalID: -4549036489657707254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_16
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 3167
+        width: 194
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd31a9f9fccc042b2022e7953f37b6
+      internalID: -5579456597344642742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_17
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 3107
+        width: 296
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c85c58e4a48624ea0f1ede5cdc2f50
+      internalID: 5971231165142311500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2645
+        width: 260
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b994ff3fcf8b31f49a9d4d871cc2d1ec
+      internalID: 4732456180407553963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_19
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2645
+        width: 258
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f924d7a489b8498c61f23358d95fc
+      internalID: 9159808714200918853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_20
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2645
+        width: 242
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f88091f49b6340a7dab677025b54e
+      internalID: 8688793423325264668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_21
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2693
+        width: 182
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a59fd5f1dce2f46bc1fe914c9aec78
+      internalID: 7249441174759074979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2451
+        width: 248
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff6269f6f1df64783de4a1cef0f5ee
+      internalID: -6286949524025270464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_23
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2433
+        width: 168
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58401e480c9103444a0de158d0d432e8
+      internalID: 3086764008460404188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_24
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2445
+        width: 212
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc12c215867b154ab45e7d48e54f7d5
+      internalID: -5125698729759507109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_25
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2399
+        width: 206
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03edaa0057a3438409425163824b1bbb
+      internalID: 5594582693904676715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2203
+        width: 230
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694cd48ff8ecb341a7ec9beecf29862
+      internalID: -6186320585837843722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_27
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2207
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b6475d95e495419480ea3a7f481da
+      internalID: -3571446513686134296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_28
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2203
+        width: 204
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51406c1d4dc7c4ab2fdac2f6a78783
+      internalID: -3336523747621468032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chasti-figur_29
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2139
+        width: 184
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e399ab5eae524497b8355888e5c46
+      internalID: -2082103450215736456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f05b1e5b1ff593e4f9db70c306c2ff83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

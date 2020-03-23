@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 34718f7763259a643a4ec489a3ef45d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6557640137435873684
+    second: uchim-vremya_0
+  - first:
+      213: -5901317999710756931
+    second: uchim-vremya_1
+  - first:
+      213: -2446201213383420500
+    second: uchim-vremya_2
+  - first:
+      213: -6345334358424157468
+    second: uchim-vremya_3
+  - first:
+      213: 2174793601764114642
+    second: uchim-vremya_4
+  - first:
+      213: -272840850137571547
+    second: uchim-vremya_5
+  - first:
+      213: 764463235959875060
+    second: uchim-vremya_6
+  - first:
+      213: -1732090075095513833
+    second: uchim-vremya_7
+  - first:
+      213: 490454719212797205
+    second: uchim-vremya_8
+  - first:
+      213: 5660698713896633142
+    second: uchim-vremya_9
+  - first:
+      213: -3711141471226244289
+    second: uchim-vremya_10
+  - first:
+      213: 4670840565950833893
+    second: uchim-vremya_11
+  - first:
+      213: -1231620840916082312
+    second: uchim-vremya_12
+  - first:
+      213: 1799090909778959779
+    second: uchim-vremya_13
+  - first:
+      213: -6988093060742270515
+    second: uchim-vremya_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uchim-vremya_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2673
+        width: 699
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3844383f08d64789826b481a80fec
+      internalID: 6557640137435873684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3395
+        width: 701
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03356a9d0d7df7f40bc8c35e099f5f3a
+      internalID: -5901317999710756931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2673
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2e36c5d0069a42a096e505d9fea02
+      internalID: -2446201213383420500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3395
+        width: 702
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a792a57484564ac4a9cfbee98bdc1783
+      internalID: -6345334358424157468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_4
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2673
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd018b4121442f41a6d690d556b8fc3
+      internalID: 2174793601764114642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_5
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 3395
+        width: 702
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0372e48b6c2dc34cb552c815f39900f
+      internalID: -272840850137571547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_6
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 3397
+        width: 702
+        height: 699
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016de552c113dd74398354f068494ca8
+      internalID: 764463235959875060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_7
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3415
+        width: 673
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd54fd39d13c63d40b321f5d83182e74
+      internalID: -1732090075095513833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1913
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00e0ebef1a61b409dad826b6c80d7f
+      internalID: 490454719212797205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_9
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1880
+        width: 709
+        height: 719
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2d6f42722b534ca91a110a309e3e0
+      internalID: 5660698713896633142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1913
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c9f8da22abcb40972f6ad8fbe5d8c
+      internalID: -3711141471226244289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_11
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1897
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29018dedf8c5fa24499b50887659036e
+      internalID: 4670840565950833893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_12
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1897
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190afb7293de3d4d94596c3a0e2177f
+      internalID: -1231620840916082312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1197
+        width: 660
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be2be89031e584899fa6f1a187d415
+      internalID: 1799090909778959779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchim-vremya_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1155
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113bec89c1050a4ab8b14c60e73a0bb
+      internalID: -6988093060742270515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5ae610f08eddb324d868d273beada725
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

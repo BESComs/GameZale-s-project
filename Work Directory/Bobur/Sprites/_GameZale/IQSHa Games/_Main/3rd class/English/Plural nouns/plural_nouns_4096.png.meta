@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: c3f89c11605b7b34da15eb83ed95526f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 612706295784806876
+    second: plural_nouns_4096_0
+  - first:
+      213: -5411192115933174820
+    second: plural_nouns_4096_1
+  - first:
+      213: -8103024256974596986
+    second: plural_nouns_4096_2
+  - first:
+      213: 8359392291321015008
+    second: plural_nouns_4096_3
+  - first:
+      213: -1111932616685867401
+    second: plural_nouns_4096_4
+  - first:
+      213: 5757667875191598831
+    second: plural_nouns_4096_5
+  - first:
+      213: -8760350865031764094
+    second: plural_nouns_4096_6
+  - first:
+      213: -8809952581211029235
+    second: plural_nouns_4096_7
+  - first:
+      213: -5117224646015335863
+    second: plural_nouns_4096_8
+  - first:
+      213: 580544684857678281
+    second: plural_nouns_4096_9
+  - first:
+      213: 7726224335071221528
+    second: plural_nouns_4096_10
+  - first:
+      213: -2037828886602679272
+    second: plural_nouns_4096_11
+  - first:
+      213: 8837929543447906117
+    second: plural_nouns_4096_12
+  - first:
+      213: 2679977951837229016
+    second: plural_nouns_4096_13
+  - first:
+      213: -5735749012945306459
+    second: plural_nouns_4096_14
+  - first:
+      213: 9181001375211519095
+    second: plural_nouns_4096_15
+  - first:
+      213: 4568859682427477299
+    second: plural_nouns_4096_16
+  - first:
+      213: -5562185205962781252
+    second: plural_nouns_4096_17
+  - first:
+      213: 8187897686148799280
+    second: plural_nouns_4096_18
+  - first:
+      213: -290164377603320011
+    second: plural_nouns_4096_19
+  - first:
+      213: 6945098076615819059
+    second: plural_nouns_4096_20
+  - first:
+      213: -7853719727112994258
+    second: plural_nouns_4096_21
+  - first:
+      213: 5214538764173567566
+    second: plural_nouns_4096_22
+  - first:
+      213: -2444007429684934161
+    second: plural_nouns_4096_23
+  - first:
+      213: -307272312695577576
+    second: plural_nouns_4096_24
+  - first:
+      213: 3529149780094231677
+    second: plural_nouns_4096_25
+  - first:
+      213: -6174762527368668625
+    second: plural_nouns_4096_26
+  - first:
+      213: -4803132730209119093
+    second: plural_nouns_4096_27
+  - first:
+      213: 6232733228938409745
+    second: plural_nouns_4096_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plural_nouns_4096_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3281
+        width: 1004
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481dc0b411ccd1644b0be390e81180b3
+      internalID: 612706295784806876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3615
+        width: 402
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe8094a754bc04fb391d0525c20644
+      internalID: -5411192115933174820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_2
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3747
+        width: 138
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe01d012655da448c414b8909f09b9
+      internalID: -8103024256974596986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3757
+        width: 241
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068f6a171c4e1a4c87c4ee9f1d53e14
+      internalID: 8359392291321015008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_4
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2747
+        width: 94
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c2ae27a0974d47941ed25591511c4
+      internalID: -1111932616685867401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_5
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2675
+        width: 94
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc85ae0f8a2304281d313bd7e98a97
+      internalID: 5757667875191598831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_6
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3353
+        width: 670
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e713b0cf015743ac558cdac63c08c
+      internalID: -8760350865031764094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_7
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3311
+        width: 962
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae411792a57e6949bc90fda9a25cd0c
+      internalID: -8809952581211029235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_8
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 3371
+        width: 188
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce366f6a1b2e8e94a861832cdd8c74ab
+      internalID: -5117224646015335863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 3401
+        width: 223
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da36e36df2c5d949ab5a88169be4cc5
+      internalID: 580544684857678281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_10
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3401
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc3b45b5049dd479f8a9edb11c176e
+      internalID: 7726224335071221528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2749
+        width: 684
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614664e4ce4ae394a846feafa19e0814
+      internalID: -2037828886602679272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_12
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2989
+        width: 229
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc890e11189e1374e85318ad2566f6e7
+      internalID: 8837929543447906117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_13
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2653
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabc167e24477049bbfb4fff0c4447e
+      internalID: 2679977951837229016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_14
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3225
+        width: 226
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539cb50d72e6fde4daae8137d692ca1b
+      internalID: -5735749012945306459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_15
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 2783
+        width: 740
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191f00b2825ca64ebb1e3aa893d9bc6
+      internalID: 9181001375211519095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2939
+        width: 230
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0e2d4197ba89469a99adf00c46f96
+      internalID: 4568859682427477299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3018
+        width: 300
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc17bf04dc5234b876d40277da53a0
+      internalID: -5562185205962781252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_19
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2999
+        width: 190
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82387b9436050b245aa238086ba2630b
+      internalID: -290164377603320011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_20
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2476
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e960a4e1c4a16840a64d662fba3cb32
+      internalID: 6945098076615819059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_21
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2492
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac581cfc2400741ad5739cbfbfe6ec
+      internalID: -7853719727112994258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2245
+        width: 684
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd83caa12e62d42bb9aacef759a97e
+      internalID: 5214538764173567566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_23
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2519
+        width: 212
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c2581ac5fce841b5293fcd379771c
+      internalID: -2444007429684934161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_24
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2519
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68043be17c78c0d448f6d6f29149cbe0
+      internalID: -307272312695577576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_25
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2519
+        width: 212
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a753e8bd9471e4f9b25a935887ef11
+      internalID: 3529149780094231677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2285
+        width: 212
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32548c4db11270a4898508212914e2f9
+      internalID: -6174762527368668625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_27
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2285
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3ffbfa65e76fd4f89d40c1b0d856c1
+      internalID: -4803132730209119093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plural_nouns_4096_28
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2285
+        width: 212
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80fd84e5e913c4a87b50f8b63f356e
+      internalID: 6232733228938409745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27c4f4ca7579ab843a77817617c8ac8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

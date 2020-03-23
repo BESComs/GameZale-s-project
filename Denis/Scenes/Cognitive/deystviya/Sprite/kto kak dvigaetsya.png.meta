@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 1eb0d2ae3299e714f8a6925065852fb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8561943438718147634
+    second: kto kak dvigaetsya_0
+  - first:
+      213: -3138920145216301042
+    second: kto kak dvigaetsya_1
+  - first:
+      213: 7746633049826517397
+    second: kto kak dvigaetsya_2
+  - first:
+      213: -8808893051236795300
+    second: kto kak dvigaetsya_3
+  - first:
+      213: 781141992457167962
+    second: kto kak dvigaetsya_4
+  - first:
+      213: 6331742734807465321
+    second: kto kak dvigaetsya_5
+  - first:
+      213: -2777495540010475586
+    second: kto kak dvigaetsya_6
+  - first:
+      213: -538576437299607685
+    second: kto kak dvigaetsya_7
+  - first:
+      213: 5046836348911157757
+    second: kto kak dvigaetsya_8
+  - first:
+      213: 7219646839626577966
+    second: kto kak dvigaetsya_9
+  - first:
+      213: 5026726546871249868
+    second: kto kak dvigaetsya_10
+  - first:
+      213: -6691104950102666569
+    second: kto kak dvigaetsya_11
+  - first:
+      213: 1736529656577960527
+    second: kto kak dvigaetsya_12
+  - first:
+      213: -4173106250382115392
+    second: kto kak dvigaetsya_13
+  - first:
+      213: -6114347774648276348
+    second: kto kak dvigaetsya_14
+  - first:
+      213: 7202711413939238579
+    second: kto kak dvigaetsya_15
+  - first:
+      213: 6455087239202310834
+    second: kto kak dvigaetsya_16
+  - first:
+      213: 4670279710262644069
+    second: kto kak dvigaetsya_17
+  - first:
+      213: -2380358399682164298
+    second: kto kak dvigaetsya_18
+  - first:
+      213: 4565122755243626638
+    second: kto kak dvigaetsya_19
+  - first:
+      213: -4959672185342231035
+    second: kto kak dvigaetsya_20
+  - first:
+      213: 726452496096383379
+    second: kto kak dvigaetsya_21
+  - first:
+      213: 8008651952312556815
+    second: kto kak dvigaetsya_22
+  - first:
+      213: 7231455993722983847
+    second: kto kak dvigaetsya_23
+  - first:
+      213: 3770889744816247189
+    second: kto kak dvigaetsya_24
+  - first:
+      213: 4916575753606738298
+    second: kto kak dvigaetsya_25
+  - first:
+      213: -403269591367799322
+    second: kto kak dvigaetsya_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3505
+        width: 340
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e4334f45540c4e838092e1891dd01
+      internalID: -8561943438718147634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3753
+        width: 616
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719ebf5606a998540b378093c12743e1
+      internalID: -3138920145216301042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_2
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 3565
+        width: 330
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eea6f0afb1745458adc3d4dc4a43a6
+      internalID: 7746633049826517397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_3
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3503
+        width: 560
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219b568117df5324787fa0ce4d3dc092
+      internalID: -8808893051236795300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_4
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3489
+        width: 718
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399ce38d9379694c9218a74e3869bbc
+      internalID: 781141992457167962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_5
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 3435
+        width: 228
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e9a680fa14e54c9bf1dad155795d6
+      internalID: 6331742734807465321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_6
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 3559
+        width: 832
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d701164ebee8c428b06049eafbf247
+      internalID: -2777495540010475586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3081
+        width: 602
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d588255438044f85c5c09f8b57853
+      internalID: -538576437299607685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3091
+        width: 672
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7810ded1d5ee69142a8e5cbbdf52595b
+      internalID: 5046836348911157757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_9
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 3081
+        width: 592
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aad661741486146bb12b382667a494
+      internalID: 7219646839626577966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_10
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 3081
+        width: 467
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81290ba93a38fb047b26cf13f12d8bfe
+      internalID: 5026726546871249868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_11
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2991
+        width: 770
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeee92eb92d8d84693c7a727fd177f9
+      internalID: -6691104950102666569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_12
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 3047
+        width: 840
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c73c1d69fc56446a8db0b712ec62fc
+      internalID: 1736529656577960527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2733
+        width: 738
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3682b70a7d7b5b74da1b24bcd375e241
+      internalID: -4173106250382115392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_14
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2669
+        width: 576
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f1ac3b2661a44f8ec264d9f9a293f
+      internalID: -6114347774648276348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_15
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2681
+        width: 880
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43997219159619a4cb80ae98f8a6bd9d
+      internalID: 7202711413939238579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_16
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2681
+        width: 488
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7944e3ce1a0d61448c87693e3be7bb5
+      internalID: 6455087239202310834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_17
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2637
+        width: 380
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a4fe04b8c2a24abc3f9748b9353ce
+      internalID: 4670279710262644069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_18
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 2671
+        width: 720
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2543636f5802074aa4491d07e2ce301
+      internalID: -2380358399682164298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2503
+        width: 722
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb98e58e995264499eb4c9e6c04a74
+      internalID: 4565122755243626638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_20
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2243
+        width: 286
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1bf5aa432c551499b908e44c3dba6e
+      internalID: -4959672185342231035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_21
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2253
+        width: 306
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9889d53951bd21c4fb8fc2ce6cbf78cd
+      internalID: 726452496096383379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_22
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2253
+        width: 472
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe0a1396ad46134a93c8bdd26101d8f
+      internalID: 8008651952312556815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_23
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2247
+        width: 284
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4fbc6a949d494c99457c5e3a64dbe
+      internalID: 7231455993722983847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_24
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 2235
+        width: 408
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a80f351ce464794e9c8d894c658cbdd
+      internalID: 3770889744816247189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_25
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 2227
+        width: 236
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ebcccfdb9f6554a86ac16bb6f525fc
+      internalID: 4916575753606738298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kto kak dvigaetsya_26
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2221
+        width: 420
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca2dbc4c4a817740bc52e3519a281d1
+      internalID: -403269591367799322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d421c17687d66f24196b801b856919a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

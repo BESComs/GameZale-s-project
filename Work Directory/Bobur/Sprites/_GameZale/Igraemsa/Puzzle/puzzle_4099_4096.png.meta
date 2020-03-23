@@ -1,0 +1,1759 @@
+fileFormatVersion: 2
+guid: b87f2ff0c9854724c998b7ebaea7ee74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: puz_1-p1
+  - first:
+      213: 21300002
+    second: puz_1-p2
+  - first:
+      213: 21300004
+    second: puz_1-p3
+  - first:
+      213: 21300006
+    second: puz_1-p4
+  - first:
+      213: 21300008
+    second: puz_1_complete_pic
+  - first:
+      213: 21300010
+    second: puzzle_template
+  - first:
+      213: 21300012
+    second: puz_1-p5
+  - first:
+      213: 21300014
+    second: puz_1-p6
+  - first:
+      213: 21300016
+    second: puz_1-p7
+  - first:
+      213: 21300018
+    second: puz_1-p8
+  - first:
+      213: 21300020
+    second: puz_1-p9
+  - first:
+      213: 21300022
+    second: puz_1-p10
+  - first:
+      213: 21300024
+    second: puz_1-p11
+  - first:
+      213: 21300026
+    second: puz_1-p12
+  - first:
+      213: 21300028
+    second: puz_1-p13
+  - first:
+      213: 21300030
+    second: puz_1-p14
+  - first:
+      213: 21300032
+    second: puz_1-p15
+  - first:
+      213: 21300034
+    second: puz_1-p16
+  - first:
+      213: 21300036
+    second: puz_2-p1
+  - first:
+      213: 21300038
+    second: puz_2-p2
+  - first:
+      213: 21300040
+    second: puz_2-p3
+  - first:
+      213: 21300042
+    second: puz_2-p4
+  - first:
+      213: 21300044
+    second: puz_2_complete_pic
+  - first:
+      213: 21300046
+    second: puz_2-p5
+  - first:
+      213: 21300048
+    second: puz_2-p6
+  - first:
+      213: 21300050
+    second: puz_2-p7
+  - first:
+      213: 21300052
+    second: puz_2-p8
+  - first:
+      213: 21300054
+    second: puz_2-p9
+  - first:
+      213: 21300056
+    second: puz_2-p10
+  - first:
+      213: 21300058
+    second: puz_2-p11
+  - first:
+      213: 21300060
+    second: puz_2-p12
+  - first:
+      213: 21300062
+    second: puz_2-p13
+  - first:
+      213: 21300064
+    second: puz_2-p14
+  - first:
+      213: 21300066
+    second: puz_2-p15
+  - first:
+      213: 21300068
+    second: puz_2-p16
+  - first:
+      213: 21300070
+    second: puz_3-p1
+  - first:
+      213: 21300072
+    second: puz_3-p2
+  - first:
+      213: 21300074
+    second: puz_3-p3
+  - first:
+      213: 21300076
+    second: puz_3-p4
+  - first:
+      213: 21300078
+    second: puz_3_complete_pic
+  - first:
+      213: 21300080
+    second: puz_3-p5
+  - first:
+      213: 21300082
+    second: puz_3-p6
+  - first:
+      213: 21300084
+    second: puz_3-p7
+  - first:
+      213: 21300086
+    second: puz_3-p8
+  - first:
+      213: 21300088
+    second: puz_3-p9
+  - first:
+      213: 21300090
+    second: puz_3-p10
+  - first:
+      213: 21300092
+    second: puz_3-p11
+  - first:
+      213: 21300094
+    second: puz_3-p12
+  - first:
+      213: 21300096
+    second: puz_3-p13
+  - first:
+      213: 21300098
+    second: puz_3-p14
+  - first:
+      213: 21300100
+    second: puz_3-p15
+  - first:
+      213: 21300102
+    second: puz_3-p16
+  - first:
+      213: 21300104
+    second: puz_4-p1
+  - first:
+      213: 21300106
+    second: puz_4-p2
+  - first:
+      213: 21300108
+    second: puz_4-p3
+  - first:
+      213: 21300110
+    second: puz_4-p4
+  - first:
+      213: 21300112
+    second: puz_4_complete_pic
+  - first:
+      213: 21300114
+    second: puz_4-p5
+  - first:
+      213: 21300116
+    second: puz_4-p6
+  - first:
+      213: 21300118
+    second: puz_4-p7
+  - first:
+      213: 21300120
+    second: puz_4-p8
+  - first:
+      213: 21300122
+    second: puz_4-p9
+  - first:
+      213: 21300124
+    second: puz_4-p10
+  - first:
+      213: 21300126
+    second: puz_4-p11
+  - first:
+      213: 21300128
+    second: puz_4-p12
+  - first:
+      213: 21300130
+    second: puz_4-p13
+  - first:
+      213: 21300132
+    second: puz_4-p14
+  - first:
+      213: 21300134
+    second: puz_4-p15
+  - first:
+      213: 21300136
+    second: puz_4-p16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puz_1-p1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3858
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d303e439381ce74795668fb29dcc0a0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3858
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9af2c1455570c48b8443d1bba87f1e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3858
+        width: 292
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45efbee84bb14ec4fbba10331bc514b8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p4
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3858
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5db0d03daf70459c65d0044a3aced
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1_complete_pic
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 3402
+        width: 1160
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99578d8d97c146b4cb21f1afa80b7a2f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_template
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 3402
+        width: 1160
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02b2579374597f4091c67fde4f8f088
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3688
+        width: 326
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967b9ca397a35a847bd2401dd6241941
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3688
+        width: 294
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7498e00daccf8d24c81552f0ddb3e5e2
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3688
+        width: 324
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62272f8fd73b53a438f09bfc33da289d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3688
+        width: 326
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ddf3b16cc0b94d83cbbf18374ce51
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3482
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0620fbeb8ff02642b0fe7a6f26cebd2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3482
+        width: 294
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a0f019dfff26747831def384cc4271
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3482
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79cb8ff99216b469141bffb7c03b9e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3482
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecda2b8c9f2b70c48996ada08cb0e5d8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3278
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a1dd2e73526f44b68bd387b4d3f51
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3278
+        width: 294
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159f56d6f20a1b4d971b3aaa43507c7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p15
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3278
+        width: 324
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912c93de6c59194abf422bffb9291e9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_1-p16
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3278
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae0da87bf6eec64e9b047ce906bc814
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3056
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ff53f81103264aa7d38f0af999357
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3056
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8e367a338e8c40b5c6ff1394ba0f9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 3056
+        width: 292
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b3101f9b0e8f439cc22198c97bc84
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p4
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3056
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914a0d8d0f39f847989f05c52554046
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2_complete_pic
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2600
+        width: 1160
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070bb0dc6e0b3c4b85cd9d9de418903
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2886
+        width: 326
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecfa265c9b05224d8d736dfa1e4c913
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2886
+        width: 294
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338da49fceffbf4a8103e2fc12037eb
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2886
+        width: 324
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db232fc72aa610a4c97ec6fc8c3b8618
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2886
+        width: 324
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a5b2b9f6d6d3408ad975505b3a344
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2684
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513443743338687419e9200369208117
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2684
+        width: 294
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06339530d7ad344ba3a08552524f22
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2684
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c5e8d8b4c4f5449f752206bf829d0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2684
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ffd339d36f934c8124f45f6520f52
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2480
+        width: 324
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d3c434e0d86b4a9a8e20916efb859
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2480
+        width: 294
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ecfdeaffc792b4892d928c729d3fd6
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2480
+        width: 324
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7ef68d8481c941bdcbc452c15f01c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_2-p16
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2480
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605b26ee3ff36d04294089625e5488e6
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2258
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469eb3d8d9863f144808bebdcbcf75b9
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2258
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d0ee27788d984783ca479aea57474
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2258
+        width: 294
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808764322feff004dac0d428092d801c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2258
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f272a50cc29a42499237eb8ca1fc1e6
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3_complete_pic
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1803
+        width: 1160
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284611223ff16cc4ab55e24478e66a60
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2089
+        width: 326
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510bdb67574ae844b919e54b40d91004
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2089
+        width: 296
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f966b0768a3ed6e42974feb33f5c4bcc
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2089
+        width: 326
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ecafc3da65614c875713b89a19d61
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p8
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2089
+        width: 326
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5474076fbf4654a882059856f7a942
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1887
+        width: 326
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b2145db9a3104d81c45f375cbd9b9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1887
+        width: 296
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d429e0081a7b8843991185bb8a3d4d4
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1887
+        width: 326
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec57255431de645971aa97a24ef361
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1887
+        width: 326
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ae327c4f1a177438b34028a29c52ab
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1685
+        width: 324
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262bd0d6e6d0e141979967aeac2fcc6
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1685
+        width: 296
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275ab8cc5dd7e94e9b55c6cf19cd939
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1685
+        width: 328
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbf7ac64892454d9fb7bd8dac82e7b
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_3-p16
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1685
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aec0282baf3cd468c21faafc3d936a
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1415
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b14283ca38e9fd4fac42570332fc3dc
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1415
+        width: 324
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76de91a9a633da409c92ffcbdbc9d58
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1415
+        width: 294
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91fc22e48871274f8a7fa740f83dcab
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1415
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af3ac829bd0ec419d0e5d729e90f3e
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4_complete_pic
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 959
+        width: 1160
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39796bbb0a6934f458959e72d10bee4a
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1245
+        width: 326
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a173ad3b1565b9468a69d365fa3f231
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1245
+        width: 294
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ae161ee236f346ae9dcf0c88ebda3
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1245
+        width: 326
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a5b9647ab6174f8b813ddf37f0072
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p8
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1245
+        width: 326
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef559033998e249afc8509f16c7106
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1041
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff3e564280e2c4db9b6dbe1101b4ba
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1041
+        width: 294
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de738c6b6bbc6b498ab9979159caff6
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1041
+        width: 326
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98957cae57117a4fa10645825363ed0
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p12
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1041
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aba7e3b6a16314590f0a01105a0c8a
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 839
+        width: 324
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d3ca4f6e285d47bfa6fd9fa38c1b0
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 839
+        width: 294
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdadb5b4e1f0a134cba65fb5c62f6e13
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 839
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf83d60c6b0fa41951cf613b7632b6
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puz_4-p16
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 839
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac3ae7f9d41b44ca2559fc6e152dd0
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 126f2192a1f8ef847adafcbdea8cde04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

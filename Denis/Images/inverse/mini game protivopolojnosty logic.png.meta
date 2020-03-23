@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 2f7a55bbe513e6540a41cabbd88dbb56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4540868255265120490
+    second: mini game protivopolojnosty logic_0
+  - first:
+      213: -3158872193015114770
+    second: mini game protivopolojnosty logic_1
+  - first:
+      213: 1211451820485430811
+    second: mini game protivopolojnosty logic_2
+  - first:
+      213: -5197981798779229780
+    second: mini game protivopolojnosty logic_3
+  - first:
+      213: -2511862502632459392
+    second: mini game protivopolojnosty logic_4
+  - first:
+      213: -5453536856545226299
+    second: mini game protivopolojnosty logic_5
+  - first:
+      213: 8313390575486194772
+    second: mini game protivopolojnosty logic_6
+  - first:
+      213: -2876118775150540490
+    second: mini game protivopolojnosty logic_7
+  - first:
+      213: 1657362592385566691
+    second: mini game protivopolojnosty logic_8
+  - first:
+      213: 4479279566086935840
+    second: mini game protivopolojnosty logic_9
+  - first:
+      213: -1186641800850909219
+    second: mini game protivopolojnosty logic_10
+  - first:
+      213: 7552384354957832929
+    second: mini game protivopolojnosty logic_11
+  - first:
+      213: 6508706546673876672
+    second: mini game protivopolojnosty logic_12
+  - first:
+      213: -6787780070476673573
+    second: mini game protivopolojnosty logic_13
+  - first:
+      213: -4501663395176549544
+    second: mini game protivopolojnosty logic_14
+  - first:
+      213: 1350445849092049842
+    second: mini game protivopolojnosty logic_15
+  - first:
+      213: 2824101970865135382
+    second: mini game protivopolojnosty logic_16
+  - first:
+      213: 4757506873832720074
+    second: mini game protivopolojnosty logic_17
+  - first:
+      213: -5635939176361032052
+    second: mini game protivopolojnosty logic_18
+  - first:
+      213: -6946175453923636689
+    second: mini game protivopolojnosty logic_19
+  - first:
+      213: -7032488793201395611
+    second: mini game protivopolojnosty logic_20
+  - first:
+      213: 4737253351332636248
+    second: mini game protivopolojnosty logic_21
+  - first:
+      213: -2247022477104754224
+    second: mini game protivopolojnosty logic_22
+  - first:
+      213: -2444885170555414773
+    second: mini game protivopolojnosty logic_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3507
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c50eed940f4c54986e28b1df364aed
+      internalID: 4540868255265120490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3507
+        width: 441
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1330cbbc3cc6b9438fac79f7fc82226
+      internalID: -3158872193015114770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3507
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd805d5b5942ad641bc989b2ae696d21
+      internalID: 1211451820485430811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_3
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3507
+        width: 441
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4972f6d394c2b814fb3f3a3d63628162
+      internalID: -5197981798779229780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2965
+        width: 440
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496f14ba004fe0a489255644619a2524
+      internalID: -2511862502632459392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2965
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c53dab2e69ea043bb55817f84957fc
+      internalID: -5453536856545226299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2965
+        width: 440
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b0ccb6757af943b1151b024298b59
+      internalID: 8313390575486194772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_7
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2965
+        width: 441
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dba44e120cfda4e835b7ee514c87c6
+      internalID: -2876118775150540490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2379
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707fa89fc1de69842a52b9f9c9c38c0f
+      internalID: 1657362592385566691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2379
+        width: 441
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b4949e9b1dd8b44ba088ba86d70314
+      internalID: 4479279566086935840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_10
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2379
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c456ab1d7c4042ade303058036212
+      internalID: -1186641800850909219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_11
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2379
+        width: 441
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055737fa09870de44b7bd62aa6be4c36
+      internalID: 7552384354957832929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1837
+        width: 440
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e0b1dde11db7439a6408ad47fff99
+      internalID: 6508706546673876672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1837
+        width: 441
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b840807f3a524b93a5db91d800ce3
+      internalID: -6787780070476673573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1837
+        width: 440
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe17c473a84eda44bf8ab86cc3a8afd
+      internalID: -4501663395176549544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_15
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1837
+        width: 441
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa22347447e2d24fa7e3340fd44e2ed
+      internalID: 1350445849092049842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1251
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50abe96913da8b14f91c821e2325073a
+      internalID: 2824101970865135382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1251
+        width: 441
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796d89864b48ed844b8c4e5b54d7b134
+      internalID: 4757506873832720074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_18
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1251
+        width: 440
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390d94567721384fbefddbfe838463e
+      internalID: -5635939176361032052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_19
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1251
+        width: 441
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9a38716b2e47488b554ce4fa91f56
+      internalID: -6946175453923636689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 709
+        width: 440
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630299d0ba9b42429f46ff9c36c0d29
+      internalID: -7032488793201395611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 709
+        width: 441
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785ec5909066614a848d0dcbec40228
+      internalID: 4737253351332636248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 709
+        width: 440
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfafc9544cc5cf84d9f26caa35ffd1d2
+      internalID: -2247022477104754224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini game protivopolojnosty logic_23
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 709
+        width: 441
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92311bae1478124e92c89fc311e6953
+      internalID: -2444885170555414773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 61738f7a37d19544fbe0651145329c75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
