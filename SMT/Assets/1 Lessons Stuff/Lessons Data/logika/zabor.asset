@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: zabor
+  m_EditorClassIdentifier: 
+  lessonId: 93
+  maxScore: 4
+  lessonName: "\u041F\u043E\u0447\u0438\u043D\u0438 \u0437\u0430\u0431\u043E\u0440"
+  lessonIcon: {fileID: 21300000, guid: 22a0d42cae690294d91388a2b0109c43, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/05Logic/zabor.unity
+  sceneAsset: {fileID: 102900000, guid: 47a097d2bb7810545959fab75db0cf5a, type: 3}

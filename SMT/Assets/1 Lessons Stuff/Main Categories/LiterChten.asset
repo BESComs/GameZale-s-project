@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: LiterChten
+  m_EditorClassIdentifier: 
+  categoryId: 7
+  categoryName: "\u041B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430"
+  categoryIcon: {fileID: 21300000, guid: 1c8a8a6ea509b6146b12a0f4fb27867e, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 3625b8d0415cefb4bb2e2cbb23ad92e3, type: 2}
+  - {fileID: 11400000, guid: 16ed1e0203c70d542acc8f8ff0b9f6f9, type: 2}
+  - {fileID: 11400000, guid: 9b68d54a08d453a4fa3d4d406174e795, type: 2}
+  - {fileID: 11400000, guid: e72bd7ea122abdf4ba9e7a2e84b02893, type: 2}
+  - {fileID: 11400000, guid: 974a05fd12026ea4e9a311555a935d24, type: 2}
+  - {fileID: 11400000, guid: 7d032b47ae1eae241ba7c8a864600cdb, type: 2}
+  - {fileID: 11400000, guid: 1074b920a5297da48bfad12028365495, type: 2}
+  - {fileID: 11400000, guid: 8f82a01df11a2ba4a9f2da71a2f3f5c1, type: 2}
+  - {fileID: 11400000, guid: 90b6959072e430d449371ae1220c798f, type: 2}

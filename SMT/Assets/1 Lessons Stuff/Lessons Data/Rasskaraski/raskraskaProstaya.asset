@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: raskraskaProstaya
+  m_EditorClassIdentifier: 
+  lessonId: 182
+  maxScore: 1
+  lessonName: "\u0411\u0430\u0431\u043E\u0447\u043A\u0430 2"
+  lessonIcon: {fileID: 21300000, guid: 36184d95bb9784042a12e7ab763b8a18, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/12Painting/raskraskaProstaya.unity
+  sceneAsset: {fileID: 102900000, guid: eb8097c1a66391c4e9a6eb97e1366f90, type: 3}

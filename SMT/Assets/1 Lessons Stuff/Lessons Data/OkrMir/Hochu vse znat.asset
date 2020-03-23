@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Hochu vse znat
+  m_EditorClassIdentifier: 
+  lessonId: 127
+  maxScore: 7
+  lessonName: "\u0425\u043E\u0447\u0443 \u0432\u0441\u0435 \u0437\u043D\u0430\u0442\u044C"
+  lessonIcon: {fileID: 21300000, guid: faa4ac5d86637a54a8168da7551fdb9a, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/08The World/Hochu vse
+    znat.unity
+  sceneAsset: {fileID: 102900000, guid: 34bd0922c1d46df4284ad87d747d2b64, type: 3}

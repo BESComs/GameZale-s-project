@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Rebusi
+  m_EditorClassIdentifier: 
+  categoryId: 33
+  categoryName: "\u0420\u0435\u0431\u0443\u0441\u044B"
+  categoryIcon: {fileID: 21300000, guid: 93da6b9f9c0f87a4cb7c70893879372d, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 373a7a56fe17f59449d6cec3e1fbd635, type: 2}
+  - {fileID: 11400000, guid: 0b03d3305a8d8d6418d079cd782968c9, type: 2}
+  - {fileID: 11400000, guid: 11ce707947aa74f48beeec740ab52bb9, type: 2}
+  - {fileID: 11400000, guid: 39137281b071b6e47accd5b0a1a223ab, type: 2}

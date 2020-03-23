@@ -1,0 +1,3810 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54386a82bb4ea3948ad00961dfd9533d, type: 3}
+  m_Name: Lesson Pack School
+  m_EditorClassIdentifier: 
+  subjectsInfo:
+  - id: 1
+    title: "1\u0439 \u043A\u043B\u0430\u0441\u0441"
+  - id: 2
+    title: "2\u0439 \u043A\u043B\u0430\u0441\u0441"
+  - id: 3
+    title: "3\u0439 \u043A\u043B\u0430\u0441\u0441"
+  - id: 4
+    title: "4\u0439 \u043A\u043B\u0430\u0441\u0441"
+  themesInfo:
+  - id: 1
+    subjectId: 1
+    title: "\u0410\u0437\u0431\u0443\u043A\u0430"
+  - id: 2
+    subjectId: 1
+    title: "\u0424\u0438\u0433\u0443\u0440\u044B"
+  - id: 3
+    subjectId: 1
+    title: "\u041A\u0440\u0443\u0433\u043E\u0437\u043E\u0440"
+  - id: 4
+    subjectId: 1
+    title: "\u041B\u043E\u0433\u0438\u043A\u0430"
+  - id: 5
+    subjectId: 1
+    title: "\u041F\u0430\u0437\u043B\u044B"
+  - id: 6
+    subjectId: 1
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+  - id: 7
+    subjectId: 1
+    title: "\u0421\u0447\u0451\u0442 \u043E\u0442 0 \u0434\u043E 100"
+  - id: 8
+    subjectId: 1
+    title: "\u0421\u0445\u043E\u0434\u0441\u0442\u0432\u043E \u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u0435"
+  - id: 9
+    subjectId: 1
+    title: "\u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435 \u0438 \u043F\u0430\u043C\u044F\u0442\u044C"
+  - id: 10
+    subjectId: 1
+    title: "\u0412\u0440\u0435\u043C\u044F"
+  - id: 11
+    subjectId: 2
+    title: "\u041A\u0440\u0443\u0433\u043E\u0437\u043E\u0440"
+  - id: 12
+    subjectId: 2
+    title: "\u041B\u043E\u0433\u0438\u043A\u0430"
+  - id: 13
+    subjectId: 2
+    title: "\u041F\u0430\u0437\u043B\u044B"
+  - id: 14
+    subjectId: 2
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+  - id: 15
+    subjectId: 2
+    title: "\u0421\u0447\u0451\u0442 \u043E\u0442 0 \u0434\u043E 100"
+  - id: 16
+    subjectId: 2
+    title: "\u0421\u0445\u043E\u0434\u0441\u0442\u0432\u043E \u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u0435"
+  - id: 17
+    subjectId: 3
+    title: "\u041A\u0440\u0443\u0433\u043E\u0437\u043E\u0440"
+  - id: 18
+    subjectId: 3
+    title: "\u041B\u043E\u0433\u0438\u043A\u0430"
+  - id: 19
+    subjectId: 3
+    title: "\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430"
+  - id: 20
+    subjectId: 3
+    title: "\u041F\u0430\u0437\u043B\u044B"
+  - id: 21
+    subjectId: 3
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+  - id: 22
+    subjectId: 3
+    title: "\u0420\u0430\u0441\u0441\u043A\u0440\u0430\u0441\u043A\u0438"
+  - id: 23
+    subjectId: 3
+    title: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439 \u042F\u0437\u044B\u043A"
+  - id: 24
+    subjectId: 3
+    title: "\u0421\u0447\u0451\u0442 \u043E\u0442 0 \u0434\u043E 100"
+  - id: 25
+    subjectId: 3
+    title: "\u0421\u0445\u043E\u0434\u0441\u0442\u0432\u043E \u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u0435"
+  - id: 26
+    subjectId: 4
+    title: "\u041A\u0440\u0443\u0433\u043E\u0437\u043E\u0440"
+  - id: 27
+    subjectId: 4
+    title: "\u041B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043D\u043E\u0435
+      \u0447\u0442\u0435\u043D\u0438\u0435"
+  - id: 28
+    subjectId: 4
+    title: "\u041B\u043E\u0433\u0438\u043A\u0430"
+  - id: 29
+    subjectId: 4
+    title: "\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430"
+  - id: 30
+    subjectId: 4
+    title: "\u041E\u043A\u0440\u0443\u0436\u0430\u0449\u0438\u0439 \u043C\u0438\u0440"
+  - id: 31
+    subjectId: 4
+    title: "\u041F\u0430\u0437\u043B\u044B"
+  - id: 32
+    subjectId: 4
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+  - id: 33
+    subjectId: 4
+    title: "\u0420\u0435\u0431\u0443\u0441\u044B"
+  - id: 34
+    subjectId: 4
+    title: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439 \u044F\u0437\u044B\u043A"
+  - id: 35
+    subjectId: 4
+    title: "\u0421\u0445\u043E\u0434\u0441\u0442\u0432\u043E \u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u0435"
+  - id: 36
+    subjectId: 1
+    title: "\u0427\u0442\u0435\u043D\u0438\u0435 \u0438 \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0441\u0442\u044C"
+  - id: 37
+    subjectId: 2
+    title: "\u0427\u0442\u0435\u043D\u0438\u0435 \u0438 \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0441\u0442\u044C"
+  - id: 38
+    subjectId: 3
+    title: "\u0427\u0442\u0435\u043D\u0438\u0435 \u0438 \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0441\u0442\u044C"
+  lessonsInfo:
+  - uniqueId: 1
+    lessonId: 1
+    themeId: 1
+    title: "\u0410\u043B\u0444\u0430\u0432\u0438\u0442"
+    maxScore: 1
+  - uniqueId: 2
+    lessonId: 2
+    themeId: 1
+    title: "\u041A\u0440\u043E\u0441\u0441\u0432\u043E\u0440\u0434"
+    maxScore: 1
+  - uniqueId: 3
+    lessonId: 3
+    themeId: 1
+    title: "\u0418\u0433\u0440\u0443\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 4
+    lessonId: 4
+    themeId: 1
+    title: "\u0428\u043A\u043E\u043B\u0430"
+    maxScore: 1
+  - uniqueId: 5
+    lessonId: 5
+    themeId: 1
+    title: "\u041F\u0442\u0438\u0446\u044B"
+    maxScore: 1
+  - uniqueId: 6
+    lessonId: 6
+    themeId: 1
+    title: "\u041D\u0430 \u0431\u0443\u043A\u0432\u0443 \"\u0440\""
+    maxScore: 1
+  - uniqueId: 7
+    lessonId: 7
+    themeId: 1
+    title: "\u041C\u043E\u0440\u0441\u043A\u0438\u0435 \u043E\u0431\u0438\u0442\u0430\u0442\u0435\u043B\u0438"
+    maxScore: 1
+  - uniqueId: 8
+    lessonId: 8
+    themeId: 1
+    title: "\u0421\u043A\u0430\u0437\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 9
+    lessonId: 9
+    themeId: 1
+    title: "\u0416\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+    maxScore: 1
+  - uniqueId: 10
+    lessonId: 10
+    themeId: 1
+    title: "\u041F\u043E\u0435\u0437\u0434"
+    maxScore: 1
+  - uniqueId: 11
+    lessonId: 11
+    themeId: 1
+    title: "\u0421\u043E\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 12
+    lessonId: 28
+    themeId: 2
+    title: "\u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0444\u0438\u0433\u0443\u0440\u044B"
+    maxScore: 1
+  - uniqueId: 13
+    lessonId: 29
+    themeId: 3
+    title: "\u0422\u0435\u043B\u043E \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 14
+    lessonId: 30
+    themeId: 3
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u043C\u0430\u043C\u0430?"
+    maxScore: 1
+  - uniqueId: 15
+    lessonId: 31
+    themeId: 3
+    title: "\u041A\u0442\u043E \u043A\u0430\u043A \u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044F"
+    maxScore: 1
+  - uniqueId: 16
+    lessonId: 32
+    themeId: 3
+    title: "\u0414\u0438\u043A\u0438\u0435 \u0438 \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435
+      \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+    maxScore: 1
+  - uniqueId: 17
+    lessonId: 33
+    themeId: 3
+    title: "\u0427\u0435\u0439 \u0434\u043E\u043C\u0438\u043A?"
+    maxScore: 1
+  - uniqueId: 18
+    lessonId: 34
+    themeId: 3
+    title: "\u0427\u0442\u043E \u0433\u0434\u0435 \u0440\u0430\u0441\u0442\u0451\u0442?"
+    maxScore: 1
+  - uniqueId: 19
+    lessonId: 35
+    themeId: 3
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0446\u0432\u0435\u0442\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 20
+    lessonId: 36
+    themeId: 3
+    title: "\u041B\u0435\u0441\u043D\u044B\u0435 \u0433\u0440\u0438\u0431\u044B"
+    maxScore: 5
+  - uniqueId: 21
+    lessonId: 37
+    themeId: 3
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0431\u0430\u0431\u043E\u0447\u043A\u0443"
+    maxScore: 1
+  - uniqueId: 22
+    lessonId: 38
+    themeId: 3
+    title: "\u0423\u0431\u0435\u0440\u0438 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435"
+    maxScore: 1
+  - uniqueId: 23
+    lessonId: 39
+    themeId: 3
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 1
+  - uniqueId: 24
+    lessonId: 40
+    themeId: 3
+    title: "\u0427\u0435\u0439 \u043C\u0430\u043B\u044B\u0448?"
+    maxScore: 1
+  - uniqueId: 25
+    lessonId: 41
+    themeId: 3
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 1
+  - uniqueId: 26
+    lessonId: 42
+    themeId: 3
+    title: "\u041E\u0432\u043E\u0449\u0438 \u0438 \u0444\u0440\u0443\u043A\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 27
+    lessonId: 43
+    themeId: 3
+    title: "\u041F\u0430\u043B\u044C\u0447\u0438\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 28
+    lessonId: 44
+    themeId: 3
+    title: "\u041A\u0442\u043E \u0447\u0442\u043E \u0435\u0441\u0442?"
+    maxScore: 1
+  - uniqueId: 29
+    lessonId: 45
+    themeId: 3
+    title: "\u0427\u0442\u043E \u0438\u0437 \u0447\u0435\u0433\u043E \u0441\u0434\u0435\u043B\u0430\u043D\u043E?"
+    maxScore: 1
+  - uniqueId: 30
+    lessonId: 46
+    themeId: 3
+    title: "\u0428\u043A\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u043E\u0440\u0442\u0444\u0435\u043B\u044C"
+    maxScore: 1
+  - uniqueId: 31
+    lessonId: 47
+    themeId: 3
+    title: "\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u0438"
+    maxScore: 1
+  - uniqueId: 32
+    lessonId: 48
+    themeId: 3
+    title: "\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442"
+    maxScore: 1
+  - uniqueId: 33
+    lessonId: 49
+    themeId: 3
+    title: "\u0421\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435 \u043D\u0435\u0441\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435"
+    maxScore: 1
+  - uniqueId: 34
+    lessonId: 50
+    themeId: 3
+    title: "\u0427\u044C\u0438 \u0441\u043B\u0435\u0434\u044B?"
+    maxScore: 1
+  - uniqueId: 35
+    lessonId: 51
+    themeId: 3
+    title: "\u0412\u0438\u0434\u044B \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0430"
+    maxScore: 1
+  - uniqueId: 36
+    lessonId: 52
+    themeId: 3
+    title: "\u042F\u0433\u043E\u0434\u043D\u043E\u0435 \u0432\u0430\u0440\u0435\u043D\u044C\u0435"
+    maxScore: 1
+  - uniqueId: 37
+    lessonId: 53
+    themeId: 3
+    title: "\u041E\u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u043F\u043E\u0434\u043E\u043A\u043E\u043D\u043D\u0438\u043A\u0435"
+    maxScore: 1
+  - uniqueId: 38
+    lessonId: 54
+    themeId: 3
+    title: "\u0412\u0435\u0441\u0435\u043B\u044B\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u044B"
+    maxScore: 1
+  - uniqueId: 39
+    lessonId: 87
+    themeId: 4
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C"
+    maxScore: 1
+  - uniqueId: 40
+    lessonId: 96
+    themeId: 4
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C 2"
+    maxScore: 1
+  - uniqueId: 41
+    lessonId: 94
+    themeId: 4
+    title: "\u0417\u0430\u0439\u0447\u0438\u043A"
+    maxScore: 1
+  - uniqueId: 42
+    lessonId: 95
+    themeId: 4
+    title: "\u041C\u043E\u0437\u0430\u0438\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 43
+    lessonId: 148
+    themeId: 5
+    title: "\u0410\u043D\u0432\u0430\u0440 \u0438\u0434\u0451\u0442 \u0432 \u043F\u043E\u0445\u043E\u0434"
+    maxScore: 1
+  - uniqueId: 44
+    lessonId: 149
+    themeId: 5
+    title: "\u0414\u043E\u043C \u0432 \u0434\u0435\u0440\u0435\u0432\u043D\u0435"
+    maxScore: 1
+  - uniqueId: 45
+    lessonId: 150
+    themeId: 5
+    title: "\u0414\u0440\u0443\u0436\u0435\u043B\u044E\u0431\u043D\u044B\u0439 \u043B\u0438\u0441\u0451\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 46
+    lessonId: 151
+    themeId: 5
+    title: "\u0413\u043E\u0440\u043D\u0430\u044F \u0442\u0440\u043E\u043F\u0430"
+    maxScore: 1
+  - uniqueId: 47
+    lessonId: 152
+    themeId: 5
+    title: "\u0413\u0440\u0438\u0431\u043E\u0447\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 48
+    lessonId: 153
+    themeId: 5
+    title: "\u041E\u0447\u0435\u0440\u0442\u0430\u043D\u0438\u044F \u0441\u0442\u0440\u0430\u043D"
+    maxScore: 1
+  - uniqueId: 49
+    lessonId: 154
+    themeId: 5
+    title: "\u0421\u0438\u043D\u0438\u0447\u043A\u0430 \u0438 \u0440\u044F\u0431\u0438\u043D\u0430"
+    maxScore: 1
+  - uniqueId: 50
+    lessonId: 155
+    themeId: 5
+    title: "\u0412\u043E\u043B\u0448\u0435\u0431\u043D\u044B\u0439 \u043A\u043E\u0432\u0451\u0440"
+    maxScore: 1
+  - uniqueId: 51
+    lessonId: 156
+    themeId: 5
+    title: "\u0425\u0438\u0442\u0440\u044B\u0439 \u043A\u043E\u0442"
+    maxScore: 1
+  - uniqueId: 52
+    lessonId: 157
+    themeId: 5
+    title: "\u0417\u043E\u043B\u043E\u0442\u044B\u0435 \u0440\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 53
+    lessonId: 158
+    themeId: 5
+    title: "\u041F\u0430\u0437\u043B 1"
+    maxScore: 1
+  - uniqueId: 54
+    lessonId: 159
+    themeId: 5
+    title: "\u041F\u0430\u0437\u043B 2"
+    maxScore: 1
+  - uniqueId: 55
+    lessonId: 160
+    themeId: 5
+    title: "\u041F\u0430\u0437\u043B 3"
+    maxScore: 1
+  - uniqueId: 56
+    lessonId: 173
+    themeId: 6
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+    maxScore: 1
+  - uniqueId: 57
+    lessonId: 224
+    themeId: 7
+    title: "\u041B\u044F\u0433\u0443\u0448\u043A\u0430 \u043F\u043E\u043F\u0440\u044B\u0433\u0443\u0448\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 58
+    lessonId: 225
+    themeId: 7
+    title: "\u041C\u043E\u0440\u0441\u043A\u0438\u0435 \u0440\u0430\u043A\u0443\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 59
+    lessonId: 226
+    themeId: 7
+    title: "\u0412\u0435\u0441\u0435\u043B\u044B\u0439 \u0441\u0447\u0435\u0442"
+    maxScore: 1
+  - uniqueId: 60
+    lessonId: 227
+    themeId: 7
+    title: "\u0421\u0447\u0451\u0442 \u0441\u043E\u0442\u043D\u044F\u043C\u0438, \u0440\u0430\u0437\u0440\u044F\u0434\u044B"
+    maxScore: 1
+  - uniqueId: 61
+    lessonId: 228
+    themeId: 7
+    title: "\u041F\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0441\u043A\u043E\u043B\u044C\u043A\u043E?"
+    maxScore: 1
+  - uniqueId: 62
+    lessonId: 229
+    themeId: 7
+    title: "\u042F\u0431\u043B\u043E\u043D\u0435\u0432\u044B\u0439 \u0441\u0430\u0434"
+    maxScore: 1
+  - uniqueId: 63
+    lessonId: 230
+    themeId: 8
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F"
+    maxScore: 1
+  - uniqueId: 64
+    lessonId: 231
+    themeId: 8
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 65
+    lessonId: 232
+    themeId: 8
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 66
+    lessonId: 233
+    themeId: 8
+    title: "\u0420\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 67
+    lessonId: 234
+    themeId: 8
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0434\u0438\u043D\u0430\u043A\u043E\u0432\u044B\u0439
+      \u043F\u0440\u0435\u0434\u043C\u0435\u0442"
+    maxScore: 1
+  - uniqueId: 68
+    lessonId: 236
+    themeId: 9
+    title: "\u041D\u0430\u0440\u044F\u0434\u043D\u0430\u044F \u0451\u043B\u043E\u0447\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 69
+    lessonId: 237
+    themeId: 9
+    title: "\u0417\u0430 \u0433\u0440\u0438\u0431\u0430\u043C\u0438"
+    maxScore: 1
+  - uniqueId: 70
+    lessonId: 238
+    themeId: 9
+    title: "\u0425\u0432\u043E\u0441\u0442\u0438\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 71
+    lessonId: 239
+    themeId: 9
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0437\u0432\u0435\u0440\u044E\u0448\u043A\u0443"
+    maxScore: 1
+  - uniqueId: 72
+    lessonId: 240
+    themeId: 9
+    title: "\u041B\u0435\u0441\u043D\u0430\u044F \u043F\u0440\u043E\u0433\u043E\u043B\u0443\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 73
+    lessonId: 241
+    themeId: 9
+    title: "\u0411\u0430\u0431\u043E\u0447\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 74
+    lessonId: 242
+    themeId: 9
+    title: "\u0417\u0432\u0435\u0440\u0438 \u0432 \u043B\u0435\u0441\u0443"
+    maxScore: 1
+  - uniqueId: 75
+    lessonId: 243
+    themeId: 9
+    title: "\u0427\u0442\u043E \u043B\u0438\u0448\u043D\u0435\u0435?"
+    maxScore: 1
+  - uniqueId: 76
+    lessonId: 244
+    themeId: 9
+    title: "\u041E\u0442\u043A\u0440\u044B\u0442\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 77
+    lessonId: 245
+    themeId: 9
+    title: "\u041F\u0430\u0441\u0445\u0430\u043B\u044C\u043D\u044B\u0435 \u044F\u0439\u0446\u0430"
+    maxScore: 3
+  - uniqueId: 78
+    lessonId: 246
+    themeId: 9
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442
+      \u043A\u0430\u0440\u0442\u0438\u043D\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 79
+    lessonId: 247
+    themeId: 9
+    title: "\u041F\u0440\u043E\u0432\u0435\u0440\u044C \u0441\u0432\u043E\u0439 \u0433\u043B\u0430\u0437\u043E\u043C\u0435\u0440"
+    maxScore: 1
+  - uniqueId: 80
+    lessonId: 248
+    themeId: 9
+    title: "\u0420\u0430\u0441\u0441\u0442\u0430\u0432\u044C \u0432 \u043D\u0443\u0436\u043D\u043E\u043C
+      \u043F\u043E\u0440\u044F\u0434\u043A\u0435"
+    maxScore: 1
+  - uniqueId: 81
+    lessonId: 249
+    themeId: 9
+    title: "\u0428\u043A\u043E\u043B\u044C\u043D\u0438\u043A"
+    maxScore: 1
+  - uniqueId: 82
+    lessonId: 250
+    themeId: 9
+    title: "\u041D\u0430\u0439\u0434\u0438 \u0431\u0430\u0431\u0430\u044F"
+    maxScore: 1
+  - uniqueId: 83
+    lessonId: 251
+    themeId: 9
+    title: "\u0421\u043D\u0435\u0436\u0438\u043D\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 84
+    lessonId: 252
+    themeId: 9
+    title: "\u041A\u0442\u043E \u0441\u043F\u0440\u044F\u0442\u0430\u043B\u0441\u044F"
+    maxScore: 1
+  - uniqueId: 85
+    lessonId: 253
+    themeId: 9
+    title: "\u041D\u0430\u0439\u0434\u0438 \u0442\u0435\u043D\u044C"
+    maxScore: 1
+  - uniqueId: 86
+    lessonId: 254
+    themeId: 9
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043A\u0443\u0441\u043E\u0447\u0435\u043A
+      \u0442\u043E\u0440\u0442\u0430"
+    maxScore: 1
+  - uniqueId: 87
+    lessonId: 255
+    themeId: 9
+    title: "\u0412\u0438\u0442\u0440\u0430\u0436\u0438"
+    maxScore: 1
+  - uniqueId: 88
+    lessonId: 256
+    themeId: 9
+    title: "\u0421\u043F\u0440\u044F\u0442\u0430\u043D\u043D\u044B\u0435 \u044F\u0431\u043B\u043E\u0447\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 89
+    lessonId: 257
+    themeId: 9
+    title: "\u0417\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u0435"
+    maxScore: 1
+  - uniqueId: 90
+    lessonId: 258
+    themeId: 9
+    title: "\u041B\u0430\u0431\u0438\u0440\u0438\u043D\u0442"
+    maxScore: 1
+  - uniqueId: 91
+    lessonId: 259
+    themeId: 10
+    title: "\u0423\u0447\u0438\u043C \u0432\u0440\u0435\u043C\u044F"
+    maxScore: 1
+  - uniqueId: 92
+    lessonId: 260
+    themeId: 10
+    title: "\u0414\u043D\u0438 \u043D\u0435\u0434\u0435\u043B\u0438"
+    maxScore: 1
+  - uniqueId: 93
+    lessonId: 261
+    themeId: 10
+    title: "12 \u043C\u0435\u0441\u044F\u0446\u0435\u0432"
+    maxScore: 1
+  - uniqueId: 94
+    lessonId: 262
+    themeId: 10
+    title: "4 \u0441\u0435\u0437\u043E\u043D\u0430 \u0433\u043E\u0434\u0430"
+    maxScore: 1
+  - uniqueId: 95
+    lessonId: 263
+    themeId: 10
+    title: "\u0412\u0440\u0435\u043C\u0435\u043D\u0430 \u0433\u043E\u0434\u0430"
+    maxScore: 1
+  - uniqueId: 96
+    lessonId: 264
+    themeId: 10
+    title: "\u041A\u0443\u043A\u0443\u0448\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 97
+    lessonId: 38
+    themeId: 11
+    title: "\u0423\u0431\u0435\u0440\u0438 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435"
+    maxScore: 1
+  - uniqueId: 98
+    lessonId: 35
+    themeId: 11
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0446\u0432\u0435\u0442\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 99
+    lessonId: 33
+    themeId: 11
+    title: "\u0427\u0435\u0439 \u0434\u043E\u043C\u0438\u043A?"
+    maxScore: 1
+  - uniqueId: 100
+    lessonId: 30
+    themeId: 11
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u043C\u0430\u043C\u0430?"
+    maxScore: 1
+  - uniqueId: 101
+    lessonId: 29
+    themeId: 11
+    title: "\u0422\u0435\u043B\u043E \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 102
+    lessonId: 41
+    themeId: 11
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 1
+  - uniqueId: 103
+    lessonId: 46
+    themeId: 11
+    title: "\u0428\u043A\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u043E\u0440\u0442\u0444\u0435\u043B\u044C"
+    maxScore: 1
+  - uniqueId: 104
+    lessonId: 64
+    themeId: 12
+    title: "\u0410\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438\n"
+    maxScore: 1
+  - uniqueId: 105
+    lessonId: 70
+    themeId: 12
+    title: "\u041A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C"
+    maxScore: 1
+  - uniqueId: 106
+    lessonId: 72
+    themeId: 12
+    title: "\u041A\u043B\u044E\u0447\u0438\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 107
+    lessonId: 74
+    themeId: 12
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043F\u0430\u0440\u0443"
+    maxScore: 1
+  - uniqueId: 108
+    lessonId: 75
+    themeId: 12
+    title: "\u0427\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439 \u043B\u0438\u0448\u043D\u0438\u0439"
+    maxScore: 7
+  - uniqueId: 109
+    lessonId: 96
+    themeId: 12
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C 2"
+    maxScore: 1
+  - uniqueId: 110
+    lessonId: 93
+    themeId: 12
+    title: "\u041F\u043E\u0447\u0438\u043D\u0438 \u0437\u0430\u0431\u043E\u0440"
+    maxScore: 1
+  - uniqueId: 111
+    lessonId: 88
+    themeId: 12
+    title: "\u0421\u043E\u0435\u0434\u0438\u043D\u0438 \u043F\u043E \u0442\u043E\u0447\u043A\u0430\u043C"
+    maxScore: 1
+  - uniqueId: 112
+    lessonId: 79
+    themeId: 12
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043D\u043E\u0441\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 113
+    lessonId: 95
+    themeId: 12
+    title: "\u041C\u043E\u0437\u0430\u0438\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 114
+    lessonId: 148
+    themeId: 13
+    title: "\u0410\u043D\u0432\u0430\u0440 \u0438\u0434\u0451\u0442 \u0432 \u043F\u043E\u0445\u043E\u0434"
+    maxScore: 1
+  - uniqueId: 115
+    lessonId: 149
+    themeId: 13
+    title: "\u0414\u043E\u043C \u0432 \u0434\u0435\u0440\u0435\u0432\u043D\u0435"
+    maxScore: 1
+  - uniqueId: 116
+    lessonId: 150
+    themeId: 13
+    title: "\u0414\u0440\u0443\u0436\u0435\u043B\u044E\u0431\u043D\u044B\u0439 \u043B\u0438\u0441\u0451\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 117
+    lessonId: 151
+    themeId: 13
+    title: "\u0413\u043E\u0440\u043D\u0430\u044F \u0442\u0440\u043E\u043F\u0430"
+    maxScore: 1
+  - uniqueId: 118
+    lessonId: 152
+    themeId: 13
+    title: "\u0413\u0440\u0438\u0431\u043E\u0447\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 119
+    lessonId: 153
+    themeId: 13
+    title: "\u041E\u0447\u0435\u0440\u0442\u0430\u043D\u0438\u044F \u0441\u0442\u0440\u0430\u043D"
+    maxScore: 1
+  - uniqueId: 120
+    lessonId: 154
+    themeId: 13
+    title: "\u0421\u0438\u043D\u0438\u0447\u043A\u0430 \u0438 \u0440\u044F\u0431\u0438\u043D\u0430"
+    maxScore: 1
+  - uniqueId: 121
+    lessonId: 155
+    themeId: 13
+    title: "\u0412\u043E\u043B\u0448\u0435\u0431\u043D\u044B\u0439 \u043A\u043E\u0432\u0451\u0440"
+    maxScore: 1
+  - uniqueId: 122
+    lessonId: 156
+    themeId: 13
+    title: "\u0425\u0438\u0442\u0440\u044B\u0439 \u043A\u043E\u0442"
+    maxScore: 1
+  - uniqueId: 123
+    lessonId: 157
+    themeId: 13
+    title: "\u0417\u043E\u043B\u043E\u0442\u044B\u0435 \u0440\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 124
+    lessonId: 158
+    themeId: 13
+    title: "\u041F\u0430\u0437\u043B 1"
+    maxScore: 1
+  - uniqueId: 125
+    lessonId: 159
+    themeId: 13
+    title: "\u041F\u0430\u0437\u043B 2"
+    maxScore: 1
+  - uniqueId: 126
+    lessonId: 160
+    themeId: 13
+    title: "\u041F\u0430\u0437\u043B 3"
+    maxScore: 1
+  - uniqueId: 127
+    lessonId: 173
+    themeId: 14
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+    maxScore: 1
+  - uniqueId: 128
+    lessonId: 224
+    themeId: 15
+    title: "\u041B\u044F\u0433\u0443\u0448\u043A\u0430 \u043F\u043E\u043F\u0440\u044B\u0433\u0443\u0448\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 129
+    lessonId: 225
+    themeId: 15
+    title: "\u041C\u043E\u0440\u0441\u043A\u0438\u0435 \u0440\u0430\u043A\u0443\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 130
+    lessonId: 226
+    themeId: 15
+    title: "\u0412\u0435\u0441\u0435\u043B\u044B\u0439 \u0441\u0447\u0435\u0442"
+    maxScore: 1
+  - uniqueId: 131
+    lessonId: 227
+    themeId: 15
+    title: "\u0421\u0447\u0451\u0442 \u0441\u043E\u0442\u043D\u044F\u043C\u0438, \u0440\u0430\u0437\u0440\u044F\u0434\u044B"
+    maxScore: 1
+  - uniqueId: 132
+    lessonId: 228
+    themeId: 15
+    title: "\u041F\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0441\u043A\u043E\u043B\u044C\u043A\u043E?"
+    maxScore: 1
+  - uniqueId: 133
+    lessonId: 229
+    themeId: 15
+    title: "\u042F\u0431\u043B\u043E\u043D\u0435\u0432\u044B\u0439 \u0441\u0430\u0434"
+    maxScore: 1
+  - uniqueId: 134
+    lessonId: 230
+    themeId: 16
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F"
+    maxScore: 1
+  - uniqueId: 135
+    lessonId: 231
+    themeId: 16
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 136
+    lessonId: 232
+    themeId: 16
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 137
+    lessonId: 233
+    themeId: 16
+    title: "\u0420\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 138
+    lessonId: 234
+    themeId: 16
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0434\u0438\u043D\u0430\u043A\u043E\u0432\u044B\u0439
+      \u043F\u0440\u0435\u0434\u043C\u0435\u0442"
+    maxScore: 1
+  - uniqueId: 139
+    lessonId: 38
+    themeId: 17
+    title: "\u0423\u0431\u0435\u0440\u0438 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435"
+    maxScore: 1
+  - uniqueId: 140
+    lessonId: 35
+    themeId: 17
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0446\u0432\u0435\u0442\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 141
+    lessonId: 33
+    themeId: 17
+    title: "\u0427\u0435\u0439 \u0434\u043E\u043C\u0438\u043A?"
+    maxScore: 1
+  - uniqueId: 142
+    lessonId: 30
+    themeId: 17
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u043C\u0430\u043C\u0430?"
+    maxScore: 1
+  - uniqueId: 143
+    lessonId: 29
+    themeId: 17
+    title: "\u0422\u0435\u043B\u043E \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 144
+    lessonId: 41
+    themeId: 17
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 1
+  - uniqueId: 145
+    lessonId: 46
+    themeId: 17
+    title: "\u0428\u043A\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u043E\u0440\u0442\u0444\u0435\u043B\u044C"
+    maxScore: 1
+  - uniqueId: 146
+    lessonId: 95
+    themeId: 18
+    title: "\u041C\u043E\u0437\u0430\u0438\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 147
+    lessonId: 99
+    themeId: 19
+    title: "\u0414\u0435\u043B\u0435\u043D\u0438\u0435 \u0441 \u043E\u0441\u0442\u0430\u0442\u043A\u043E\u043C"
+    maxScore: 1
+  - uniqueId: 148
+    lessonId: 106
+    themeId: 19
+    title: "\u041F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u043E\u0435 \u0443\u043C\u043D\u043E\u0436\u0435\u043D\u0438\u0435"
+    maxScore: 1
+  - uniqueId: 149
+    lessonId: 148
+    themeId: 20
+    title: "\u0410\u043D\u0432\u0430\u0440 \u0438\u0434\u0451\u0442 \u0432 \u043F\u043E\u0445\u043E\u0434"
+    maxScore: 1
+  - uniqueId: 150
+    lessonId: 149
+    themeId: 20
+    title: "\u0414\u043E\u043C \u0432 \u0434\u0435\u0440\u0435\u0432\u043D\u0435"
+    maxScore: 1
+  - uniqueId: 151
+    lessonId: 150
+    themeId: 20
+    title: "\u0414\u0440\u0443\u0436\u0435\u043B\u044E\u0431\u043D\u044B\u0439 \u043B\u0438\u0441\u0451\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 152
+    lessonId: 151
+    themeId: 20
+    title: "\u0413\u043E\u0440\u043D\u0430\u044F \u0442\u0440\u043E\u043F\u0430"
+    maxScore: 1
+  - uniqueId: 153
+    lessonId: 152
+    themeId: 20
+    title: "\u0413\u0440\u0438\u0431\u043E\u0447\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 154
+    lessonId: 153
+    themeId: 20
+    title: "\u041E\u0447\u0435\u0440\u0442\u0430\u043D\u0438\u044F \u0441\u0442\u0440\u0430\u043D"
+    maxScore: 1
+  - uniqueId: 155
+    lessonId: 154
+    themeId: 20
+    title: "\u0421\u0438\u043D\u0438\u0447\u043A\u0430 \u0438 \u0440\u044F\u0431\u0438\u043D\u0430"
+    maxScore: 1
+  - uniqueId: 156
+    lessonId: 155
+    themeId: 20
+    title: "\u0412\u043E\u043B\u0448\u0435\u0431\u043D\u044B\u0439 \u043A\u043E\u0432\u0451\u0440"
+    maxScore: 1
+  - uniqueId: 157
+    lessonId: 156
+    themeId: 20
+    title: "\u0425\u0438\u0442\u0440\u044B\u0439 \u043A\u043E\u0442"
+    maxScore: 1
+  - uniqueId: 158
+    lessonId: 157
+    themeId: 20
+    title: "\u0417\u043E\u043B\u043E\u0442\u044B\u0435 \u0440\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 159
+    lessonId: 158
+    themeId: 20
+    title: "\u041F\u0430\u0437\u043B 1"
+    maxScore: 1
+  - uniqueId: 160
+    lessonId: 159
+    themeId: 20
+    title: "\u041F\u0430\u0437\u043B 2"
+    maxScore: 1
+  - uniqueId: 161
+    lessonId: 160
+    themeId: 20
+    title: "\u041F\u0430\u0437\u043B 3"
+    maxScore: 1
+  - uniqueId: 162
+    lessonId: 173
+    themeId: 21
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+    maxScore: 1
+  - uniqueId: 163
+    lessonId: 176
+    themeId: 22
+    title: "\u041E\u0433\u043E\u0440\u043E\u0434"
+    maxScore: 1
+  - uniqueId: 164
+    lessonId: 174
+    themeId: 22
+    title: "\u0412\u0435\u0440\u0431\u043B\u044E\u0434"
+    maxScore: 1
+  - uniqueId: 165
+    lessonId: 175
+    themeId: 22
+    title: "\u041E\u0441\u043B\u0438\u043A"
+    maxScore: 1
+  - uniqueId: 166
+    lessonId: 185
+    themeId: 23
+    title: "\u0427\u0430\u0441\u0442\u0438 \u0440\u0435\u0447\u0438"
+    maxScore: 1
+  - uniqueId: 167
+    lessonId: 186
+    themeId: 23
+    title: "\u0427\u0442\u043E \u0442\u0430\u043A\u043E\u0435 \u0441\u043B\u043E\u0432\u043E\u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435"
+    maxScore: 1
+  - uniqueId: 168
+    lessonId: 183
+    themeId: 23
+    title: "\u0410\u043D\u0442\u043E\u043D\u0438\u043C\u044B"
+    maxScore: 1
+  - uniqueId: 169
+    lessonId: 189
+    themeId: 23
+    title: "\u0413\u043B\u0430\u0433\u043E\u043B \u043A\u0430\u043A \u0447\u0430\u0441\u0442\u044C
+      \u0440\u0435\u0447\u0438"
+    maxScore: 1
+  - uniqueId: 170
+    lessonId: 221
+    themeId: 23
+    title: "\u0412\u0441\u0435 \u043E \u0433\u043B\u0430\u0433\u043E\u043B\u0435 -
+      1"
+    maxScore: 1
+  - uniqueId: 171
+    lessonId: 222
+    themeId: 23
+    title: "\u0412\u0441\u0435 \u043E \u0433\u043B\u0430\u0433\u043E\u043B\u0435 -
+      2"
+    maxScore: 1
+  - uniqueId: 172
+    lessonId: 196
+    themeId: 23
+    title: "\u041C\u0435\u0441\u0442\u043E\u0438\u043C\u0435\u043D\u0438\u0435 - 1"
+    maxScore: 1
+  - uniqueId: 173
+    lessonId: 197
+    themeId: 23
+    title: "\u041C\u0435\u0441\u0442\u043E\u0438\u043C\u0435\u043D\u0438\u0435 - 2"
+    maxScore: 1
+  - uniqueId: 174
+    lessonId: 202
+    themeId: 23
+    title: "\u041D\u0435\u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0435 \u0441\u043B\u043E\u0432\u0430
+      - 1"
+    maxScore: 9
+  - uniqueId: 175
+    lessonId: 203
+    themeId: 23
+    title: "\u041D\u0435\u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0435 \u0441\u043B\u043E\u0432\u0430
+      - 2"
+    maxScore: 9
+  - uniqueId: 176
+    lessonId: 204
+    themeId: 23
+    title: "\u041D\u0435\u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0435 \u0441\u043B\u043E\u0432\u0430
+      - 3"
+    maxScore: 9
+  - uniqueId: 177
+    lessonId: 193
+    themeId: 23
+    title: "\u041B\u0438\u0447\u043D\u044B\u0435 \u043C\u0435\u0441\u0442\u043E\u0438\u043C\u0435\u043D\u0438\u044F
+      - 1"
+    maxScore: 1
+  - uniqueId: 178
+    lessonId: 205
+    themeId: 23
+    title: "\u041E\u0434\u043D\u043E\u0440\u043E\u0434\u043D\u044B\u0435 \u0447\u043B\u0435\u043D\u044B
+      \u043F\u0440\u0435\u0434\u043B\u043E\u0436\u0435\u043D\u0438\u044F"
+    maxScore: 1
+  - uniqueId: 179
+    lessonId: 208
+    themeId: 23
+    title: "\u041E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u044F \u0441\u0443\u0449
+      \u0432 \u043F\u0430\u0434\u0435\u0436\u0430\u0445 - 1"
+    maxScore: 1
+  - uniqueId: 180
+    lessonId: 213
+    themeId: 23
+    title: "\u041F\u0440\u0430\u0432\u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435
+      \u0440\u0430\u0437\u0434\u0435\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445
+      \u0437\u043D\u0430\u043A\u043E\u0432 - 1"
+    maxScore: 1
+  - uniqueId: 181
+    lessonId: 214
+    themeId: 23
+    title: "\u041F\u0440\u0430\u0432\u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435
+      \u0440\u0430\u0437\u0434\u0435\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0445
+      \u0437\u043D\u0430\u043A\u043E\u0432 - 2"
+    maxScore: 1
+  - uniqueId: 182
+    lessonId: 227
+    themeId: 24
+    title: "\u0421\u0447\u0451\u0442 \u0441\u043E\u0442\u043D\u044F\u043C\u0438, \u0440\u0430\u0437\u0440\u044F\u0434\u044B"
+    maxScore: 1
+  - uniqueId: 183
+    lessonId: 230
+    themeId: 25
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F"
+    maxScore: 1
+  - uniqueId: 184
+    lessonId: 231
+    themeId: 25
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 185
+    lessonId: 232
+    themeId: 25
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 186
+    lessonId: 233
+    themeId: 25
+    title: "\u0420\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 187
+    lessonId: 234
+    themeId: 25
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0434\u0438\u043D\u0430\u043A\u043E\u0432\u044B\u0439
+      \u043F\u0440\u0435\u0434\u043C\u0435\u0442"
+    maxScore: 1
+  - uniqueId: 188
+    lessonId: 38
+    themeId: 26
+    title: "\u0423\u0431\u0435\u0440\u0438 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435"
+    maxScore: 1
+  - uniqueId: 189
+    lessonId: 35
+    themeId: 26
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0446\u0432\u0435\u0442\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 190
+    lessonId: 33
+    themeId: 26
+    title: "\u0427\u0435\u0439 \u0434\u043E\u043C\u0438\u043A?"
+    maxScore: 1
+  - uniqueId: 191
+    lessonId: 30
+    themeId: 26
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u043C\u0430\u043C\u0430?"
+    maxScore: 1
+  - uniqueId: 192
+    lessonId: 29
+    themeId: 26
+    title: "\u0422\u0435\u043B\u043E \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 193
+    lessonId: 41
+    themeId: 26
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 1
+  - uniqueId: 194
+    lessonId: 46
+    themeId: 26
+    title: "\u0428\u043A\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u043E\u0440\u0442\u0444\u0435\u043B\u044C"
+    maxScore: 1
+  - uniqueId: 195
+    lessonId: 58
+    themeId: 27
+    title: "\u041B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043D\u0430\u044F
+      \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430 - 1"
+    maxScore: 1
+  - uniqueId: 196
+    lessonId: 59
+    themeId: 27
+    title: "\u041B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043D\u0430\u044F
+      \u0432\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430 - 2"
+    maxScore: 1
+  - uniqueId: 197
+    lessonId: 55
+    themeId: 27
+    title: "\u041D. \u041D\u043E\u0441\u043E\u0432 - \u0444\u0430\u043D\u0442\u0430\u0437\u0451\u0440\u044B"
+    maxScore: 1
+  - uniqueId: 198
+    lessonId: 64
+    themeId: 28
+    title: "\u0410\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438"
+    maxScore: 1
+  - uniqueId: 199
+    lessonId: 70
+    themeId: 28
+    title: "\u041A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C"
+    maxScore: 1
+  - uniqueId: 200
+    lessonId: 72
+    themeId: 28
+    title: "\u041A\u043B\u044E\u0447\u0438\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 201
+    lessonId: 74
+    themeId: 28
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043F\u0430\u0440\u0443"
+    maxScore: 1
+  - uniqueId: 202
+    lessonId: 75
+    themeId: 28
+    title: "\u0427\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439 \u043B\u0438\u0448\u043D\u0438\u0439"
+    maxScore: 7
+  - uniqueId: 203
+    lessonId: 96
+    themeId: 28
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C 2"
+    maxScore: 1
+  - uniqueId: 204
+    lessonId: 93
+    themeId: 28
+    title: "\u041F\u043E\u0447\u0438\u043D\u0438 \u0437\u0430\u0431\u043E\u0440"
+    maxScore: 1
+  - uniqueId: 205
+    lessonId: 88
+    themeId: 28
+    title: "\u0421\u043E\u0435\u0434\u0438\u043D\u0438 \u043F\u043E \u0442\u043E\u0447\u043A\u0430\u043C"
+    maxScore: 1
+  - uniqueId: 206
+    lessonId: 79
+    themeId: 28
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043D\u043E\u0441\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 207
+    lessonId: 95
+    themeId: 28
+    title: "\u041C\u043E\u0437\u0430\u0438\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 208
+    lessonId: 101
+    themeId: 29
+    title: "\u0414\u0440\u043E\u0431\u0438"
+    maxScore: 1
+  - uniqueId: 209
+    lessonId: 102
+    themeId: 29
+    title: "\u041C\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 210
+    lessonId: 105
+    themeId: 29
+    title: "\u041D\u0430\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u0441\u0443\u043C\u043C\u044B
+      \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0441\u043B\u0430\u0433\u0430\u0435\u043C\u044B\u0445"
+    maxScore: 1
+  - uniqueId: 211
+    lessonId: 125
+    themeId: 30
+    title: "\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 212
+    lessonId: 127
+    themeId: 30
+    title: "\u0425\u043E\u0447\u0443 \u0432\u0441\u0435 \u0437\u043D\u0430\u0442\u044C"
+    maxScore: 1
+  - uniqueId: 213
+    lessonId: 128
+    themeId: 30
+    title: "\u0416\u0438\u0432\u0430\u044F \u0438 \u043D\u0435\u0436\u0438\u0432\u0430\u044F
+      \u043F\u0440\u0438\u0440\u043E\u0434\u0430"
+    maxScore: 1
+  - uniqueId: 214
+    lessonId: 132
+    themeId: 30
+    title: "\u041A\u043E\u0441\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0438\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u044F"
+    maxScore: 1
+  - uniqueId: 215
+    lessonId: 123
+    themeId: 30
+    title: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+    maxScore: 1
+  - uniqueId: 216
+    lessonId: 133
+    themeId: 30
+    title: "\u041A\u043E\u0441\u043C\u043E\u0441, \u0437\u0432\u0451\u0437\u0434\u044B
+      \u0438 \u043F\u043B\u0430\u043D\u0435\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 217
+    lessonId: 136
+    themeId: 30
+    title: "\u041C\u0438\u0440 \u0433\u043B\u0430\u0437\u0430\u043C\u0438 \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C\u0430
+      - 1"
+    maxScore: 1
+  - uniqueId: 218
+    lessonId: 137
+    themeId: 30
+    title: "\u041C\u0438\u0440 \u0433\u043B\u0430\u0437\u0430\u043C\u0438 \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C\u0430
+      - 2"
+    maxScore: 1
+  - uniqueId: 219
+    lessonId: 139
+    themeId: 30
+    title: "\u041E\u0440\u0433\u0430\u043D\u044B \u0447\u0443\u0432\u0441\u0442\u0432
+      - 1"
+    maxScore: 1
+  - uniqueId: 220
+    lessonId: 140
+    themeId: 30
+    title: "\u041E\u0440\u0433\u0430\u043D\u044B \u0447\u0443\u0432\u0441\u0442\u0432
+      - 2"
+    maxScore: 1
+  - uniqueId: 221
+    lessonId: 148
+    themeId: 31
+    title: "\u0410\u043D\u0432\u0430\u0440 \u0438\u0434\u0451\u0442 \u0432 \u043F\u043E\u0445\u043E\u0434"
+    maxScore: 1
+  - uniqueId: 222
+    lessonId: 149
+    themeId: 31
+    title: "\u0414\u043E\u043C \u0432 \u0434\u0435\u0440\u0435\u0432\u043D\u0435"
+    maxScore: 1
+  - uniqueId: 223
+    lessonId: 150
+    themeId: 31
+    title: "\u0414\u0440\u0443\u0436\u0435\u043B\u044E\u0431\u043D\u044B\u0439 \u043B\u0438\u0441\u0451\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 224
+    lessonId: 151
+    themeId: 31
+    title: "\u0413\u043E\u0440\u043D\u0430\u044F \u0442\u0440\u043E\u043F\u0430"
+    maxScore: 1
+  - uniqueId: 225
+    lessonId: 152
+    themeId: 31
+    title: "\u0413\u0440\u0438\u0431\u043E\u0447\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 226
+    lessonId: 153
+    themeId: 31
+    title: "\u041E\u0447\u0435\u0440\u0442\u0430\u043D\u0438\u044F \u0441\u0442\u0440\u0430\u043D"
+    maxScore: 1
+  - uniqueId: 227
+    lessonId: 154
+    themeId: 31
+    title: "\u0421\u0438\u043D\u0438\u0447\u043A\u0430 \u0438 \u0440\u044F\u0431\u0438\u043D\u0430"
+    maxScore: 1
+  - uniqueId: 228
+    lessonId: 155
+    themeId: 31
+    title: "\u0412\u043E\u043B\u0448\u0435\u0431\u043D\u044B\u0439 \u043A\u043E\u0432\u0451\u0440"
+    maxScore: 1
+  - uniqueId: 229
+    lessonId: 156
+    themeId: 31
+    title: "\u0425\u0438\u0442\u0440\u044B\u0439 \u043A\u043E\u0442"
+    maxScore: 1
+  - uniqueId: 230
+    lessonId: 157
+    themeId: 31
+    title: "\u0417\u043E\u043B\u043E\u0442\u044B\u0435 \u0440\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 231
+    lessonId: 158
+    themeId: 31
+    title: "\u041F\u0430\u0437\u043B 1"
+    maxScore: 1
+  - uniqueId: 232
+    lessonId: 159
+    themeId: 31
+    title: "\u041F\u0430\u0437\u043B 2"
+    maxScore: 1
+  - uniqueId: 233
+    lessonId: 160
+    themeId: 31
+    title: "\u041F\u0430\u0437\u043B 3"
+    maxScore: 1
+  - uniqueId: 234
+    lessonId: 173
+    themeId: 32
+    title: "\u041F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435"
+    maxScore: 1
+  - uniqueId: 235
+    lessonId: 19
+    themeId: 33
+    title: "\u041F\u0440\u043E \u043F\u0442\u0438\u0446"
+    maxScore: 1
+  - uniqueId: 236
+    lessonId: 15
+    themeId: 33
+    title: "\u041B\u0435\u0442\u043E"
+    maxScore: 1
+  - uniqueId: 237
+    lessonId: 16
+    themeId: 33
+    title: "\u041C\u0435\u0431\u0435\u043B\u044C"
+    maxScore: 1
+  - uniqueId: 238
+    lessonId: 20
+    themeId: 33
+    title: "\u041F\u0440\u043E \u0446\u0432\u0435\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 239
+    lessonId: 195
+    themeId: 34
+    title: "\u041C\u0430\u0448\u0438\u043D\u0430 \u0432\u0440\u0435\u043C\u0435\u043D\u0438"
+    maxScore: 1
+  - uniqueId: 240
+    lessonId: 200
+    themeId: 34
+    title: "\u041D\u0430\u0440\u0435\u0447\u0438\u0435"
+    maxScore: 1
+  - uniqueId: 241
+    lessonId: 194
+    themeId: 34
+    title: "\u041B\u0438\u0447\u043D\u044B\u0435 \u043C\u0435\u0441\u0442\u043E\u0438\u043C\u0435\u043D\u0438\u044F
+      - 2"
+    maxScore: 1
+  - uniqueId: 242
+    lessonId: 202
+    themeId: 34
+    title: "\u041D\u0435\u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0435 \u0441\u043B\u043E\u0432\u0430
+      - 1"
+    maxScore: 9
+  - uniqueId: 243
+    lessonId: 203
+    themeId: 34
+    title: "\u041D\u0435\u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0435 \u0441\u043B\u043E\u0432\u0430
+      - 2"
+    maxScore: 9
+  - uniqueId: 244
+    lessonId: 204
+    themeId: 34
+    title: "\u041D\u0435\u0437\u043D\u0430\u043A\u043E\u043C\u044B\u0435 \u0441\u043B\u043E\u0432\u0430
+      - 3"
+    maxScore: 9
+  - uniqueId: 245
+    lessonId: 217
+    themeId: 34
+    title: "\u0421\u043F\u0440\u044F\u0436\u0435\u043D\u0438\u0435 \u0433\u043B\u0430\u0433\u043E\u043B\u043E\u0432
+      - 1"
+    maxScore: 1
+  - uniqueId: 246
+    lessonId: 218
+    themeId: 34
+    title: "\u0421\u043F\u0440\u044F\u0436\u0435\u043D\u0438\u0435 \u0433\u043B\u0430\u0433\u043E\u043B\u043E\u0432
+      - 2"
+    maxScore: 1
+  - uniqueId: 247
+    lessonId: 221
+    themeId: 34
+    title: "\u0412\u0441\u0435 \u043E \u0433\u043B\u0430\u0433\u043E\u043B\u0435 -
+      1"
+    maxScore: 1
+  - uniqueId: 248
+    lessonId: 222
+    themeId: 34
+    title: "\u0412\u0441\u0435 \u043E \u0433\u043B\u0430\u0433\u043E\u043B\u0435 -
+      2"
+    maxScore: 1
+  - uniqueId: 249
+    lessonId: 216
+    themeId: 34
+    title: "\u0421\u043E\u0441\u0442\u0430\u0432 \u0441\u043B\u043E\u0432\u0430"
+    maxScore: 1
+  - uniqueId: 250
+    lessonId: 219
+    themeId: 34
+    title: "\u0422\u0435\u043A\u0441\u0442. \u043F\u0440\u0438\u0437\u043D\u0430\u043A\u0438
+      \u0442\u0435\u043A\u0441\u0442\u0430"
+    maxScore: 1
+  - uniqueId: 251
+    lessonId: 230
+    themeId: 35
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F"
+    maxScore: 1
+  - uniqueId: 252
+    lessonId: 231
+    themeId: 35
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 253
+    lessonId: 232
+    themeId: 35
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0442\u043B\u0438\u0447\u0438\u044F
+      2"
+    maxScore: 1
+  - uniqueId: 254
+    lessonId: 233
+    themeId: 35
+    title: "\u0420\u044B\u0431\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 255
+    lessonId: 234
+    themeId: 35
+    title: "\u041D\u0430\u0439\u0434\u0438 \u043E\u0434\u0438\u043D\u0430\u043A\u043E\u0432\u044B\u0439
+      \u043F\u0440\u0435\u0434\u043C\u0435\u0442"
+    maxScore: 1
+  - uniqueId: 256
+    lessonId: 13
+    themeId: 36
+    title: "\u041E\u0441\u0435\u043D\u044C"
+    maxScore: 7
+  - uniqueId: 257
+    lessonId: 14
+    themeId: 36
+    title: "\u0413\u0440\u0438\u0431\u044B"
+    maxScore: 7
+  - uniqueId: 258
+    lessonId: 15
+    themeId: 36
+    title: "\u041B\u0435\u0442\u043E"
+    maxScore: 7
+  - uniqueId: 259
+    lessonId: 16
+    themeId: 36
+    title: "\u041C\u0435\u0431\u0435\u043B\u044C"
+    maxScore: 7
+  - uniqueId: 260
+    lessonId: 17
+    themeId: 36
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 261
+    lessonId: 18
+    themeId: 36
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 262
+    lessonId: 19
+    themeId: 36
+    title: "\u041F\u0440\u043E \u043F\u0442\u0438\u0446"
+    maxScore: 5
+  - uniqueId: 263
+    lessonId: 20
+    themeId: 36
+    title: "\u041F\u0440\u043E \u0446\u0432\u0435\u0442\u044B"
+    maxScore: 5
+  - uniqueId: 264
+    lessonId: 21
+    themeId: 36
+    title: "\u0412\u0435\u0441\u043D\u0430"
+    maxScore: 7
+  - uniqueId: 265
+    lessonId: 22
+    themeId: 36
+    title: "\u0415\u0434\u0430"
+    maxScore: 7
+  - uniqueId: 266
+    lessonId: 64
+    themeId: 4
+    title: "\u0410\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438"
+    maxScore: 1
+  - uniqueId: 267
+    lessonId: 65
+    themeId: 4
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0431\u0443\u0441\u044B"
+    maxScore: 3
+  - uniqueId: 268
+    lessonId: 66
+    themeId: 4
+    title: "\u041B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0446\u0435\u043F\u043E\u0447\u043A\u0430"
+    maxScore: 7
+  - uniqueId: 269
+    lessonId: 67
+    themeId: 4
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0447\u0430\u0448\u043A\u0443"
+    maxScore: 3
+  - uniqueId: 270
+    lessonId: 68
+    themeId: 4
+    title: "\u0426\u0432\u0435\u0442\u043D\u044B\u0435 \u0444\u0438\u0433\u0443\u0440\u044B"
+    maxScore: 1
+  - uniqueId: 271
+    lessonId: 69
+    themeId: 4
+    title: "\u0411\u043E\u0436\u044C\u0438 \u043A\u043E\u0440\u043E\u0432\u043A\u0438"
+    maxScore: 6
+  - uniqueId: 272
+    lessonId: 70
+    themeId: 4
+    title: "\u041A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C"
+    maxScore: 3
+  - uniqueId: 273
+    lessonId: 71
+    themeId: 4
+    title: "\u041A\u0430\u0440\u0430\u043D\u0434\u0430\u0448\u0438"
+    maxScore: 5
+  - uniqueId: 274
+    lessonId: 72
+    themeId: 4
+    title: "\u041A\u043B\u044E\u0447\u0438\u043A\u0438"
+    maxScore: 4
+  - uniqueId: 275
+    lessonId: 73
+    themeId: 4
+    title: "\u041F\u0438\u0440\u0430\u043C\u0438\u0434\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 276
+    lessonId: 74
+    themeId: 4
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043F\u0430\u0440\u0443"
+    maxScore: 3
+  - uniqueId: 277
+    lessonId: 75
+    themeId: 4
+    title: "\u0427\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439 \u043B\u0438\u0448\u043D\u0438\u0439"
+    maxScore: 7
+  - uniqueId: 278
+    lessonId: 76
+    themeId: 4
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u0442\u0435\u043D\u044C?"
+    maxScore: 2
+  - uniqueId: 279
+    lessonId: 77
+    themeId: 4
+    title: "\u0420\u0443\u0441\u0441\u043A\u0438\u0435 \u043C\u0430\u0442\u0440\u0435\u0448\u043A\u0438"
+    maxScore: 7
+  - uniqueId: 280
+    lessonId: 78
+    themeId: 4
+    title: "\u041E\u0448\u0438\u0431\u043A\u0438 \u0445\u0443\u0434\u043E\u0436\u043D\u0438\u043A\u0430"
+    maxScore: 5
+  - uniqueId: 281
+    lessonId: 79
+    themeId: 4
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043D\u043E\u0441\u043E\u043A"
+    maxScore: 3
+  - uniqueId: 282
+    lessonId: 80
+    themeId: 4
+    title: "\u0410\u043A\u0432\u0430\u0440\u0435\u043B\u044C\u043D\u044B\u0435 \u043A\u0440\u0430\u0441\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 283
+    lessonId: 81
+    themeId: 4
+    title: "\u041C\u0430\u0442\u0440\u0451\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 284
+    lessonId: 82
+    themeId: 4
+    title: "\u041F\u043E\u0434\u0430\u0440\u043A\u0438 \u043E\u0442 \u0434\u0435\u0434\u0430
+      \u043C\u043E\u0440\u043E\u0437\u0430"
+    maxScore: 3
+  - uniqueId: 285
+    lessonId: 83
+    themeId: 4
+    title: "\u041A\u0440\u0430\u0441\u043E\u0447\u043D\u044B\u0435 \u043A\u0443\u0431\u0438\u043A\u0438"
+    maxScore: 3
+  - uniqueId: 286
+    lessonId: 84
+    themeId: 4
+    title: "\u041F\u0440\u043E\u0442\u0438\u0432\u043E\u043F\u043E\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438"
+    maxScore: 3
+  - uniqueId: 287
+    lessonId: 85
+    themeId: 4
+    title: "\u0426\u0432\u0435\u0442\u043E\u0447\u043D\u0430\u044F \u043A\u043B\u0443\u043C\u0431\u0430"
+    maxScore: 7
+  - uniqueId: 288
+    lessonId: 86
+    themeId: 4
+    title: "\u0414\u0435\u043D\u044C \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F"
+    maxScore: 8
+  - uniqueId: 289
+    lessonId: 88
+    themeId: 4
+    title: "\u0421\u043E\u0435\u0434\u0438\u043D\u0438 \u043F\u043E \u0442\u043E\u0447\u043A\u0430\u043C"
+    maxScore: 1
+  - uniqueId: 290
+    lessonId: 89
+    themeId: 4
+    title: "\u0421\u0431\u043E\u0440 \u0443\u0440\u043E\u0436\u0430\u044F"
+    maxScore: 1
+  - uniqueId: 291
+    lessonId: 90
+    themeId: 4
+    title: "\u0421\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0443\u0442\u044F\u0442"
+    maxScore: 7
+  - uniqueId: 292
+    lessonId: 91
+    themeId: 4
+    title: "\u0414\u043E\u043F\u043E\u043B\u043D\u0438 \u0440\u0438\u0441\u0443\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 293
+    lessonId: 92
+    themeId: 4
+    title: "\u0423\u043A\u0440\u0430\u0441\u044C \u0451\u043B\u043A\u0443"
+    maxScore: 10
+  - uniqueId: 294
+    lessonId: 93
+    themeId: 4
+    title: "\u041F\u043E\u0447\u0438\u043D\u0438 \u0437\u0430\u0431\u043E\u0440"
+    maxScore: 4
+  - uniqueId: 295
+    lessonId: 13
+    themeId: 37
+    title: "\u041E\u0441\u0435\u043D\u044C"
+    maxScore: 7
+  - uniqueId: 296
+    lessonId: 14
+    themeId: 37
+    title: "\u0413\u0440\u0438\u0431\u044B"
+    maxScore: 7
+  - uniqueId: 297
+    lessonId: 15
+    themeId: 37
+    title: "\u041B\u0435\u0442\u043E"
+    maxScore: 7
+  - uniqueId: 298
+    lessonId: 16
+    themeId: 37
+    title: "\u041C\u0435\u0431\u0435\u043B\u044C"
+    maxScore: 7
+  - uniqueId: 299
+    lessonId: 17
+    themeId: 37
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 300
+    lessonId: 18
+    themeId: 37
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 301
+    lessonId: 19
+    themeId: 37
+    title: "\u041F\u0440\u043E \u043F\u0442\u0438\u0446"
+    maxScore: 5
+  - uniqueId: 302
+    lessonId: 20
+    themeId: 37
+    title: "\u041F\u0440\u043E \u0446\u0432\u0435\u0442\u044B"
+    maxScore: 5
+  - uniqueId: 303
+    lessonId: 21
+    themeId: 37
+    title: "\u0412\u0435\u0441\u043D\u0430"
+    maxScore: 7
+  - uniqueId: 304
+    lessonId: 22
+    themeId: 37
+    title: "\u0415\u0434\u0430"
+    maxScore: 7
+  - uniqueId: 305
+    lessonId: 31
+    themeId: 11
+    title: "\u041A\u0442\u043E \u043A\u0430\u043A \u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044F"
+    maxScore: 5
+  - uniqueId: 306
+    lessonId: 32
+    themeId: 11
+    title: "\u0414\u0438\u043A\u0438\u0435 \u0438 \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435
+      \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 307
+    lessonId: 34
+    themeId: 11
+    title: "\u0427\u0442\u043E \u0433\u0434\u0435 \u0440\u0430\u0441\u0442\u0451\u0442?"
+    maxScore: 3
+  - uniqueId: 308
+    lessonId: 36
+    themeId: 11
+    title: "\u041B\u0435\u0441\u043D\u044B\u0435 \u0433\u0440\u0438\u0431\u044B"
+    maxScore: 5
+  - uniqueId: 309
+    lessonId: 37
+    themeId: 11
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0431\u0430\u0431\u043E\u0447\u043A\u0443"
+    maxScore: 1
+  - uniqueId: 310
+    lessonId: 39
+    themeId: 11
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 311
+    lessonId: 40
+    themeId: 11
+    title: "\u0427\u0435\u0439 \u043C\u0430\u043B\u044B\u0448?"
+    maxScore: 5
+  - uniqueId: 312
+    lessonId: 42
+    themeId: 11
+    title: "\u041E\u0432\u043E\u0449\u0438 \u0438 \u0444\u0440\u0443\u043A\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 313
+    lessonId: 43
+    themeId: 11
+    title: "\u041F\u0430\u043B\u044C\u0447\u0438\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 314
+    lessonId: 44
+    themeId: 11
+    title: "\u041A\u0442\u043E \u0447\u0442\u043E \u0435\u0441\u0442?"
+    maxScore: 1
+  - uniqueId: 315
+    lessonId: 45
+    themeId: 11
+    title: "\u0427\u0442\u043E \u0438\u0437 \u0447\u0435\u0433\u043E \u0441\u0434\u0435\u043B\u0430\u043D\u043E?"
+    maxScore: 1
+  - uniqueId: 316
+    lessonId: 47
+    themeId: 11
+    title: "\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u0438"
+    maxScore: 5
+  - uniqueId: 317
+    lessonId: 48
+    themeId: 11
+    title: "\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442"
+    maxScore: 9
+  - uniqueId: 318
+    lessonId: 49
+    themeId: 11
+    title: "\u0421\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435 \u043D\u0435\u0441\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435"
+    maxScore: 3
+  - uniqueId: 319
+    lessonId: 50
+    themeId: 11
+    title: "\u0427\u044C\u0438 \u0441\u043B\u0435\u0434\u044B?"
+    maxScore: 5
+  - uniqueId: 320
+    lessonId: 51
+    themeId: 11
+    title: "\u0412\u0438\u0434\u044B \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0430"
+    maxScore: 1
+  - uniqueId: 321
+    lessonId: 52
+    themeId: 11
+    title: "\u042F\u0433\u043E\u0434\u043D\u043E\u0435 \u0432\u0430\u0440\u0435\u043D\u044C\u0435"
+    maxScore: 10
+  - uniqueId: 322
+    lessonId: 53
+    themeId: 11
+    title: "\u041E\u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u043F\u043E\u0434\u043E\u043A\u043E\u043D\u043D\u0438\u043A\u0435"
+    maxScore: 5
+  - uniqueId: 323
+    lessonId: 54
+    themeId: 11
+    title: "\u0412\u0435\u0441\u0435\u043B\u044B\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u044B"
+    maxScore: 7
+  - uniqueId: 324
+    lessonId: 65
+    themeId: 12
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0431\u0443\u0441\u044B"
+    maxScore: 3
+  - uniqueId: 325
+    lessonId: 66
+    themeId: 12
+    title: "\u041B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0446\u0435\u043F\u043E\u0447\u043A\u0430"
+    maxScore: 7
+  - uniqueId: 326
+    lessonId: 67
+    themeId: 12
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0447\u0430\u0448\u043A\u0443"
+    maxScore: 3
+  - uniqueId: 327
+    lessonId: 68
+    themeId: 12
+    title: "\u0426\u0432\u0435\u0442\u043D\u044B\u0435 \u0444\u0438\u0433\u0443\u0440\u044B"
+    maxScore: 1
+  - uniqueId: 328
+    lessonId: 69
+    themeId: 12
+    title: "\u0411\u043E\u0436\u044C\u0438 \u043A\u043E\u0440\u043E\u0432\u043A\u0438"
+    maxScore: 6
+  - uniqueId: 329
+    lessonId: 71
+    themeId: 12
+    title: "\u041A\u0430\u0440\u0430\u043D\u0434\u0430\u0448\u0438"
+    maxScore: 5
+  - uniqueId: 330
+    lessonId: 73
+    themeId: 12
+    title: "\u041F\u0438\u0440\u0430\u043C\u0438\u0434\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 331
+    lessonId: 76
+    themeId: 12
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u0442\u0435\u043D\u044C?"
+    maxScore: 2
+  - uniqueId: 332
+    lessonId: 77
+    themeId: 12
+    title: "\u0420\u0443\u0441\u0441\u043A\u0438\u0435 \u043C\u0430\u0442\u0440\u0435\u0448\u043A\u0438"
+    maxScore: 7
+  - uniqueId: 333
+    lessonId: 78
+    themeId: 12
+    title: "\u041E\u0448\u0438\u0431\u043A\u0438 \u0445\u0443\u0434\u043E\u0436\u043D\u0438\u043A\u0430"
+    maxScore: 5
+  - uniqueId: 334
+    lessonId: 80
+    themeId: 12
+    title: "\u0410\u043A\u0432\u0430\u0440\u0435\u043B\u044C\u043D\u044B\u0435 \u043A\u0440\u0430\u0441\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 335
+    lessonId: 81
+    themeId: 12
+    title: "\u041C\u0430\u0442\u0440\u0451\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 336
+    lessonId: 82
+    themeId: 12
+    title: "\u041F\u043E\u0434\u0430\u0440\u043A\u0438 \u043E\u0442 \u0434\u0435\u0434\u0430
+      \u043C\u043E\u0440\u043E\u0437\u0430"
+    maxScore: 3
+  - uniqueId: 337
+    lessonId: 83
+    themeId: 12
+    title: "\u041A\u0440\u0430\u0441\u043E\u0447\u043D\u044B\u0435 \u043A\u0443\u0431\u0438\u043A\u0438"
+    maxScore: 3
+  - uniqueId: 338
+    lessonId: 84
+    themeId: 12
+    title: "\u041F\u0440\u043E\u0442\u0438\u0432\u043E\u043F\u043E\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438"
+    maxScore: 3
+  - uniqueId: 339
+    lessonId: 85
+    themeId: 12
+    title: "\u0426\u0432\u0435\u0442\u043E\u0447\u043D\u0430\u044F \u043A\u043B\u0443\u043C\u0431\u0430"
+    maxScore: 7
+  - uniqueId: 340
+    lessonId: 86
+    themeId: 12
+    title: "\u0414\u0435\u043D\u044C \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F"
+    maxScore: 8
+  - uniqueId: 341
+    lessonId: 87
+    themeId: 12
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C"
+    maxScore: 5
+  - uniqueId: 342
+    lessonId: 89
+    themeId: 12
+    title: "\u0421\u0431\u043E\u0440 \u0443\u0440\u043E\u0436\u0430\u044F"
+    maxScore: 1
+  - uniqueId: 343
+    lessonId: 90
+    themeId: 12
+    title: "\u0421\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0443\u0442\u044F\u0442"
+    maxScore: 7
+  - uniqueId: 344
+    lessonId: 91
+    themeId: 12
+    title: "\u0414\u043E\u043F\u043E\u043B\u043D\u0438 \u0440\u0438\u0441\u0443\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 345
+    lessonId: 92
+    themeId: 12
+    title: "\u0423\u043A\u0440\u0430\u0441\u044C \u0451\u043B\u043A\u0443"
+    maxScore: 10
+  - uniqueId: 346
+    lessonId: 94
+    themeId: 12
+    title: "\u041C\u0438\u0448\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 347
+    lessonId: 31
+    themeId: 17
+    title: "\u041A\u0442\u043E \u043A\u0430\u043A \u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044F"
+    maxScore: 5
+  - uniqueId: 348
+    lessonId: 32
+    themeId: 17
+    title: "\u0414\u0438\u043A\u0438\u0435 \u0438 \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435
+      \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 349
+    lessonId: 34
+    themeId: 17
+    title: "\u0427\u0442\u043E \u0433\u0434\u0435 \u0440\u0430\u0441\u0442\u0451\u0442?"
+    maxScore: 3
+  - uniqueId: 350
+    lessonId: 36
+    themeId: 17
+    title: "\u041B\u0435\u0441\u043D\u044B\u0435 \u0433\u0440\u0438\u0431\u044B"
+    maxScore: 5
+  - uniqueId: 351
+    lessonId: 37
+    themeId: 17
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0431\u0430\u0431\u043E\u0447\u043A\u0443"
+    maxScore: 1
+  - uniqueId: 352
+    lessonId: 39
+    themeId: 17
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 353
+    lessonId: 40
+    themeId: 17
+    title: "\u0427\u0435\u0439 \u043C\u0430\u043B\u044B\u0448?"
+    maxScore: 5
+  - uniqueId: 354
+    lessonId: 42
+    themeId: 17
+    title: "\u041E\u0432\u043E\u0449\u0438 \u0438 \u0444\u0440\u0443\u043A\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 355
+    lessonId: 43
+    themeId: 17
+    title: "\u041F\u0430\u043B\u044C\u0447\u0438\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 356
+    lessonId: 44
+    themeId: 17
+    title: "\u041A\u0442\u043E \u0447\u0442\u043E \u0435\u0441\u0442?"
+    maxScore: 1
+  - uniqueId: 357
+    lessonId: 45
+    themeId: 17
+    title: "\u0427\u0442\u043E \u0438\u0437 \u0447\u0435\u0433\u043E \u0441\u0434\u0435\u043B\u0430\u043D\u043E?"
+    maxScore: 1
+  - uniqueId: 358
+    lessonId: 47
+    themeId: 17
+    title: "\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u0438"
+    maxScore: 5
+  - uniqueId: 359
+    lessonId: 48
+    themeId: 17
+    title: "\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442"
+    maxScore: 9
+  - uniqueId: 360
+    lessonId: 49
+    themeId: 17
+    title: "\u0421\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435 \u043D\u0435\u0441\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435"
+    maxScore: 3
+  - uniqueId: 361
+    lessonId: 50
+    themeId: 17
+    title: "\u0427\u044C\u0438 \u0441\u043B\u0435\u0434\u044B?"
+    maxScore: 5
+  - uniqueId: 362
+    lessonId: 51
+    themeId: 17
+    title: "\u0412\u0438\u0434\u044B \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0430"
+    maxScore: 1
+  - uniqueId: 363
+    lessonId: 52
+    themeId: 17
+    title: "\u042F\u0433\u043E\u0434\u043D\u043E\u0435 \u0432\u0430\u0440\u0435\u043D\u044C\u0435"
+    maxScore: 10
+  - uniqueId: 364
+    lessonId: 53
+    themeId: 17
+    title: "\u041E\u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u043F\u043E\u0434\u043E\u043A\u043E\u043D\u043D\u0438\u043A\u0435"
+    maxScore: 5
+  - uniqueId: 365
+    lessonId: 54
+    themeId: 17
+    title: "\u0412\u0435\u0441\u0435\u043B\u044B\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u044B"
+    maxScore: 7
+  - uniqueId: 366
+    lessonId: 64
+    themeId: 18
+    title: "\u0410\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438"
+    maxScore: 1
+  - uniqueId: 367
+    lessonId: 65
+    themeId: 18
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0431\u0443\u0441\u044B"
+    maxScore: 3
+  - uniqueId: 368
+    lessonId: 66
+    themeId: 18
+    title: "\u041B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0446\u0435\u043F\u043E\u0447\u043A\u0430"
+    maxScore: 7
+  - uniqueId: 369
+    lessonId: 67
+    themeId: 18
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0447\u0430\u0448\u043A\u0443"
+    maxScore: 3
+  - uniqueId: 370
+    lessonId: 68
+    themeId: 18
+    title: "\u0426\u0432\u0435\u0442\u043D\u044B\u0435 \u0444\u0438\u0433\u0443\u0440\u044B"
+    maxScore: 1
+  - uniqueId: 371
+    lessonId: 69
+    themeId: 18
+    title: "\u0411\u043E\u0436\u044C\u0438 \u043A\u043E\u0440\u043E\u0432\u043A\u0438"
+    maxScore: 6
+  - uniqueId: 372
+    lessonId: 70
+    themeId: 18
+    title: "\u041A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C"
+    maxScore: 3
+  - uniqueId: 373
+    lessonId: 71
+    themeId: 18
+    title: "\u041A\u0430\u0440\u0430\u043D\u0434\u0430\u0448\u0438"
+    maxScore: 5
+  - uniqueId: 374
+    lessonId: 72
+    themeId: 18
+    title: "\u041A\u043B\u044E\u0447\u0438\u043A\u0438"
+    maxScore: 4
+  - uniqueId: 375
+    lessonId: 73
+    themeId: 18
+    title: "\u041F\u0438\u0440\u0430\u043C\u0438\u0434\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 376
+    lessonId: 74
+    themeId: 18
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043F\u0430\u0440\u0443"
+    maxScore: 3
+  - uniqueId: 377
+    lessonId: 75
+    themeId: 18
+    title: "\u0427\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439 \u043B\u0438\u0448\u043D\u0438\u0439"
+    maxScore: 7
+  - uniqueId: 378
+    lessonId: 76
+    themeId: 18
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u0442\u0435\u043D\u044C?"
+    maxScore: 2
+  - uniqueId: 379
+    lessonId: 77
+    themeId: 18
+    title: "\u0420\u0443\u0441\u0441\u043A\u0438\u0435 \u043C\u0430\u0442\u0440\u0435\u0448\u043A\u0438"
+    maxScore: 7
+  - uniqueId: 380
+    lessonId: 78
+    themeId: 18
+    title: "\u041E\u0448\u0438\u0431\u043A\u0438 \u0445\u0443\u0434\u043E\u0436\u043D\u0438\u043A\u0430"
+    maxScore: 5
+  - uniqueId: 381
+    lessonId: 79
+    themeId: 18
+    title: "\u041F\u043E\u0434\u0431\u0435\u0440\u0438 \u043D\u043E\u0441\u043E\u043A"
+    maxScore: 3
+  - uniqueId: 382
+    lessonId: 80
+    themeId: 18
+    title: "\u0410\u043A\u0432\u0430\u0440\u0435\u043B\u044C\u043D\u044B\u0435 \u043A\u0440\u0430\u0441\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 383
+    lessonId: 81
+    themeId: 18
+    title: "\u041C\u0430\u0442\u0440\u0451\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 384
+    lessonId: 82
+    themeId: 18
+    title: "\u041F\u043E\u0434\u0430\u0440\u043A\u0438 \u043E\u0442 \u0434\u0435\u0434\u0430
+      \u043C\u043E\u0440\u043E\u0437\u0430"
+    maxScore: 3
+  - uniqueId: 385
+    lessonId: 83
+    themeId: 18
+    title: "\u041A\u0440\u0430\u0441\u043E\u0447\u043D\u044B\u0435 \u043A\u0443\u0431\u0438\u043A\u0438"
+    maxScore: 3
+  - uniqueId: 386
+    lessonId: 84
+    themeId: 18
+    title: "\u041F\u0440\u043E\u0442\u0438\u0432\u043E\u043F\u043E\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438"
+    maxScore: 3
+  - uniqueId: 387
+    lessonId: 85
+    themeId: 18
+    title: "\u0426\u0432\u0435\u0442\u043E\u0447\u043D\u0430\u044F \u043A\u043B\u0443\u043C\u0431\u0430"
+    maxScore: 7
+  - uniqueId: 388
+    lessonId: 86
+    themeId: 18
+    title: "\u0414\u0435\u043D\u044C \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F"
+    maxScore: 8
+  - uniqueId: 389
+    lessonId: 87
+    themeId: 18
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C"
+    maxScore: 5
+  - uniqueId: 390
+    lessonId: 88
+    themeId: 18
+    title: "\u0421\u043E\u0435\u0434\u0438\u043D\u0438 \u043F\u043E \u0442\u043E\u0447\u043A\u0430\u043C"
+    maxScore: 1
+  - uniqueId: 391
+    lessonId: 89
+    themeId: 18
+    title: "\u0421\u0431\u043E\u0440 \u0443\u0440\u043E\u0436\u0430\u044F"
+    maxScore: 1
+  - uniqueId: 392
+    lessonId: 90
+    themeId: 18
+    title: "\u0421\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0443\u0442\u044F\u0442"
+    maxScore: 7
+  - uniqueId: 393
+    lessonId: 91
+    themeId: 18
+    title: "\u0414\u043E\u043F\u043E\u043B\u043D\u0438 \u0440\u0438\u0441\u0443\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 394
+    lessonId: 92
+    themeId: 18
+    title: "\u0423\u043A\u0440\u0430\u0441\u044C \u0451\u043B\u043A\u0443"
+    maxScore: 10
+  - uniqueId: 395
+    lessonId: 93
+    themeId: 18
+    title: "\u041F\u043E\u0447\u0438\u043D\u0438 \u0437\u0430\u0431\u043E\u0440"
+    maxScore: 4
+  - uniqueId: 396
+    lessonId: 94
+    themeId: 18
+    title: "\u041C\u0438\u0448\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 397
+    lessonId: 96
+    themeId: 18
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C 2"
+    maxScore: 6
+  - uniqueId: 398
+    lessonId: 31
+    themeId: 26
+    title: "\u041A\u0442\u043E \u043A\u0430\u043A \u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044F"
+    maxScore: 5
+  - uniqueId: 399
+    lessonId: 32
+    themeId: 26
+    title: "\u0414\u0438\u043A\u0438\u0435 \u0438 \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435
+      \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 400
+    lessonId: 34
+    themeId: 26
+    title: "\u0427\u0442\u043E \u0433\u0434\u0435 \u0440\u0430\u0441\u0442\u0451\u0442?"
+    maxScore: 3
+  - uniqueId: 401
+    lessonId: 36
+    themeId: 26
+    title: "\u041B\u0435\u0441\u043D\u044B\u0435 \u0433\u0440\u0438\u0431\u044B"
+    maxScore: 5
+  - uniqueId: 402
+    lessonId: 37
+    themeId: 26
+    title: "\u0412\u044B\u0440\u0430\u0441\u0442\u0438 \u0431\u0430\u0431\u043E\u0447\u043A\u0443"
+    maxScore: 1
+  - uniqueId: 403
+    lessonId: 39
+    themeId: 26
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 404
+    lessonId: 40
+    themeId: 26
+    title: "\u0427\u0435\u0439 \u043C\u0430\u043B\u044B\u0448?"
+    maxScore: 5
+  - uniqueId: 405
+    lessonId: 42
+    themeId: 26
+    title: "\u041E\u0432\u043E\u0449\u0438 \u0438 \u0444\u0440\u0443\u043A\u0442\u044B"
+    maxScore: 1
+  - uniqueId: 406
+    lessonId: 43
+    themeId: 26
+    title: "\u041F\u0430\u043B\u044C\u0447\u0438\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 407
+    lessonId: 44
+    themeId: 26
+    title: "\u041A\u0442\u043E \u0447\u0442\u043E \u0435\u0441\u0442?"
+    maxScore: 1
+  - uniqueId: 408
+    lessonId: 45
+    themeId: 26
+    title: "\u0427\u0442\u043E \u0438\u0437 \u0447\u0435\u0433\u043E \u0441\u0434\u0435\u043B\u0430\u043D\u043E?"
+    maxScore: 1
+  - uniqueId: 409
+    lessonId: 47
+    themeId: 26
+    title: "\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u0438"
+    maxScore: 5
+  - uniqueId: 410
+    lessonId: 48
+    themeId: 26
+    title: "\u0422\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442"
+    maxScore: 9
+  - uniqueId: 411
+    lessonId: 49
+    themeId: 26
+    title: "\u0421\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435 \u043D\u0435\u0441\u044A\u0435\u0434\u043E\u0431\u043D\u043E\u0435"
+    maxScore: 3
+  - uniqueId: 412
+    lessonId: 50
+    themeId: 26
+    title: "\u0427\u044C\u0438 \u0441\u043B\u0435\u0434\u044B?"
+    maxScore: 5
+  - uniqueId: 413
+    lessonId: 51
+    themeId: 26
+    title: "\u0412\u0438\u0434\u044B \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0430"
+    maxScore: 1
+  - uniqueId: 414
+    lessonId: 52
+    themeId: 26
+    title: "\u042F\u0433\u043E\u0434\u043D\u043E\u0435 \u0432\u0430\u0440\u0435\u043D\u044C\u0435"
+    maxScore: 10
+  - uniqueId: 415
+    lessonId: 53
+    themeId: 26
+    title: "\u041E\u0433\u043E\u0440\u043E\u0434 \u043D\u0430 \u043F\u043E\u0434\u043E\u043A\u043E\u043D\u043D\u0438\u043A\u0435"
+    maxScore: 5
+  - uniqueId: 416
+    lessonId: 54
+    themeId: 26
+    title: "\u0412\u0435\u0441\u0435\u043B\u044B\u0435 \u0432\u043E\u043F\u0440\u043E\u0441\u044B"
+    maxScore: 7
+  - uniqueId: 417
+    lessonId: 13
+    themeId: 27
+    title: "\u041E\u0441\u0435\u043D\u044C"
+    maxScore: 7
+  - uniqueId: 418
+    lessonId: 14
+    themeId: 27
+    title: "\u0413\u0440\u0438\u0431\u044B"
+    maxScore: 7
+  - uniqueId: 419
+    lessonId: 15
+    themeId: 27
+    title: "\u041B\u0435\u0442\u043E"
+    maxScore: 7
+  - uniqueId: 420
+    lessonId: 16
+    themeId: 27
+    title: "\u041C\u0435\u0431\u0435\u043B\u044C"
+    maxScore: 7
+  - uniqueId: 421
+    lessonId: 17
+    themeId: 27
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 422
+    lessonId: 18
+    themeId: 27
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 423
+    lessonId: 19
+    themeId: 27
+    title: "\u041F\u0440\u043E \u043F\u0442\u0438\u0446"
+    maxScore: 5
+  - uniqueId: 424
+    lessonId: 20
+    themeId: 27
+    title: "\u041F\u0440\u043E \u0446\u0432\u0435\u0442\u044B"
+    maxScore: 5
+  - uniqueId: 425
+    lessonId: 21
+    themeId: 27
+    title: "\u0412\u0435\u0441\u043D\u0430"
+    maxScore: 7
+  - uniqueId: 426
+    lessonId: 22
+    themeId: 27
+    title: "\u0415\u0434\u0430"
+    maxScore: 7
+  - uniqueId: 427
+    lessonId: 65
+    themeId: 28
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0431\u0443\u0441\u044B"
+    maxScore: 3
+  - uniqueId: 428
+    lessonId: 66
+    themeId: 28
+    title: "\u041B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0446\u0435\u043F\u043E\u0447\u043A\u0430"
+    maxScore: 7
+  - uniqueId: 429
+    lessonId: 67
+    themeId: 28
+    title: "\u0421\u043E\u0431\u0435\u0440\u0438 \u0447\u0430\u0448\u043A\u0443"
+    maxScore: 3
+  - uniqueId: 430
+    lessonId: 68
+    themeId: 28
+    title: "\u0426\u0432\u0435\u0442\u043D\u044B\u0435 \u0444\u0438\u0433\u0443\u0440\u044B"
+    maxScore: 1
+  - uniqueId: 431
+    lessonId: 69
+    themeId: 28
+    title: "\u0411\u043E\u0436\u044C\u0438 \u043A\u043E\u0440\u043E\u0432\u043A\u0438"
+    maxScore: 6
+  - uniqueId: 432
+    lessonId: 71
+    themeId: 28
+    title: "\u041A\u0430\u0440\u0430\u043D\u0434\u0430\u0448\u0438"
+    maxScore: 5
+  - uniqueId: 433
+    lessonId: 73
+    themeId: 28
+    title: "\u041F\u0438\u0440\u0430\u043C\u0438\u0434\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 434
+    lessonId: 76
+    themeId: 28
+    title: "\u0413\u0434\u0435 \u0447\u044C\u044F \u0442\u0435\u043D\u044C?"
+    maxScore: 2
+  - uniqueId: 435
+    lessonId: 77
+    themeId: 28
+    title: "\u0420\u0443\u0441\u0441\u043A\u0438\u0435 \u043C\u0430\u0442\u0440\u0435\u0448\u043A\u0438"
+    maxScore: 7
+  - uniqueId: 436
+    lessonId: 78
+    themeId: 28
+    title: "\u041E\u0448\u0438\u0431\u043A\u0438 \u0445\u0443\u0434\u043E\u0436\u043D\u0438\u043A\u0430"
+    maxScore: 5
+  - uniqueId: 437
+    lessonId: 80
+    themeId: 28
+    title: "\u0410\u043A\u0432\u0430\u0440\u0435\u043B\u044C\u043D\u044B\u0435 \u043A\u0440\u0430\u0441\u043A\u0438"
+    maxScore: 5
+  - uniqueId: 438
+    lessonId: 81
+    themeId: 28
+    title: "\u041C\u0430\u0442\u0440\u0451\u0448\u043A\u0438"
+    maxScore: 1
+  - uniqueId: 439
+    lessonId: 82
+    themeId: 28
+    title: "\u041F\u043E\u0434\u0430\u0440\u043A\u0438 \u043E\u0442 \u0434\u0435\u0434\u0430
+      \u043C\u043E\u0440\u043E\u0437\u0430"
+    maxScore: 3
+  - uniqueId: 440
+    lessonId: 83
+    themeId: 28
+    title: "\u041A\u0440\u0430\u0441\u043E\u0447\u043D\u044B\u0435 \u043A\u0443\u0431\u0438\u043A\u0438"
+    maxScore: 3
+  - uniqueId: 441
+    lessonId: 84
+    themeId: 28
+    title: "\u041F\u0440\u043E\u0442\u0438\u0432\u043E\u043F\u043E\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438"
+    maxScore: 3
+  - uniqueId: 442
+    lessonId: 85
+    themeId: 28
+    title: "\u0426\u0432\u0435\u0442\u043E\u0447\u043D\u0430\u044F \u043A\u043B\u0443\u043C\u0431\u0430"
+    maxScore: 7
+  - uniqueId: 443
+    lessonId: 86
+    themeId: 28
+    title: "\u0414\u0435\u043D\u044C \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u044F"
+    maxScore: 8
+  - uniqueId: 444
+    lessonId: 87
+    themeId: 28
+    title: "\u0422\u0430\u043D\u0433\u0440\u0430\u043C"
+    maxScore: 5
+  - uniqueId: 445
+    lessonId: 89
+    themeId: 28
+    title: "\u0421\u0431\u043E\u0440 \u0443\u0440\u043E\u0436\u0430\u044F"
+    maxScore: 1
+  - uniqueId: 446
+    lessonId: 90
+    themeId: 28
+    title: "\u0421\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0443\u0442\u044F\u0442"
+    maxScore: 7
+  - uniqueId: 447
+    lessonId: 91
+    themeId: 28
+    title: "\u0414\u043E\u043F\u043E\u043B\u043D\u0438 \u0440\u0438\u0441\u0443\u043D\u043E\u043A"
+    maxScore: 1
+  - uniqueId: 448
+    lessonId: 92
+    themeId: 28
+    title: "\u0423\u043A\u0440\u0430\u0441\u044C \u0451\u043B\u043A\u0443"
+    maxScore: 10
+  - uniqueId: 449
+    lessonId: 94
+    themeId: 28
+    title: "\u041C\u0438\u0448\u043A\u0430"
+    maxScore: 1
+  - uniqueId: 450
+    lessonId: 13
+    themeId: 38
+    title: "\u041E\u0441\u0435\u043D\u044C"
+    maxScore: 7
+  - uniqueId: 451
+    lessonId: 14
+    themeId: 38
+    title: "\u0413\u0440\u0438\u0431\u044B"
+    maxScore: 7
+  - uniqueId: 452
+    lessonId: 15
+    themeId: 38
+    title: "\u041B\u0435\u0442\u043E"
+    maxScore: 7
+  - uniqueId: 453
+    lessonId: 16
+    themeId: 38
+    title: "\u041C\u0435\u0431\u0435\u043B\u044C"
+    maxScore: 7
+  - uniqueId: 454
+    lessonId: 17
+    themeId: 38
+    title: "\u041D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u0435"
+    maxScore: 10
+  - uniqueId: 455
+    lessonId: 18
+    themeId: 38
+    title: "\u0414\u0435\u0440\u0435\u0432\u044C\u044F"
+    maxScore: 7
+  - uniqueId: 456
+    lessonId: 19
+    themeId: 38
+    title: "\u041F\u0440\u043E \u043F\u0442\u0438\u0446"
+    maxScore: 5
+  - uniqueId: 457
+    lessonId: 20
+    themeId: 38
+    title: "\u041F\u0440\u043E \u0446\u0432\u0435\u0442\u044B"
+    maxScore: 5
+  - uniqueId: 458
+    lessonId: 21
+    themeId: 38
+    title: "\u0412\u0435\u0441\u043D\u0430"
+    maxScore: 7
+  - uniqueId: 459
+    lessonId: 22
+    themeId: 38
+    title: "\u0415\u0434\u0430"
+    maxScore: 7
+  lessonsBackup:
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: 4pics1word
+    maxScore: 30
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword. Detskiye igrushki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword1
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword3
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword4
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword5
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword6
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Crossword7
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: poezd
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 1
+    title: Soti
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: elka
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: gribi
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: hvostiki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: jivotnie
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: korzinka
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: krilya
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: les
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: lishniy
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: otkritka
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: Podberi fragment kartinki
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: Prover svoy glazomer
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: Rasstav v nujnom poryadke
+    maxScore: 12
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: shkolnik
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: sir
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: snejinka
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: spryatalsya
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: ten
+    maxScore: 2
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: tort
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: Vitraji4
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: yabloki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: yayca
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: Zritelnoe vnimanie3
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 2
+    title: zzzBeeMazeGame
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 3
+    title: chasi
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 3
+    title: dninedeli
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 3
+    title: mesyaci
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 3
+    title: sezoni
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 3
+    title: vremenagoda
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 3
+    title: zkukushka
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 4
+    title: IzuchaemFiguri
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: chastiTela
+    maxScore: 2
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: cheyRebyonok
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: deystviya
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: dikiedomashnie
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: gdedom
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: gdewiroslo
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: goroshki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: gribi
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: gusenica
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: korobki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: listiya
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: malish
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: nasekomie
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: ovoshiifrulti
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: palci
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: pari
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: pomestam
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: portfel
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: professiya
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: SelectTransport
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: siedobnoe
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: sledi
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: transport
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: varenie
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: zelen
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 5
+    title: zveryata
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: associacii
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: busi
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: cepochka
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: chashka
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: figuri
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: jushki
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: kalendar
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: karandash
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: klyuchi
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: kolca
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: kubiki
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: lishniy
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: mag
+    maxScore: 2
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: matreshki
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: nepravilno
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: noski
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: palitra
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: peretashimatreshki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: podarki
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: poni
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: protivopolojnosti
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: rklumba
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: svechi
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: tangram
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: tochkikoshka
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: urojai
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: viborUtki
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: yayca
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: yolki
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: zabor
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: zaychik
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: ZZMozaikaLogic
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 6
+    title: ZZtangram 1
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Dnevnik chitatelya. N. Nosov - Fantazyori
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Dnevnik chitatelya. Rasskazi o prirode2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Grammaticheskiy blitz
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Literaturnaya viktorina v32
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Literaturnaya viktorina v63
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Novogodnie zabavi
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Ponimayu chto chitayu2
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Povishaem skorost chteniya
+    maxScore: 13
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 7
+    title: Znayu personajey skazok3
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: algebra
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: cveti
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Delenie s ostatkom
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Diagrammi
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Drobi
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Magicheskiye kvadrati
+    maxScore: 11
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Matematicheskoe domino
+    maxScore: 18
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Mnogougolnik
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Nahojdeniye summi neskolkih slagayemih
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Pismennoye umnojenie na dvuznachnoe chislo
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Plyus minus
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: raskraskaalgebra
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Reshayem i sostavlyayem zadachi
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Slojenie i vichitaniye dvuznachnih chisel
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Slojenie stolbikom
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Sostav chisla
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Sravneniye po kolichestvu
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Sravneniye predmetov po raznim priznakam
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Umnojenie summi na chislo
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Umnojeniye i deleniye stolbikom
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Uravneniya
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Uvelicheniye i umensheniye chisla v 10, 100, 1000 raz
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Vichitaniye s perehodom cherez desyatok
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Vspominaem tablitsu umnojeniya
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Zadachi v dva deystviya
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 8
+    title: Zadachi v dva deystviya2
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Chelovek
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Chto u nas pod nogami5
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Ekonomika3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Erudit
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Hochu vse znat
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Jivaya i nejivaya priroda3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Jivotniy mir5
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Kladovie zemli3
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Klassifikatsiya jivotnih3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Kosmicheskiye ispitaniya
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Kosmos, zvyozdi i planeti3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: KOSMOznatoki
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Logicheskiye karti5
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Mir glazami astronoma v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Mir glazami astronoma v2
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Mir glazami geografa2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Organi chuvstv2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Organi chuvstv4
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Poverhnost zemli v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Poverhnost zemli v2
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Prirodniye zoni mira v1
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Prirodniye zoni mira v2
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Stroenie tela cheloveka3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: V gostyax u istorii
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 9
+    title: Ya jivu v uzbekistane5
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Anvar idyot v pohod
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Dom v dereve
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Drujelyubniy lisyonok
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Gornaya tropa
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Gribochki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Ochertaniya stran22
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Sinichka i ryabina
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Volshebniy kavyor
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Xitriy kot
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: Zolotiye ribki
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: zzkenjaPuzzle1
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: zzkenjaPuzzle2
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 10
+    title: zzzzPuzzle
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Chas koda4
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Colors [Slovarniy diktant]
+    maxScore: 11
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Days of week [Slovarniy diktant]
+    maxScore: 12
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Family [Slovarniy diktant]
+    maxScore: 11
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Hello, how are you
+    maxScore: 11
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Idyom v pohod4
+    maxScore: 14
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: My Room [Slovarniy diktant]2
+    maxScore: 13
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: My schoolbag. Slovarniy diktant
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Plural nouns
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Ptica komandir2
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Question Words [Voprositelniye slova]
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 11
+    title: Sport [Slovarniy diktant]
+    maxScore: 13
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 12
+    title: PositionInSpace
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring1
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring2
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring3
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring4
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring5
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring6
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: Coloring7
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: RaskraskaBolshaya
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 13
+    title: raskraskaProstaya
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Antonimi3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Chasti rechi. Imya sushestvitelnoye
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Chasti rechi2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Chto takoe slovosochetanie3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Delenie na slogi
+    maxScore: 12
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Foneticheskiy razbor slova 3 klass3
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Glagol kak chast rechi
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Imya prilagatelnoye i imya sushestvitelnoye
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Izmenyaemiye i neizmenyaemie slova3
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Koren slova2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Lichniye mestoimeniya v1
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Lichniye mestoimeniya v2
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Mashina vremeni
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Mestoimenie v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Mestoimenie v2
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Misl
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Mnogoznachniye, zaimstvovanniye i ustarevshiye slova
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Narechie
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Nazad v proshloye
+    maxScore: 6
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Neznakomie slova
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Neznakomie slova2
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Neznakomiye slova
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Odnorodniye chleni predlojeniye
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Odnoznachnie i mnogoznachnie slova3
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Okonchaniya i formi slov2
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Okonchaniya sushestvitelnih v padejah v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Okonchaniya sushestvitelnih v padejah v2
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Padejniye okonchaniya v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Padejniye okonchaniya v2
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Podlejashee i skazuemoe. 2 klass2
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Pravopisaniye [b] razdelitelnih znakov
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Pravopisaniye [b] razdelitelnih znakov - chast 2
+    maxScore: 4
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Razdeli slova na slogi
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Sostav slova
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Spryajeniye glagolov v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Spryajeniye glagolov v2
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Tekst. Priznaki teksta2
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Voprositelniye predlojeniya
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Vse o glagole v1
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Vse o glagole v2
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 14
+    title: Znanie - sila
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 15
+    title: IqshaComparisonGame
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 16
+    title: podvodoy
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 16
+    title: podvodoy 1
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 16
+    title: podvodoy 2
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 16
+    title: ribki
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 16
+    title: takoyJe
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 17
+    title: Lyagushka poprigushka
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 17
+    title: rakushki
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 17
+    title: schet
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 17
+    title: Schyot sotnyami, razryadi
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 17
+    title: skolko
+    maxScore: 8
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 17
+    title: yabloni
+    maxScore: 3
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 18
+    title: cveti
+    maxScore: 0
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 18
+    title: ottenki
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 18
+    title: raduga
+    maxScore: 1
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 18
+    title: Smeshenie tsvetov
+    maxScore: 9
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 18
+    title: Tsveta
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 19
+    title: ChastiFigur
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Derevya
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Gribi
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Leto
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Mebel
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Nasekomiye
+    maxScore: 10
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Osen
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Pro ptits
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Pro tsveti
+    maxScore: 5
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Vesna
+    maxScore: 7
+  - uniqueId: 1
+    lessonId: 0
+    themeId: 20
+    title: Rebusi. Yeda
+    maxScore: 7

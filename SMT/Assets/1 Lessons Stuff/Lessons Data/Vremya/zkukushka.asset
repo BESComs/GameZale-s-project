@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: zkukushka
+  m_EditorClassIdentifier: 
+  lessonId: 264
+  maxScore: 5
+  lessonName: "\u041A\u0443\u043A\u0443\u0448\u043A\u0430"
+  lessonIcon: {fileID: 21300000, guid: 208e44a4e97d81745b0138d7a15681d2, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/02Time/zkukushka.unity
+  sceneAsset: {fileID: 102900000, guid: 8547e0c468fa3ed41b265973332a8198, type: 3}

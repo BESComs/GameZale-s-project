@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Volshebniy kavyor
+  m_EditorClassIdentifier: 
+  lessonId: 155
+  maxScore: 1
+  lessonName: "\u0412\u043E\u043B\u0448\u0435\u0431\u043D\u044B\u0439 \u043A\u043E\u0432\u0451\u0440"
+  lessonIcon: {fileID: 21300000, guid: ba4376cbcda172a438150b9666fdc5b5, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/09Puzzles/Volshebniy
+    kavyor.unity
+  sceneAsset: {fileID: 102900000, guid: ea1c3a8997c6da243b645900aa68e214, type: 3}

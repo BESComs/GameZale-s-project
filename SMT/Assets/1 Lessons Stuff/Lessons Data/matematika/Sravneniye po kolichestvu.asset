@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Sravneniye po kolichestvu
+  m_EditorClassIdentifier: 
+  lessonId: 113
+  maxScore: 8
+  lessonName: "\u0421\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u0435 \u043F\u043E
+    \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443"
+  lessonIcon: {fileID: 21300000, guid: 643a2ebb8f3a0264d9512b775277be9a, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/07Math/Sravneniye po
+    kolichestvu.unity
+  sceneAsset: {fileID: 102900000, guid: 2d3420653f3e1294b80df8c53150ed0b, type: 3}

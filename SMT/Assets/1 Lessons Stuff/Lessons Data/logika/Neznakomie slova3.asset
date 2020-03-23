@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Neznakomie slova3
+  m_EditorClassIdentifier: 
+  lessonId: 204
+  maxScore: 9
+  lessonName: "\u041F\u0440\u043E\u0432\u0435\u0440\u044C \u043B\u043E\u0433\u0438\u043A\u0443"
+  lessonIcon: {fileID: 21300000, guid: e6ae25d6338d9104f8410a930dc5296d, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/13Russian Language/Neznakomie
+    slova3.unity
+  sceneAsset: {fileID: 102900000, guid: f2492acbe615f0948b912ff5a672101e, type: 3}

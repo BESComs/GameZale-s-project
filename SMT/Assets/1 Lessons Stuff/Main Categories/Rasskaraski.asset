@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Rasskaraski
+  m_EditorClassIdentifier: 
+  categoryId: 14
+  categoryName: "\u0420\u0430\u0441\u043A\u0440\u0430\u0441\u043A\u0438"
+  categoryIcon: {fileID: 21300000, guid: 88463141475ddcc44b1eb266cd2672e9, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 96fbb996aa541444e9e4736ac577584f, type: 2}
+  - {fileID: 11400000, guid: d2388fc497a39a340b74c652bd6e1399, type: 2}
+  - {fileID: 11400000, guid: 574663d725e066b4a82eab2dd2c30648, type: 2}
+  - {fileID: 11400000, guid: fdc2da948caa5cf46b27d8f0a003bd54, type: 2}
+  - {fileID: 11400000, guid: 8662ec06317bdab40a6a8bded25ecb8e, type: 2}
+  - {fileID: 11400000, guid: 4d6a6acfb6250df4c9febc0999511344, type: 2}
+  - {fileID: 11400000, guid: dfd09633ffd0a074795deec6616e0077, type: 2}
+  - {fileID: 11400000, guid: d4147a645fb71fb49b69227ea0bb71bf, type: 2}
+  - {fileID: 11400000, guid: 2cdc3368a18d4f24b8f846022dad248d, type: 2}

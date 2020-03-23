@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: klyuchi
+  m_EditorClassIdentifier: 
+  lessonId: 72
+  maxScore: 4
+  lessonName: "\u041A\u043B\u044E\u0447\u0438\u043A\u0438"
+  lessonIcon: {fileID: 21300000, guid: 18dcbd29add1a114ea46a6002e813147, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/05Logic/klyuchi.unity
+  sceneAsset: {fileID: 102900000, guid: 45e2dc860a2a2d74e84f6253cf10be90, type: 3}

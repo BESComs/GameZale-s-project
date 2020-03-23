@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: skolko
+  m_EditorClassIdentifier: 
+  lessonId: 228
+  maxScore: 8
+  lessonName: "\u041F\u043E\u0441\u0447\u0438\u0442\u0430\u0439 \u0441\u043A\u043E\u043B\u044C\u043A\u043E?"
+  lessonIcon: {fileID: 21300000, guid: 8259242f4f7b8854383cc4fa329f0669, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/16Score frome 1 to 100/skolko.unity
+  sceneAsset: {fileID: 102900000, guid: 92a5118625e491d49ad5446957fffee0, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: My Room [Slovarniy diktant]2
+  m_EditorClassIdentifier: 
+  lessonId: 167
+  maxScore: 13
+  lessonName: My room
+  lessonIcon: {fileID: 21300000, guid: 643c06223a8bd9d4381b5117b5eafb5e, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/My
+    Room [Slovarniy diktant]2.unity
+  sceneAsset: {fileID: 102900000, guid: 668317245ada7e14f84abd776962b581, type: 3}

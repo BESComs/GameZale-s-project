@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Sport [Slovarniy diktant]
+  m_EditorClassIdentifier: 
+  lessonId: 172
+  maxScore: 13
+  lessonName: "\u0421\u043F\u043E\u0440\u0442"
+  lessonIcon: {fileID: 21300000, guid: 0926ae4f88087cd4bad8b64e5e81b6e0, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/10Preparation of school/Sport
+    [Slovarniy diktant].unity
+  sceneAsset: {fileID: 102900000, guid: 51f650ada6ce9c64a9c46d4803f6725a, type: 3}

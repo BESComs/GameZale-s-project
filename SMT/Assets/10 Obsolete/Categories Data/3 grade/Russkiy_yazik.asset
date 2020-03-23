@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Russkiy_yazik
+  m_EditorClassIdentifier: 
+  categoryId: 23
+  categoryName: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439 \u042F\u0437\u044B\u043A"
+  categoryIcon: {fileID: 21300000, guid: f8db9491c4608104faecef9651cad801, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 964778497033d404d99c7e48becf029d, type: 2}
+  - {fileID: 11400000, guid: 03a4f131f1db8ca498a8795c40ccd9b7, type: 2}
+  - {fileID: 11400000, guid: 07f0d1036461a674a87976d6e2febffc, type: 2}
+  - {fileID: 11400000, guid: d05b5660a1eaac8498d2c87dbd48dd66, type: 2}
+  - {fileID: 11400000, guid: 3bbb9ede4f6f75f4daa611eaf764bee6, type: 2}
+  - {fileID: 11400000, guid: 5779144aaa384314b800e5c77139ef38, type: 2}
+  - {fileID: 11400000, guid: a7ceddc43c9d5a740b9665484da87403, type: 2}
+  - {fileID: 11400000, guid: 10a3e2fb47b3a4645a4043977b5201f6, type: 2}
+  - {fileID: 11400000, guid: 1ffaaadab50723d4fb31de35c5edfb69, type: 2}
+  - {fileID: 11400000, guid: 379c3ad9d3de686479ca81ed8c044988, type: 2}
+  - {fileID: 11400000, guid: 5dac7a79eed9fcf4fb97cd9ac100c198, type: 2}
+  - {fileID: 11400000, guid: 3bc1724882be66e4eae64fff9b3c3799, type: 2}
+  - {fileID: 11400000, guid: 2e83c3f6d4ed57a4a89d10795bc998a0, type: 2}
+  - {fileID: 11400000, guid: 2dcdc824362cd4845bd3a420f0f9a7d1, type: 2}
+  - {fileID: 11400000, guid: 3e2fea83caf38eb4796f0b18ea8d221b, type: 2}
+  - {fileID: 11400000, guid: 4f63d93cecb90474085beeaced8e8c26, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: mag
+  m_EditorClassIdentifier: 
+  lessonId: 76
+  maxScore: 2
+  lessonName: "\u0413\u0434\u0435 \u0447\u044C\u044F \u0442\u0435\u043D\u044C?"
+  lessonIcon: {fileID: 21300000, guid: a4893a6ea6c612c44a8bb8aafd2302d7, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/05Logic/mag.unity
+  sceneAsset: {fileID: 102900000, guid: 9d852a952739fdd47bbff3c02d08c822, type: 3}

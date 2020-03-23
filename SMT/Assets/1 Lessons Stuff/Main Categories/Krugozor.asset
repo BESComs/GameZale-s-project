@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Krugozor
+  m_EditorClassIdentifier: 
+  categoryId: 6
+  categoryName: "\u041A\u0440\u0443\u0433\u043E\u0437\u043E\u0440"
+  categoryIcon: {fileID: 21300000, guid: 8537bc81788ab354e8f79447209ea255, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: ec4adb03fd4dad24a968b9cf2f1d1199, type: 2}
+  - {fileID: 11400000, guid: 0547c7a58146da743a418a9e3dfa7700, type: 2}
+  - {fileID: 11400000, guid: 5841352d16069e24099f6036dc66ac9f, type: 2}
+  - {fileID: 11400000, guid: 6b5419c6b0cf6ec4692f2d62a161b4b2, type: 2}
+  - {fileID: 11400000, guid: 718c123dc935baa4bb7769c65d2dbaf3, type: 2}
+  - {fileID: 11400000, guid: aa88997c1c3161244874e869a88a21d0, type: 2}
+  - {fileID: 11400000, guid: b084530547a5a43428320243a000c004, type: 2}
+  - {fileID: 11400000, guid: fda5cd84b0d86124a988768846aaa591, type: 2}
+  - {fileID: 11400000, guid: f6e00d3ba7504dc49a4a0514f0e5bee1, type: 2}
+  - {fileID: 11400000, guid: 62f34d231baa8fa4a9480935d42c906e, type: 2}
+  - {fileID: 11400000, guid: 7c47a204ffcccb94d8f860f37949b166, type: 2}
+  - {fileID: 11400000, guid: 87c85a7932d8d964386ebf471ebc5f13, type: 2}
+  - {fileID: 11400000, guid: 12a2c783ad414ad4b9ef5c0f0a044b73, type: 2}
+  - {fileID: 11400000, guid: f87bb7d0e5d792d4fbc6aefbed9b9566, type: 2}
+  - {fileID: 11400000, guid: e271482f1fbe4744eb7ba8363d658c7f, type: 2}
+  - {fileID: 11400000, guid: 0e46b6e4b3563914faed76fbbcbf462a, type: 2}
+  - {fileID: 11400000, guid: 198ff4cb77e37494b8f05a89925bd173, type: 2}
+  - {fileID: 11400000, guid: d27cf339238adb248b295b89ae260955, type: 2}
+  - {fileID: 11400000, guid: 6131bf1231b0cf348ba6b44c26a0b118, type: 2}
+  - {fileID: 11400000, guid: 5b2601896ac24ee428e5b15e7a78dc76, type: 2}
+  - {fileID: 11400000, guid: 60f6728356ae0ea45ba372a9d27a06de, type: 2}
+  - {fileID: 11400000, guid: acb6abc32219e3340ad5e4d8eaffe954, type: 2}
+  - {fileID: 11400000, guid: c34b9d2d07d6f3645a99cd8f22f00716, type: 2}
+  - {fileID: 11400000, guid: 914841dc84edf004a88e3420b6f3e65b, type: 2}
+  - {fileID: 11400000, guid: 071362b95f8adb8458a91e83e1b6fef5, type: 2}
+  - {fileID: 11400000, guid: 31926b9a0fb93ca41828f209e22dc235, type: 2}

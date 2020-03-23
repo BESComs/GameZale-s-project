@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Matematika
+  m_EditorClassIdentifier: 
+  categoryId: 29
+  categoryName: "\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430"
+  categoryIcon: {fileID: 21300000, guid: 16dae78f63afa544f88bf4ac82ff56cc, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 7baf19ee6ed905043823f1470c0d06b9, type: 2}
+  - {fileID: 11400000, guid: 97f358327e7a6d544a02451c8746b4ec, type: 2}
+  - {fileID: 11400000, guid: 56c78971180f1334c9019b503906fa35, type: 2}

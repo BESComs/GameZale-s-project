@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Plyus minus
+  m_EditorClassIdentifier: 
+  lessonId: 107
+  maxScore: 10
+  lessonName: "\u041F\u043B\u044E\u0441 \u043C\u0438\u043D\u0443\u0441"
+  lessonIcon: {fileID: 21300000, guid: 52327e8aaf843f145a76d158cb1903b9, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/07Math/Plyus minus.unity
+  sceneAsset: {fileID: 102900000, guid: 4dac1acb7d9155f49bb7e5819f39612b, type: 3}

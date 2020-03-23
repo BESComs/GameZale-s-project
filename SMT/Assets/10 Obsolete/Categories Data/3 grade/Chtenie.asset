@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Chtenie
+  m_EditorClassIdentifier: 
+  categoryId: 38
+  categoryName: "\u0427\u0442\u0435\u043D\u0438\u0435 \u0438 \u0433\u0440\u0430\u043C\u043E\u0442\u043D\u043E\u0441\u0442\u044C"
+  categoryIcon: {fileID: 21300000, guid: b0191141d0fcdc146b1dc84f33bf6f11, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 1c226a838813994468ff59130e5f601e, type: 2}
+  - {fileID: 11400000, guid: 55679f46b2c02084bb5433cd3cf56880, type: 2}
+  - {fileID: 11400000, guid: 0b03d3305a8d8d6418d079cd782968c9, type: 2}
+  - {fileID: 11400000, guid: 11ce707947aa74f48beeec740ab52bb9, type: 2}
+  - {fileID: 11400000, guid: 092f8b7d2d8cb6f478f38c7778a5ac8a, type: 2}
+  - {fileID: 11400000, guid: 50f833606414bed4f82f604d45fefa08, type: 2}
+  - {fileID: 11400000, guid: 373a7a56fe17f59449d6cec3e1fbd635, type: 2}
+  - {fileID: 11400000, guid: 39137281b071b6e47accd5b0a1a223ab, type: 2}
+  - {fileID: 11400000, guid: 663d366b3bb274346a88fa6236a0f603, type: 2}
+  - {fileID: 11400000, guid: 4fee8bfe56712c847abf913e7eb6dc58, type: 2}

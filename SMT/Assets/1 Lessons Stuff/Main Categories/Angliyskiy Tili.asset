@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Angliyskiy Tili
+  m_EditorClassIdentifier: 
+  categoryId: 21
+  categoryName: "\u0410\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u042F\u0437\u044B\u043A"
+  categoryIcon: {fileID: 21300000, guid: 115927637b8220143b177453283a4be8, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 32719744e8982d14d8d4ac6864dd6431, type: 2}
+  - {fileID: 11400000, guid: 184df1d6168884949b5a46846c6e1b5d, type: 2}
+  - {fileID: 11400000, guid: dad355d65e58b60419eb15a470c0f969, type: 2}
+  - {fileID: 11400000, guid: 206696f99a257f740be523ab5f4b1273, type: 2}
+  - {fileID: 11400000, guid: 53c575eb52f40784dbc09ba906ff67fb, type: 2}
+  - {fileID: 11400000, guid: fd16d4c39ab4b7646bffb7fd63d7ecbb, type: 2}
+  - {fileID: 11400000, guid: 7531780cd0a03e147b30d497dff755b1, type: 2}
+  - {fileID: 11400000, guid: f1f81741fbeb58b4583bb877f4e3f882, type: 2}
+  - {fileID: 11400000, guid: 00fd5f2622e35da419d4c44a464893d9, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: Dnevnik chitatelya. N. Nosov - Fantazyori
+  m_EditorClassIdentifier: 
+  lessonId: 55
+  maxScore: 8
+  lessonName: "\u041D. \u041D\u043E\u0441\u043E\u0432 - \u0444\u0430\u043D\u0442\u0430\u0437\u0451\u0440\u044B"
+  lessonIcon: {fileID: 21300000, guid: 65bc87b566afae640b5bd7cdec8c376c, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/06Literature and reading/Dnevnik
+    chitatelya. N. Nosov - Fantazyori.unity
+  sceneAsset: {fileID: 102900000, guid: 2ecc5bd652242ff489d450612acecb52, type: 3}

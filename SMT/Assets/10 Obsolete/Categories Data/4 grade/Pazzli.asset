@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Pazzli
+  m_EditorClassIdentifier: 
+  categoryId: 31
+  categoryName: "\u041F\u0430\u0437\u043B\u044B"
+  categoryIcon: {fileID: 21300000, guid: 87714e17c5b955548a3df96096c35cfa, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: aa16dc297ec33fd4899e4d8996b8c8d7, type: 2}
+  - {fileID: 11400000, guid: 9fc87fb8ff963e34fa84efbef346f02d, type: 2}
+  - {fileID: 11400000, guid: a315ed47cb084c2409e0576936024439, type: 2}
+  - {fileID: 11400000, guid: 3f42ec45dd33c114193667263c962266, type: 2}
+  - {fileID: 11400000, guid: 646f66e12f0a7d34d825d414175a72ec, type: 2}
+  - {fileID: 11400000, guid: d090c4c16d432cc4b8e157d7a13b470e, type: 2}
+  - {fileID: 11400000, guid: 379249c06e1e8004a885dfb02249e6bb, type: 2}
+  - {fileID: 11400000, guid: bfd231711ff3b0e479940f81a10fd889, type: 2}
+  - {fileID: 11400000, guid: 65905e113c525de42a15fb48eec15395, type: 2}
+  - {fileID: 11400000, guid: b385847cfc3ec5140b0acad0741d20fc, type: 2}
+  - {fileID: 11400000, guid: e40f922dbc65fd742a32ddb678b7f22a, type: 2}
+  - {fileID: 11400000, guid: 244cb1bcdc2deff4d822a5b66b0ed4a8, type: 2}
+  - {fileID: 11400000, guid: ed3d2a51044503f4a82fd73ee84e471b, type: 2}

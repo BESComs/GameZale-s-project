@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac3b55bffe0b09f42905f00517e0eb63, type: 3}
+  m_Name: cveti
+  m_EditorClassIdentifier: 
+  lessonId: 23
+  maxScore: 5
+  lessonName: "\u0423\u0447\u0438\u043C \u0446\u0432\u0435\u0442\u0430"
+  lessonIcon: {fileID: 21300000, guid: 053ba6a01cdc79145bd12e1b0af0a32e, type: 3}
+  scenePath: Assets/Work Directory/Denis/Resources/Game Scene/17Colors/cveti.unity
+  sceneAsset: {fileID: 102900000, guid: 7cc6c66dc97f2184582dfaf3f244921b, type: 3}

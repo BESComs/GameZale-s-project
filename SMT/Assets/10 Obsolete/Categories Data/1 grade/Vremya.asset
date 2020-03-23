@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8427f0d6eed2419eb50306166da1e, type: 3}
+  m_Name: Vremya
+  m_EditorClassIdentifier: 
+  categoryId: 10
+  categoryName: "\u0412\u0440\u0435\u043C\u044F"
+  categoryIcon: {fileID: 21300000, guid: 95308b254f66d0845a5f32b7146b92b1, type: 3}
+  lessons:
+  - {fileID: 11400000, guid: 037b623e9fdff7847a8b862843f6252b, type: 2}
+  - {fileID: 11400000, guid: 7215b1fc68dfe3349aa6839279f5fa35, type: 2}
+  - {fileID: 11400000, guid: 18c05744f6ad5d9479eaf91610eefa8c, type: 2}
+  - {fileID: 11400000, guid: 53168b87870bc144ea5f263421021a26, type: 2}
+  - {fileID: 11400000, guid: 977b737ec1fe50d49ba348b14e7cbfed, type: 2}
+  - {fileID: 11400000, guid: 2a22101442a254e408e74d91eb71f82f, type: 2}
