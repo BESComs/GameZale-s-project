@@ -1,1 +1,0 @@
-# GameZale-s-project
